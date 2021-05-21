@@ -1,0 +1,14 @@
+10/05/21 11:15
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      724	    8135	                    41105	                    48534	        1	
+Pendientes:       	      724	    8135	                    41105	                    48534	        1	
+Únicos:           	      618	    7864	                    39633	                    46899	        1	
+Pendientes únicos:	      618	    7864	                    39633	                    46899	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo           	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+GS7001-IntroducingLO (2).odt	               724	                 724	             618	                        618	          8135	               8135	           7864	                      7864	                          41105	                               41105	                           39633	                                      39633	                          48534	                               48534	                           46899	                                      46899	
