@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Restart in Normal Mode&lt;/f0&gt; – If you arrived in Safe Mode accidentally, this option will discard any changes, terminate Safe Mode, and restart LibreOffice normally.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T154139Z" creationid="Almudena" creationdate="20210526T154139Z">
+        <seg>- &lt;f0&gt;Reiniciar en modo normal&lt;/f0&gt;: si llegó al modo seguro accidentalmente, esta opción descartará cualquier cambio, terminará el modo seguro y reiniciará LibreOffice normalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Restore from backup&lt;/f0&gt; – LibreOffice keeps backups of previous configurations and activated extensions.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T145555Z" creationid="Almudena" creationdate="20210526T145555Z">
