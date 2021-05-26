@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click one of the icons to open a new document of that type, or click the &lt;f3&gt;Templates&lt;/f3&gt; icon to start a new document using a template.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T122414Z" creationid="Elena" creationdate="20210526T122414Z">
+        <seg>Haga clic en uno de los iconos para abrir un nuevo documento de ese tipo, o haga clic en el icono &lt;f3&gt;Plantillas&lt;/f3&gt; para iniciar un nuevo documento utilizando una plantilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091817Z" creationid="Elena" creationdate="20210526T090654Z">
@@ -1362,6 +1370,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112735Z" creationid="Almudena" creationdate="20210526T112735Z">
         <seg>Solución de problemas de LibreOffice en modo seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document in the context menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T122535Z" creationid="Elena" creationdate="20210526T122535Z">
+        <seg>Utilice &lt;f0&gt;Archivo &gt; Nuevo&lt;/f0&gt; en la barra de menú y seleccione el tipo de documento en el menú contextual.</seg>
       </tuv>
     </tu>
     <tu>
