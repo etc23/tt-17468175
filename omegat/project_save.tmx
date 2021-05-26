@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150834Z" creationid="paula" creationdate="20210526T150834Z">
+        <seg>Comentarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T120113Z" creationid="Elena" creationdate="20210526T105025Z">
@@ -1618,6 +1626,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T112453Z" creationid="paula" creationdate="20210516T202025Z">
         <seg>Para desplazar una barra de herramientas anclada, haga click en la barra de su título y arrástrela hasta una nueva posición flotante o ancle la barra de herramientas en la parte superior o inferior de la ventana principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To previous editions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150807Z" creationid="paula" creationdate="20210526T150807Z">
+        <seg>A las ediciones anteriores</seg>
       </tuv>
     </tu>
     <tu>
