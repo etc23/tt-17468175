@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Closing LibreOffice</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112258Z" creationid="Almudena" creationdate="20210526T112258Z">
+        <seg>Cerrar LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closing a document</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T111133Z" creationid="Almudena" creationdate="20210526T111133Z">
@@ -278,10 +286,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Windows and Linux, when you close the last document using the X on the title bar of the window, then LibreOffice will close completely.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112439Z" creationid="Almudena" creationdate="20210526T112439Z">
+        <seg>En Windows y Linux, cuando cierre el último documento utilizando la X de la barra de título de la ventana, LibreOffice se cerrará completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In general, you start LibreOffice the same way you start any other program on your computer.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141858Z" creationid="Almudena" creationdate="20210514T141858Z">
         <seg>En general, se inicia LibreOffice de la misma manera que cualquier otro programa en el ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In macOS, go to &lt;f1&gt;LibreOffice &gt; Quit LibreOffice&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112418Z" creationid="Almudena" creationdate="20210526T112418Z">
+        <seg>En macOS, vaya a &lt;f1&gt;LibreOffice &gt; Salir de LibreOffice&lt;/f1&gt; en la barra de menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In macOS, you need to use &lt;f0&gt;LibreOffice &gt; Quit LibreOffice.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112456Z" creationid="Almudena" creationdate="20210526T112456Z">
+        <seg>En macOS, debe utilizar &lt;f0&gt;LibreOffice &gt; Salir de LibreOffice.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit LibreOffice&lt;/f0&gt; on the Menu bar in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112359Z" creationid="Almudena" creationdate="20210526T112359Z">
+        <seg>Para cerrar LibreOffice completamente, vaya a &lt;f0&gt;Archivo &gt; Salir de LibreOffice&lt;/f0&gt; en la barra de menú en Windows y Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To close a toolbar, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close Toolbar&lt;/f1&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T220808Z" creationid="Almudena" creationdate="20210525T220808Z">
@@ -730,6 +770,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T110621Z" creationid="Elena" creationdate="20210526T110621Z">
         <seg>También puede iniciar un nuevo documento de una de las siguientes maneras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use a keyboard shortcut as follows:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112538Z" creationid="Almudena" creationdate="20210526T112538Z">
+        <seg>También puede utilizar un atajo de teclado como el siguiente:</seg>
       </tuv>
     </tu>
     <tu>
