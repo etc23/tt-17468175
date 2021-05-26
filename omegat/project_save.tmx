@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Frequently asked questions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160655Z" creationid="Almudena" creationdate="20210526T160655Z">
+        <seg>Preguntas más frecuentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNU/Linux: Kernel version 3.10 or higher and glibc2 v2.17 or higher.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T083410Z" creationid="Elena" creationdate="20210526T083410Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T211355Z" creationid="paula" creationdate="20210516T211355Z">
         <seg>Si no tiene Microsoft Office instalado en su ordenador, o si Microsoft Office está instalado pero ha asociado los tipos de archivo de Microsoft Office con LibreOffice, cuando haga doble clic en los siguientes archivos, se abrirán en LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160612Z" creationid="Almudena" creationdate="20210526T160612Z">
+        <seg>Si no tiene la ayuda sin conexión instalada en su ordenador y está conectado a Internet, su navegador predeterminado abrirá las páginas de ayuda en línea del sitio web de LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +1882,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T114311Z" creationid="Almudena" creationdate="20210515T114311Z">
         <seg>Submenús y paleta de herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Help menu also includes links to other LibreOffice information and support facilities.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160640Z" creationid="Almudena" creationdate="20210526T160640Z">
+        <seg>El menú de Ayuda también incluye enlaces a otros servicios de información y apoyo de LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
