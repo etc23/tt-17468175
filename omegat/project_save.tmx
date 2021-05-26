@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112204Z" creationid="Almudena" creationdate="20210526T112204Z">
+        <seg>Precaución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the password</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T100722Z" creationid="Elena" creationdate="20210526T100722Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T102250Z" creationid="Almudena" creationdate="20210526T102250Z">
         <seg>Capítulo 1 Introducción a LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose whether to save or discard your changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112202Z" creationid="Almudena" creationdate="20210526T112202Z">
+        <seg>Elija si desea guardar o descartar los cambios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +254,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If more than one document is open and you want to close one of them, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the title bar of that document’s window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112139Z" creationid="Almudena" creationdate="20210526T112027Z">
+        <seg>Si hay más de un documento abierto y quiere cerrar uno de ellos, vaya a &lt;f0&gt;Archivo &gt; Cerrar&lt;/f0&gt; en la barra de menú o haga clic en la X del extremo derecho o izquierdo de la barra de título de la ventana de ese documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only one document is open and you want to close that document, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the Menu bar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T111316Z" creationid="Almudena" creationdate="20210526T111316Z">
-        <seg>Si solo hay un documento abierto y quiere cerrarlo, vaya a Archivo &gt; Cerrar en la barra de menús o haga clic en la X del extremo derecho o izquierdo de la barra de menús.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112051Z" creationid="Almudena" creationdate="20210526T111316Z">
+        <seg>Si solo hay un documento abierto y quiere cerrarlo, vaya a &lt;f0&gt;Archivo &gt; Cerrar &lt;/f0&gt;en la barra de menú o haga clic en la X del extremo derecho o izquierdo de la barra de menús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the document has not been saved since the last change, a message box is displayed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112152Z" creationid="Almudena" creationdate="20210526T112152Z">
+        <seg>Si el documento no se ha guardado desde la última modificación, aparecerá un cuadro de mensaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not saving your document could result in the loss of recently made changes, or worse still, the entire file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112254Z" creationid="Almudena" creationdate="20210526T112254Z">
+        <seg>Si no se guarda el documento, se pueden perder los cambios realizados recientemente o, peor aún, todo el archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows and Linux, entries for LibreOffice and each of its components appear in the system menu of your computer.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141954Z" creationid="Almudena" creationdate="20210514T141954Z">
@@ -354,6 +394,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T142022Z" creationid="Almudena" creationdate="20210514T142022Z">
         <seg>En macOS, solo se añade una entrada para LibreOffice en el menú Aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On macOS, the document closes and only the Menu bar remains at the top of the screen.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T111512Z" creationid="Almudena" creationdate="20210526T111512Z">
+        <seg>En macOS, el documento se cierra y solo queda la barra de menús en la parte superior de la pantalla.</seg>
       </tuv>
     </tu>
     <tu>
