@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: LibreOffice Safe Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T115555Z" creationid="Almudena" creationdate="20210526T115555Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: Modo seguro de LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T110826Z" creationid="Elena" creationdate="20210526T110826Z">
