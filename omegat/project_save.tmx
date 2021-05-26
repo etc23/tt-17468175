@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Toolbar handles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T164841Z" creationid="paula" creationdate="20210526T164841Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Barras de herramientas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T161020Z" creationid="paula" creationdate="20210526T161020Z">
@@ -1552,8 +1560,8 @@
       <tuv lang="EN">
         <seg>Move the mouse cursor over the toolbar handle, which is the small vertical bar to the left of a docked toolbar and highlighted in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T164740Z" creationid="paula" creationdate="20210526T164740Z">
-        <seg>Mueva el cursor del ratón sobre la barra de herramientas (la barra vertical pequeña situada a la izquierda de una barra de herramientas anclada y subrayada en Figure) &lt;t0/&gt;3&lt;t1/&gt;.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T164811Z" creationid="paula" creationdate="20210526T164740Z">
+        <seg>Mueva el cursor del ratón sobre la barra de herramientas (la barra vertical pequeña situada a la izquierda de una barra de herramientas anclada y subrayada en Figure) &lt;t0/&gt;3&lt;t/0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112538Z" creationid="Almudena" creationdate="20210526T112538Z">
         <seg>También puede utilizar un atajo de teclado como el siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can dock these &lt;t0/&gt;toolbars to the top or bottom of the main window, or reposition them on your computer display (see “&lt;rf1&gt;Moving toolbars&lt;/rf1&gt;” above).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T164953Z" creationid="paula" creationdate="20210526T164953Z">
+        <seg>Puede anclar estas &lt;t0/&gt;barras en la parte superior o inferior de la ventana principal, o reposicionarlas en la muestra de tu ordenador (ver “&lt;rf1&gt;Barras móviles&lt;/rf1&gt;” arriba).</seg>
       </tuv>
     </tu>
     <tu>
