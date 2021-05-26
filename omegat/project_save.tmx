@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc (spreadsheets)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155452Z" creationid="Almudena" creationdate="20210526T155452Z">
+        <seg>- Calc (hojas de cálculo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc can also export spreadsheets in several formats, including for example Comma Separated Value (CSV), Adobe PDF and HTML formats.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T142520Z" creationid="JoseCarlos" creationdate="20210525T142520Z">
@@ -1126,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155716Z" creationid="Almudena" creationdate="20210526T155716Z">
+        <seg>También cubre algunas de las características comunes a todos los componentes, incluyendo la configuración y personalización, estilos y plantillas, grabación de macros e impresión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also supports popular services like Google Drive and Microsoft OneNote, as well as commercial and open source servers that implement the OASIS CMIS standard.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092351Z" creationid="Elena" creationdate="20210526T092351Z">
@@ -1338,6 +1354,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T085432Z" creationid="Almudena" creationdate="20210510T085432Z">
         <seg>Muchas aplicaciones que están disponibles en otros paquetes de ofimática como complementos con un coste adicional (como la exportación de PDF) son gratuitas con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Math (equation editor)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155503Z" creationid="Almudena" creationdate="20210526T155503Z">
+        <seg>- Math (editor de ecuaciones)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This book introduces the main components of LibreOffice:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155441Z" creationid="Almudena" creationdate="20210526T155441Z">
+        <seg>Este libro presenta los principales componentes de LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright © &lt;t0&gt;2020&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150115Z" creationid="paula" creationdate="20210526T150115Z">
@@ -2062,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What’s in this book?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155414Z" creationid="Almudena" creationdate="20210526T155414Z">
+        <seg>¿Qué contiene este libro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;8&lt;/t2&gt;) is shown.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T123042Z" creationid="Elena" creationdate="20210526T090350Z">
@@ -2122,6 +2162,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160859Z" creationid="JoseCarlos" creationdate="20210513T160859Z">
         <seg>Los usuarios de Windows también pueden obtener LibreOffice Vanilla en la Microsoft Store por un pequeño precio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer (word processing)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155448Z" creationid="Almudena" creationdate="20210526T155448Z">
+        <seg>- Writer (procesamiento de textos)</seg>
       </tuv>
     </tu>
     <tu>
