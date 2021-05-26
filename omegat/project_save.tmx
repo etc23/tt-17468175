@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As many as you like.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164902Z" creationid="Almudena" creationdate="20210526T164902Z">
+        <seg>En todos los que quiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102915Z" creationid="Elena" creationdate="20210526T102915Z">
@@ -1014,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How many computers may I install it on?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164859Z" creationid="Almudena" creationdate="20210526T164859Z">
+        <seg>¿En cuántos ordenadores puedo instalarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to get the software</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160713Z" creationid="JoseCarlos" creationdate="20210513T160713Z">
@@ -1174,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, over 70 spelling, hyphenation, and thesaurus dictionaries are available for languages and dialects that do not have a localized program interface.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165057Z" creationid="Almudena" creationdate="20210526T165057Z">
+        <seg>Además, hay más de 70 diccionarios de ortografía, guiones y tesauros disponibles para los idiomas y dialectos que no tienen una interfaz de programa localizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In general, you start LibreOffice the same way you start any other program on your computer.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141858Z" creationid="Almudena" creationdate="20210514T141858Z">
@@ -1242,6 +1266,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T145921Z" creationid="paula" creationdate="20210526T145921Z">
         <seg>Presentación de LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is LibreOffice available in my language?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164907Z" creationid="Almudena" creationdate="20210526T164907Z">
+        <seg>¿Está LibreOffice disponible en mi idioma?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1430,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has been translated (localized for more than 80%, both UI and Help) into over 46 languages, so your language probably is supported.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164922Z" creationid="Almudena" creationdate="20210526T164922Z">
+        <seg>LibreOffice ha sido traducido (localizado en más del 80%, tanto en la interfaz de usuario como en la ayuda) a más de 46 idiomas, por lo que probablemente su idioma sea compatible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has two types of toolbars: docked (fixed in place) and floating.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210514T142444Z" creationid="JoseCarlos" creationdate="20210514T142444Z">
@@ -1494,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localisation is well under way for another 30+ languages (50-80%) and for another 50+ languages help is more than welcome.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165021Z" creationid="Almudena" creationdate="20210526T165021Z">
+        <seg>La localización está en marcha para otros 30+ idiomas (50-80%) y para otros 50+ idiomas la ayuda es más que bienvenida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T085432Z" creationid="Almudena" creationdate="20210510T085432Z">
@@ -1522,6 +1570,30 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T083207Z" creationid="Almudena" creationdate="20210510T083207Z">
         <seg>Math es el editor de fórmulas o ecuaciones de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I distribute LibreOffice to anyone?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164846Z" creationid="Almudena" creationdate="20210526T164846Z">
+        <seg>¿Puedo distribuir LibreOffice a cualquiera?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I sell it?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164849Z" creationid="Almudena" creationdate="20210526T164849Z">
+        <seg>¿Puedo venderlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I use it in my business?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164853Z" creationid="Almudena" creationdate="20210526T164853Z">
+        <seg>¿Puedo utilizarlo en mi empresa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1642,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T203505Z" creationid="paula" creationdate="20210514T142331Z">
         <seg>Barras de herramientas móviles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T163146Z" creationid="Almudena" creationdate="20210526T163146Z">
+        <seg>El nuevo código está disponible bajo LGPL 3.0 y MPL 2.0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,6 +2594,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210513T212434Z" creationid="paula" creationdate="20210513T212434Z">
         <seg>La sofisticada herramienta Writer sirve para crear cartas, libros, informes, artículos, folletos y otros documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T164855Z" creationid="Almudena" creationdate="20210526T164855Z">
+        <seg>Sí.</seg>
       </tuv>
     </tu>
     <tu>
