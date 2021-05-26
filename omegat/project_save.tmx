@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T163135Z" creationid="Almudena" creationdate="20210526T163135Z">
+        <seg>Se basa en el código de Apache OpenOffice disponible bajo la Licencia Apache 2.0, pero también incluye software que difiere de una versión a otra bajo una variedad de otras licencias de Código Abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is consistent across the LibreOffice applications.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T204540Z" creationid="JoseCarlos" creationdate="20210516T204540Z">
@@ -1434,6 +1442,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T100700Z" creationid="paula" creationdate="20210526T100700Z">
         <seg>LibreOffice es un paquete de oficina totalmente equipado que se encuentra disponible de forma gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is distributed under &lt;i0/&gt;the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T162402Z" creationid="Almudena" creationdate="20210526T162402Z">
+        <seg>LibreOffice se distribuye bajo &lt;i0/&gt;la Licencia Pública de Mozilla (MPL) aprobada por la Iniciativa de Código Abierto (OSI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1624,8 @@
       <tuv lang="EN">
         <seg>Open Source Initiative (OSI)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T162341Z" creationid="Almudena" creationdate="20210526T162341Z">
-        <seg>&lt;f0&gt;Es de cógido abierto.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T162437Z" creationid="Almudena" creationdate="20210526T162341Z">
+        <seg>Iniciativa de Código Abierto (OSI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1786,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T160234Z" creationid="paula" creationdate="20210526T160234Z">
         <seg>Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T162542Z" creationid="Almudena" creationdate="20210526T162542Z">
+        <seg>Véase &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
