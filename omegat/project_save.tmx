@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How can you make it for free?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165324Z" creationid="Almudena" creationdate="20210526T165324Z">
+        <seg>¿Cómo se puede conseguir gratis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How is LibreOffice licensed?</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T161329Z" creationid="Almudena" creationdate="20210526T161329Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T154900Z" creationid="Almudena" creationdate="20210526T154900Z">
         <seg>Sin embargo, tenga en cuenta que su perfil de usuario subido puede contener información sensible como extensiones instaladas, diccionarios personales y configuraciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I am writing a software application.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165435Z" creationid="Almudena" creationdate="20210526T165435Z">
+        <seg>Estoy escribiendo una aplicación de software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1514,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T100700Z" creationid="paula" creationdate="20210526T100700Z">
         <seg>LibreOffice es un paquete de oficina totalmente equipado que se encuentra disponible de forma gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165333Z" creationid="Almudena" creationdate="20210526T165333Z">
+        <seg>LibreOffice está desarrollado y mantenido por voluntarios y cuenta con el respaldo de varias organizaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2114,6 +2138,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T105046Z" creationid="Elena" creationdate="20210526T105046Z">
         <seg>El diálogo se atenuará hasta que se establezca la conexión con el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dictionaries are available from the LibreOffice website at: &lt;a0&gt;&lt;f1&gt;www.libreoffice.org&lt;/f1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165254Z" creationid="Almudena" creationdate="20210526T165254Z">
+        <seg>Los diccionarios están disponibles en el sitio web de LibreOffice en: &lt;a0&gt;&lt;f1&gt;www.libreoffice.org.&lt;/f1&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
