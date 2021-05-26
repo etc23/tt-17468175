@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092132Z" creationid="Elena" creationdate="20210526T092132Z">
+        <seg>Haga clic en &lt;f0&gt;Aceptar&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091246Z" creationid="Elena" creationdate="20210526T091246Z">
@@ -46,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keeping files on remote servers allows you to work with the documents using different computers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092209Z" creationid="Elena" creationdate="20210526T092209Z">
+        <seg>Guardar archivos en servidores remotos le permite trabajar con los documentos utilizando diferentes ordenadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice can open and save files stored on remote servers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092150Z" creationid="Elena" creationdate="20210526T092150Z">
+        <seg>LibreOffice puede abrir y guardar archivos almacenados en servidores remotos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), click &lt;f1&gt;Manage Services / Add Service&lt;/f1&gt; button in the upper right to open the File Services dialog (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091707Z" creationid="Elena" creationdate="20210526T091707Z">
@@ -70,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening and saving files on remote servers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092141Z" creationid="Elena" creationdate="20210526T092141Z">
+        <seg>Abrir y guardar archivos en servidores remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed entering your credentials.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090909Z" creationid="Elena" creationdate="20210526T090909Z">
@@ -90,6 +122,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091340Z" creationid="Elena" creationdate="20210526T091340Z">
         <seg>Seleccione &lt;f0&gt;Archivo &gt; Guardar remoto&lt;/f0&gt; en cualquier documento abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Save AutoRecovery information every&lt;/f0&gt; and set the time interval.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092116Z" creationid="Elena" creationdate="20210526T092116Z">
+        <seg>Seleccione &lt;f0&gt;Guardar información de recuperación automática cada&lt;/f0&gt; y establezca el intervalo de tiempo.</seg>
       </tuv>
     </tu>
     <tu>
