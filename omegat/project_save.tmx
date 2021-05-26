@@ -2486,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start, check out this webpage: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T172110Z" creationid="Almudena" creationdate="20210526T172110Z">
+        <seg>Para empezar, consulte esta página web: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To this edition</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150725Z" creationid="paula" creationdate="20210526T150656Z">
@@ -2842,6 +2850,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T164953Z" creationid="paula" creationdate="20210526T164953Z">
         <seg>Puede anclar estas &lt;t0/&gt;barras en la parte superior o inferior de la ventana principal, o reposicionarlas en la muestra de tu ordenador (ver “&lt;rf1&gt;Barras móviles&lt;/rf1&gt;” arriba).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T171919Z" creationid="Almudena" creationdate="20210526T171919Z">
+        <seg>Puede colaborar con el desarrollo y el soporte a los usuarios de LibreOffice de muchas maneras y no es necesario que sea un programador.</seg>
       </tuv>
     </tu>
     <tu>
