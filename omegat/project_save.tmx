@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a good choice if you are experiencing crashes on startup or visual glitches that are often related to hardware acceleration.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T151851Z" creationid="Almudena" creationdate="20210526T151851Z">
+        <seg>Esta es una buena opción si está experimentando fallos en el arranque o fallos visuales que suelen estar relacionados con la aceleración por hardware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the Set Password dialog where you can enter a new password.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102221Z" creationid="Elena" creationdate="20210526T102221Z">
