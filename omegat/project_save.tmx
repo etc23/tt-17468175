@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Restore from backup&lt;/f0&gt; – LibreOffice keeps backups of previous configurations and activated extensions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T145555Z" creationid="Almudena" creationdate="20210526T145555Z">
+        <seg>- &lt;f0&gt;Restaurar desde la copia de seguridad&lt;/f0&gt;: LibreOffice guarda copias de seguridad de las configuraciones anteriores y de las extensiones activadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles&lt;/f0&gt; – commands for quickly applying common styles; for editing, loading, and creating new styles; and for accessing the Styles deck in the Sidebar.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081735Z" creationid="Elena" creationdate="20210526T081735Z">
