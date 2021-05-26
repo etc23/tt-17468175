@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If any documents have not been saved since the last change, a message box is displayed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112630Z" creationid="Almudena" creationdate="20210526T112630Z">
+        <seg>Si no se ha guardado ningún documento desde la última modificación, aparecerá un cuadro de mensaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If more than one document is open and you want to close one of them, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the title bar of that document’s window.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112139Z" creationid="Almudena" creationdate="20210526T112027Z">
@@ -286,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Windows and Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112559Z" creationid="Almudena" creationdate="20210526T112559Z">
+        <seg>- En Windows y Linux - &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Windows and Linux, when you close the last document using the X on the title bar of the window, then LibreOffice will close completely.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112439Z" creationid="Almudena" creationdate="20210526T112439Z">
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141858Z" creationid="Almudena" creationdate="20210514T141858Z">
         <seg>En general, se inicia LibreOffice de la misma manera que cualquier otro programa en el ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In macOS – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112611Z" creationid="Almudena" creationdate="20210526T112611Z">
+        <seg>- En macOS - &lt;f0&gt;Comando ⌘+Q&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Troubleshooting LibreOffice in Safe Mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T112735Z" creationid="Almudena" creationdate="20210526T112735Z">
+        <seg>Solución de problemas de LibreOffice en modo seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; to create a new document.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T110515Z" creationid="Elena" creationdate="20210526T110515Z">
@@ -802,6 +834,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090234Z" creationid="Elena" creationdate="20210526T090234Z">
         <seg>Puede iniciar un nuevo documento en blanco en LibreOffice de varias maneras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use Safe Mode to help restore an instance of LibreOffice that has become corrupted and stopped working or fails to launch.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T114321Z" creationid="Almudena" creationdate="20210526T114321Z">
+        <seg>Puede utilizar el modo seguro para ayudar a restaurar una instancia de LibreOffice que se ha corrompido y ha dejado de funcionar o no se inicia.</seg>
       </tuv>
     </tu>
     <tu>
