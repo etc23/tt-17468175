@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150757Z" creationid="paula" creationdate="20210526T150757Z">
+        <seg>Derechos de autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the type of file service you choose in the Type listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091034Z" creationid="Elena" creationdate="20210526T091034Z">
@@ -1624,8 +1632,8 @@
       <tuv lang="EN">
         <seg>To this edition</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T150656Z" creationid="paula" creationdate="20210526T150656Z">
-        <seg>Para esta edición</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150725Z" creationid="paula" creationdate="20210526T150656Z">
+        <seg>En esta edición</seg>
       </tuv>
     </tu>
     <tu>
