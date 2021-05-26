@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click to choose different selection modes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211549Z" creationid="paula" creationdate="20210526T211549Z">
+        <seg>Haga clic para elegir diferentes modos de selección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T193616Z" creationid="Almudena" creationdate="20210526T102758Z">
@@ -806,10 +814,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Digital signature</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211603Z" creationid="paula" creationdate="20210526T211603Z">
+        <seg>Firma digital</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displaying or hiding toolbars</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T111952Z" creationid="Almudena" creationdate="20210515T111952Z">
         <seg>Mostrar u ocultar la barra de herramientas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays information relevant to the position of the cursor or the selected element of the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211622Z" creationid="paula" creationdate="20210526T211622Z">
+        <seg>Muestra información relativa a la posición del cursor o al elemento seleccionado del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +882,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T082934Z" creationid="JoseCarlos" creationdate="20210511T082934Z">
         <seg>Draw es una herramienta de dibujo vectorial que puede producir desde simples gráficas o diagramas de flujo hasta ilustraciones en 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each time the &lt;f0&gt;Ins&lt;/f0&gt; key is pressed, or this field is clicked, the mode toggles between Insert and Overwrite.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211541Z" creationid="paula" creationdate="20210526T211541Z">
+        <seg>Cada vez que se pulsa la tecla &lt;f0&gt;Ins&lt;/f0&gt;, o se hace clic en este campo, el modo cambia entre Insertar y Sobrescribir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document has been digitally signed, an icon shows here.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211607Z" creationid="paula" creationdate="20210526T211607Z">
+        <seg>Si el documento ha sido firmado digitalmente, aquí se muestra un icono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the document has not been saved since the last change, a message box is displayed.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112152Z" creationid="Almudena" creationdate="20210526T112152Z">
@@ -1414,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211518Z" creationid="paula" creationdate="20210526T211518Z">
+        <seg>Modo de inserción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introducing LibreOffice</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T145921Z" creationid="paula" creationdate="20210526T145921Z">
@@ -1586,6 +1634,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092209Z" creationid="Elena" creationdate="20210526T092209Z">
         <seg>Guardar archivos en servidores remotos le permite trabajar con los documentos utilizando diferentes ordenadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211513Z" creationid="paula" creationdate="20210526T211513Z">
+        <seg>Idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1946,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T112541Z" creationid="JoseCarlos" creationdate="20210513T160652Z">
         <seg>Nota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Object information</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211612Z" creationid="paula" creationdate="20210526T211612Z">
+        <seg>Información sobre el objeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select between Single-page view, Multiple-page view, and Book view to change how your document is displayed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211751Z" creationid="paula" creationdate="20210526T211751Z">
+        <seg>Seleccione entre la vista de una página, la vista de varias páginas y la vista de libro para cambiar la forma en que se muestra el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select or deselect icons to hide or show them on the toolbar.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T165244Z" creationid="paula" creationdate="20210526T165244Z">
@@ -2230,10 +2302,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection mode</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211546Z" creationid="paula" creationdate="20210526T211546Z">
+        <seg>Modo de selección</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T193559Z" creationid="Almudena" creationdate="20210526T102545Z">
         <seg>Varias extensiones se instalan con el programa y puede obtener otras del repositorio oficial de extensiones, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the current language of the text at the current cursor position.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211516Z" creationid="paula" creationdate="20210526T211516Z">
+        <seg>Muestra el idioma actual del texto en la posición actual del cursor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2346,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211408Z" creationid="paula" creationdate="20210526T211408Z">
         <seg>Muestra el número total de palabras y caracteres en el documento o en la selección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the type of insert mode the program is in.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211521Z" creationid="paula" creationdate="20210526T211521Z">
+        <seg>Muestra el tipo de modo de inserción en el que se encuentra el programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,6 +2534,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The icon does not change, but when you hover the mouse pointer over this field, a tooltip indicates which mode is active.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211557Z" creationid="paula" creationdate="20210526T211557Z">
+        <seg>El icono no cambia, pero cuando pasa el puntero del ratón por encima de este campo, una información sobre herramientas indica qué modo está activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icon shown here is different when changes to the document have not been saved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211602Z" creationid="paula" creationdate="20210526T211602Z">
+        <seg>El icono que se muestra aquí es diferente cuando los cambios en el documento no se han guardado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The line below the list box shows the path to access the folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090808Z" creationid="Elena" creationdate="20210526T090808Z">
@@ -2574,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This field is blank if the program is in Insert mode.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211522Z" creationid="paula" creationdate="20210526T211522Z">
+        <seg>Este campo está en blanco si el programa está en modo de inserción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a good choice if you are experiencing crashes on startup or visual glitches that are often related to hardware acceleration.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T151851Z" creationid="Almudena" creationdate="20210526T151851Z">
@@ -2622,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To choose a different page style or slide design, right-click on this field and select from the list that pops up.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211511Z" creationid="paula" creationdate="20210526T211511Z">
+        <seg>Para elegir otro estilo de página o diseño de diapositiva, haga clic con el botón derecho del ratón en este campo y seleccione uno de la lista que aparece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit LibreOffice&lt;/f0&gt; on the Menu bar in Windows and Linux.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112359Z" creationid="Almudena" creationdate="20210526T112359Z">
@@ -2650,6 +2778,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T160513Z" creationid="Almudena" creationdate="20210526T160513Z">
         <seg>Para mostrar el sistema de ayuda, pulse &lt;f0&gt;F1&lt;/f0&gt; o seleccione &lt;f1&gt;Ayuda de LibreOffice&lt;/f1&gt; en el menú Ayuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the current page style or slide design, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211502Z" creationid="paula" creationdate="20210526T211502Z">
+        <seg>Para editar el estilo de página o diseño de diapositiva actual, haga doble clic en este campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unsaved changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211558Z" creationid="paula" creationdate="20210526T211558Z">
+        <seg>Cambios no guardados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document in the context menu.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T122535Z" creationid="Elena" creationdate="20210526T122535Z">
@@ -2826,6 +2970,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T112024Z" creationid="JoseCarlos" creationdate="20210525T144303Z">
         <seg>Las versiones de LibreOffice para Windows, Linux y macOS pueden descargarse gratuitamente de &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View layout</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211623Z" creationid="paula" creationdate="20210526T211623Z">
+        <seg>Diseño de la vista</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,6 +3226,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112538Z" creationid="Almudena" creationdate="20210526T112538Z">
         <seg>También puede utilizar un atajo de teclado como el siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can click the icon to sign the document, or to view the existing certificate.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211610Z" creationid="paula" creationdate="20210526T211610Z">
+        <seg>Puede hacer clic en el icono para firmar el documento, o para ver el certificado existente.</seg>
       </tuv>
     </tu>
     <tu>
