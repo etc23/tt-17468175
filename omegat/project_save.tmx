@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How can I contribute to LibreOffice?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T171805Z" creationid="Almudena" creationdate="20210526T171805Z">
+        <seg>¿Cómo puedo contribuir a LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can you make it for free?</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T165324Z" creationid="Almudena" creationdate="20210526T165324Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T160612Z" creationid="Almudena" creationdate="20210526T160612Z">
         <seg>Si no tiene la ayuda sin conexión instalada en su ordenador y está conectado a Internet, su navegador predeterminado abrirá las páginas de ayuda en línea del sitio web de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not want to use Java, you can still use nearly all of the LibreOffice features.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T171557Z" creationid="Almudena" creationdate="20210526T171557Z">
+        <seg>Si no desea utilizar Java, puede seguir utilizando casi todas las funciones de LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
