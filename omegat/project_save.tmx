@@ -24,8 +24,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T090654Z" creationid="Elena" creationdate="20210526T090654Z">
-        <seg>Haga clic en el botón Abrir o Guardar para continuar.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091817Z" creationid="Elena" creationdate="20210526T090654Z">
+        <seg>Haga clic en el botón &lt;f1&gt;Abrir&lt;/f1&gt; o &lt;f2&gt;Guardar&lt;/f2&gt; para continuar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +34,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091034Z" creationid="Elena" creationdate="20210526T091034Z">
         <seg>Dependiendo del tipo de servicio de archivos que elija en el cuadro de lista Tipo, serán necesarios diferentes parámetros para calificar completamente la conexión con el servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091944Z" creationid="Elena" creationdate="20210526T091944Z">
+        <seg>Vaya a &lt;f0&gt;Herramientas &gt; Opciones &gt; Cargar/Guardar &gt; General&lt;/f0&gt; en la Barra de menú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +64,8 @@
       <tuv lang="EN">
         <seg>Once the connection is defined, click &lt;f0&gt;OK&lt;/f0&gt; to connect.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T090635Z" creationid="Elena" creationdate="20210526T090635Z">
-        <seg>Una vez definida la conexión, haga clic en Aceptar para conectarse.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091733Z" creationid="Elena" creationdate="20210526T090635Z">
+        <seg>Una vez definida la conexión, haga clic en &lt;f0&gt;Aceptar&lt;/f0&gt; para conectarse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +104,8 @@
       <tuv lang="EN">
         <seg>The Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;) which then appears has many parts.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T090902Z" creationid="Elena" creationdate="20210526T090902Z">
-        <seg>El diálogo de Archivos Remotos (Figura 12) que aparece entonces tiene varias partes.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091750Z" creationid="Elena" creationdate="20210526T090902Z">
+        <seg>El diálogo de Archivos Remotos (Figura &lt;t0&gt;12&lt;/t0&gt;) que aparece entonces tiene varias partes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091141Z" creationid="Elena" creationdate="20210526T091141Z">
         <seg>Para habilitar una conexión con un servidor remoto, utilice uno de estos métodos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up automatic file saving:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091854Z" creationid="Elena" creationdate="20210526T091854Z">
+        <seg>Para configurar el guardado automático de archivos:</seg>
       </tuv>
     </tu>
     <tu>
