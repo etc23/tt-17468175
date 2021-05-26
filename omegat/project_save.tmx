@@ -606,6 +606,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154244Z" creationid="paula" creationdate="20210526T154244Z">
+        <seg>Contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context menus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154525Z" creationid="paula" creationdate="20210526T154525Z">
+        <seg>Menús contextuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150419Z" creationid="paula" creationdate="20210526T150419Z">
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150757Z" creationid="paula" creationdate="20210526T150757Z">
         <seg>Derechos de autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing toolbars</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154446Z" creationid="paula" creationdate="20210526T154446Z">
+        <seg>Personalizar las barras de herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,6 +1658,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090223Z" creationid="Elena" creationdate="20210526T090223Z">
         <seg>Inicio de nuevos documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154531Z" creationid="paula" creationdate="20210526T154531Z">
+        <seg>Barra de estado</seg>
       </tuv>
     </tu>
     <tu>
