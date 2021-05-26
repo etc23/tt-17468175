@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source Initiative (OSI)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T162341Z" creationid="Almudena" creationdate="20210526T162341Z">
+        <seg>&lt;f0&gt;Es de cógido abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Styles deck in the Sidebar</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T153351Z" creationid="paula" creationdate="20210526T153351Z">
