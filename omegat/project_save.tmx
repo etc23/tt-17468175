@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice can save files automatically as part of the AutoRecovery feature.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T102903Z" creationid="Elena" creationdate="20210526T102903Z">
+        <seg>LibreOffice puede guardar archivos automáticamente como parte de la función de recuperación automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice supports many document servers that use well known network protocols such as FTP, WebDav, Windows share, and SSH.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092327Z" creationid="Elena" creationdate="20210526T092327Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090909Z" creationid="Elena" creationdate="20210526T090909Z">
         <seg>Proceda a introducir sus credenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving documents automatically</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T102446Z" creationid="Elena" creationdate="20210526T102446Z">
+        <seg>Guardar documentos automáticamente</seg>
       </tuv>
     </tu>
     <tu>
