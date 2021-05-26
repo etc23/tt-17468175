@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Apply Changes and Restart&lt;/f0&gt; – Choose this option to apply any of the above changes and restart LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T154244Z" creationid="Almudena" creationdate="20210526T154244Z">
+        <seg>- &lt;f0&gt;Aplicar cambios y reiniciar&lt;/f0&gt; - Elija esta opción para aplicar cualquiera de los cambios anteriores y reiniciar LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Configure&lt;/f0&gt; – Use this option to disable all user extensions, hardware acceleration, or both.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T151103Z" creationid="Almudena" creationdate="20210526T151103Z">
@@ -906,6 +914,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112152Z" creationid="Almudena" creationdate="20210526T112152Z">
         <seg>Si el documento no se ha guardado desde la última modificación, aparecerá un cuadro de mensaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unable to solve your problem using Safe Mode, the Advanced tab provides instructions on receiving further aid.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T154411Z" creationid="Almudena" creationdate="20210526T154411Z">
+        <seg>Si no puede resolver su problema utilizando el modo seguro, la pestaña Avanzado ofrece instrucciones para recibir más ayuda.</seg>
       </tuv>
     </tu>
     <tu>
