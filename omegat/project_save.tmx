@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the same list you can choose which items to show in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212808Z" creationid="paula" creationdate="20210526T212808Z">
+        <seg>Desde la misma lista puede elegir qué elementos mostrar en la barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNU/Linux: Kernel version 3.10 or higher and glibc2 v2.17 or higher.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T083410Z" creationid="Elena" creationdate="20210526T083410Z">
