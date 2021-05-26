@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; to create a new document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T110515Z" creationid="Elena" creationdate="20210526T110515Z">
+        <seg>Utilice el atajo de teclado &lt;f0&gt;Ctrl+N&lt;/f0&gt; para crear un nuevo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T105126Z" creationid="Elena" creationdate="20210526T105126Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T100831Z" creationid="Elena" creationdate="20210526T100831Z">
         <seg>Cuando un documento está protegido por contraseña, puede cambiarla mientras el documento está abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also start a new document in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T110621Z" creationid="Elena" creationdate="20210526T110621Z">
+        <seg>También puede iniciar un nuevo documento de una de las siguientes maneras:</seg>
       </tuv>
     </tu>
     <tu>
