@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151918Z" creationid="paula" creationdate="20210526T151918Z">
+        <seg>Herramientas &gt; Opciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools&lt;/f0&gt; – functions such as Spelling, AutoCorrect, and Customize, and Options.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T211111Z" creationid="JoseCarlos" creationdate="20210516T201507Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090947Z" creationid="Elena" creationdate="20210526T090947Z">
         <seg>Es posible que aparezca un cuadro de diálogo solicitando el nombre de usuario y la contraseña para permitirle iniciar la sesión en el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T152015Z" creationid="paula" creationdate="20210526T151938Z">
+        <seg>Acceso a las opciones de configuración</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +354,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T084445Z" creationid="JoseCarlos" creationdate="20210511T084445Z">
         <seg>Base proporciona herramientas para el trabajo diario en bases de datos con una interfaz sencilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Based on LibreOffice &lt;ud1&gt;7.0&lt;/ud1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151007Z" creationid="paula" creationdate="20210526T151007Z">
+        <seg>Basado en LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +606,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151107Z" creationid="paula" creationdate="20210526T151107Z">
+        <seg>Efecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151002Z" creationid="paula" creationdate="20210526T151002Z">
+        <seg>Todo lo que envíe a una lista de correo, incluyendo su dirección de correo electrónico y cualquier otra información personal que esté escrita en el mensaje, se archiva públicamente y no puede ser eliminado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141107Z" creationid="Almudena" creationdate="20210514T141107Z">
@@ -626,6 +666,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T203244Z" creationid="paula" creationdate="20210516T202057Z">
         <seg>Barras de herramientas flotantes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151059Z" creationid="paula" creationdate="20210526T151059Z">
+        <seg>Para obtener una lista detallada, consulte la Ayuda de la aplicación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151929Z" creationid="paula" creationdate="20210526T151929Z">
+        <seg>LibreOffice &gt; Preferencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice also provides support for both Complex Text Layout (CTL) and Right to Left (RTL) layout languages (such as Urdu, Hebrew, and Arabic).</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210524T161708Z" creationid="Elena" creationdate="20210524T161708Z">
@@ -1294,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150958Z" creationid="paula" creationdate="20210526T150958Z">
+        <seg>Por favor, dirija cualquier comentario o sugerencia sobre este documento a la lista de correo del equipo de documentación: documentation@global.libreoffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed entering your credentials.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090909Z" creationid="Elena" creationdate="20210526T090909Z">
@@ -1302,10 +1366,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151003Z" creationid="paula" creationdate="20210526T151003Z">
+        <seg>Fecha de publicación y versión del software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Published November &lt;t0&gt;2020&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151005Z" creationid="paula" creationdate="20210526T151005Z">
+        <seg>Publicado en noviembre de 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Release the mouse button.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T201814Z" creationid="paula" creationdate="20210516T201814Z">
         <seg>Suelte el botón del ratón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151944Z" creationid="paula" creationdate="20210526T151944Z">
+        <seg>Haga clic con el botón derecho del ratón en</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1474,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160645Z" creationid="JoseCarlos" creationdate="20210513T160645Z">
         <seg>Algunas funciones de LibreOffice (los asistentes y el motor de base de datos HSQLDB) requieren que el entorno de ejecución de Java (JRE) (o, para macOS, el kit de desarrollo de Java (JDK)) esté instalado en su ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151018Z" creationid="paula" creationdate="20210526T151018Z">
+        <seg>Algunas pulsaciones de teclas y elementos de menú son diferentes en macOS de las utilizadas en Windows y Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1618,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T204825Z" creationid="JoseCarlos" creationdate="20210516T204825Z">
         <seg>La segunda barra de herramientas en la parte superior de Writer y Calc, en una instalación de LibreOffice predeterminada, es la barra de Formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table below gives some common substitutions for the instructions in this document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151058Z" creationid="paula" creationdate="20210526T151058Z">
+        <seg>La siguiente tabla ofrece algunas sustituciones comunes para las instrucciones de este documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using LibreOffice on macOS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151009Z" creationid="paula" creationdate="20210526T151009Z">
+        <seg>Uso de LibreOffice en macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Versions of LibreOffice for Windows, Linux, and macOS can be downloaded free from &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T112024Z" creationid="JoseCarlos" creationdate="20210525T144303Z">
@@ -1802,6 +1914,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T084108Z" creationid="Almudena" creationdate="20210510T084108Z">
         <seg>Mientras que normalmente se utiliza para crear fórmulas en otros documentos como los archivos de Writer e Impress, Math también puede funcionar como herramienta independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151101Z" creationid="paula" creationdate="20210526T151101Z">
+        <seg>Windows o Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,10 +2118,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>macOS equivalent</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151103Z" creationid="paula" creationdate="20210526T151103Z">
+        <seg>Equivalente en macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>macOS users can also get two versions of LibreOffice from the App Store for a small fee: LibreOffice Vanilla and Collabora Office (an enterprise-ready version).</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T144311Z" creationid="JoseCarlos" creationdate="20210525T144311Z">
         <seg>Los usuarios de macOS también pueden obtener dos versiones de LibreOffice en la App Store por un módico precio: LibreOffice Vanilla y Collabora Office (una versión para empresas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menu selection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T151926Z" creationid="paula" creationdate="20210526T151926Z">
+        <seg>selección de menú</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
