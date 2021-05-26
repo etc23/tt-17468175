@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Configure&lt;/f0&gt; – Use this option to disable all user extensions, hardware acceleration, or both.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T151103Z" creationid="Almudena" creationdate="20210526T151103Z">
+        <seg>- &lt;f0&gt;Configurar&lt;/f0&gt; - Utilice esta opción para desactivar todas las extensiones de usuario, la aceleración por hardware, o ambas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel”, making them easy to use and master.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210524T161853Z" creationid="Elena" creationdate="20210524T161722Z">
@@ -1714,6 +1722,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T105126Z" creationid="Elena" creationdate="20210526T105126Z">
         <seg>Utilice el atajo de teclado &lt;f0&gt;Ctrl+Mayús+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this option to restore the user configuration, installed extensions, or both, to a previous known working state if you suspect that your problems were caused by recent changes to either.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T150927Z" creationid="Almudena" creationdate="20210526T150927Z">
+        <seg>Utilice esta opción para restaurar la configuración del usuario, las extensiones instaladas, o ambas, a un estado de funcionamiento anterior conocido si sospecha que sus problemas fueron causados por cambios recientes en cualquiera de ellas.</seg>
       </tuv>
     </tu>
     <tu>
