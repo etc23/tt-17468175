@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091246Z" creationid="Elena" creationdate="20210526T091246Z">
+        <seg>Haga clic en el botón &lt;f0&gt;Archivos remotos&lt;/f0&gt; en el Centro de inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090654Z" creationid="Elena" creationdate="20210526T090654Z">
@@ -54,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; Open Remote&lt;/f0&gt; in any open document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091316Z" creationid="Elena" creationdate="20210526T091316Z">
+        <seg>Seleccione &lt;f0&gt;Archivo &gt; Abrir remoto&lt;/f0&gt; en cualquier documento abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting new documents</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090223Z" creationid="Elena" creationdate="20210526T090223Z">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090825Z" creationid="Elena" creationdate="20210526T090825Z">
         <seg>El cuadro de lista superior contiene la lista de servidores remotos que ha definido previamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enable a remote server connection, use one of these methods:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091141Z" creationid="Elena" creationdate="20210526T091141Z">
+        <seg>Para habilitar una conexión con un servidor remoto, utilice uno de estos métodos:</seg>
       </tuv>
     </tu>
     <tu>
