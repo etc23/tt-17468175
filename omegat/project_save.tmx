@@ -1990,10 +1990,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other uses of this field depend on the LibreOffice component.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211348Z" creationid="paula" creationdate="20210526T211348Z">
+        <seg>Otros usos de este campo dependen del componente de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other variations include Tabbed and Groupedbar Compact, both accessed from &lt;f0&gt;View &gt; User Interface&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T220252Z" creationid="Almudena" creationdate="20210525T220252Z">
         <seg>Otras variaciones incluyen Tabbed y Groupedbar Compact, ambas accesibles desde&lt;f0&gt;Ver &gt; Interfaz de usuario&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page style or slide design</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211424Z" creationid="paula" creationdate="20210526T211424Z">
+        <seg>Estilo de página o diseño de diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,10 +2238,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the current page style or slide design.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211454Z" creationid="paula" creationdate="20210526T211454Z">
+        <seg>Muestra el estilo de página actual o el diseño de la diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the current page, sheet, or slide number and the total number of pages, sheets, or slides in the document.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211103Z" creationid="paula" creationdate="20210526T211103Z">
         <seg>Muestra el número de página, hoja o diapositiva actual y el número total de páginas, hojas o diapositivas del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the total number of words and characters in the document or in the selection.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211408Z" creationid="paula" creationdate="20210526T211408Z">
+        <seg>Muestra el número total de palabras y caracteres en el documento o en la selección.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,6 +2954,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160859Z" creationid="JoseCarlos" creationdate="20210513T160859Z">
         <seg>Los usuarios de Windows también pueden obtener LibreOffice Vanilla en la Microsoft Store por un pequeño precio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word &amp; character count</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211356Z" creationid="paula" creationdate="20210526T211356Z">
+        <seg>Recuento de palabras y caracteres</seg>
       </tuv>
     </tu>
     <tu>
