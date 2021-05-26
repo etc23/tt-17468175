@@ -598,6 +598,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See Chapter 14, Customizing LibreOffice, for more information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194427Z" creationid="paula" creationdate="20210526T194427Z">
+        <seg>Haga clic en  &lt;f0&gt;Personalizar barra de herramientas&lt;/f0&gt; para abrir el cuadro de diálogo Personalizar; consulte el capítulo 14, Personalización de LibreOffice, para más información.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Dock All Toolbars&lt;/f0&gt; to dock all floating toolbars.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194552Z" creationid="paula" creationdate="20210526T194552Z">
+        <seg>Haga clic en &lt;f0&gt;Acoplar todas las barras de herramientas&lt;/f0&gt; para acoplar todas las barras de herramientas flotantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Dock Toolbar&lt;/f0&gt; to dock the selected floating toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194454Z" creationid="paula" creationdate="20210526T194454Z">
+        <seg>Haga clic en &lt;f0&gt;Acoplar barra de herramientas&lt;/f0&gt; para acoplar la barra de herramientas flotante seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; to lock a docked toolbar into its docked position.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210308Z" creationid="paula" creationdate="20210526T210308Z">
+        <seg>Haga clic en  &lt;f0&gt;Bloquear posición de la barra de herramientas&lt;/f0&gt; para bloquear una barra de herramientas acoplada en su posición de acoplamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092132Z" creationid="Elena" creationdate="20210526T092132Z">
@@ -2054,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See “&lt;bf1&gt;Moving toolbars&lt;/bf1&gt;” on page &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194529Z" creationid="paula" creationdate="20210526T194529Z">
+        <seg>Consulte "&lt;bf1&gt;Mover barras de herramientas&lt;/bf1&gt;" en la página  &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;bf2&gt;Moving toolbars&lt;/bf2&gt;” and “&lt;bf3&gt;Floating toolbars&lt;/bf3&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T194310Z" creationid="paula" creationdate="20210526T161057Z">
@@ -2938,6 +2978,22 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T083039Z" creationid="Elena" creationdate="20210526T083039Z">
         <seg>Puede leer más sobre LibreOffice y The Document Foundation en sus sitios web en &lt;a0&gt;https://www.libreoffice.org/&lt;/a0&gt; y &lt;a1&gt;https://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can reposition the toolbar to a different docked position.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194501Z" creationid="paula" creationdate="20210526T194501Z">
+        <seg>Puede reposicionar la barra de herramientas a una posición acoplada diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can reposition the toolbars to different docked positions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194558Z" creationid="paula" creationdate="20210526T194558Z">
+        <seg>Puede reposicionar las barras de herramientas a diferentes posiciones acopladas.</seg>
       </tuv>
     </tu>
     <tu>
