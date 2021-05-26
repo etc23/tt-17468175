@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T102915Z" creationid="Elena" creationdate="20210526T102915Z">
+        <seg>El guardado automático, al igual que el manual, sobrescribe el último estado guardado del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the password</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T100722Z" creationid="Elena" creationdate="20210526T100722Z">
