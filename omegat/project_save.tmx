@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Example of tearing off a tool palette</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T164307Z" creationid="paula" creationdate="20210526T164142Z">
+        <seg>Figura  &lt;seq0&gt;2&lt;/seq0&gt;: Ejemplo de arrancar una paleta de herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T161020Z" creationid="paula" creationdate="20210526T161020Z">
@@ -1818,6 +1826,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081207Z" creationid="Elena" creationdate="20210526T081207Z">
         <seg>Consulte los capítulos relevantes de esta guía acerca de Writer, Calc, Draw, Impress, Base y Math para ver las descripciones de esos detalles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;bf2&gt;Moving toolbars&lt;/bf2&gt;” and “&lt;bf3&gt;Floating toolbars&lt;/bf3&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T161057Z" creationid="paula" creationdate="20210526T161057Z">
+        <seg>Consulte “&lt;f2&gt;barras de herramientas móviles&lt;/f2&gt;” y “&lt;f3&gt;barras de herramientas desplegables&lt;/f3&gt;” de debajo para más información sobre cómo mover y desplegar estas barras de herramientas creadas a partir de paletas de herramientas.</seg>
       </tuv>
     </tu>
     <tu>
