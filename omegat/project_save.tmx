@@ -14,10 +14,98 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel”, making them easy to use and master.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T161853Z" creationid="Elena" creationdate="20210524T161722Z">
+        <seg>&lt;f0&gt;Interfaz de usuario consistente.&lt;/f0&gt; Todos los componentes tienen una "apariencia" similar, la cual hace que sean sencillos de usar y controlar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, macOS, and Linux.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T161448Z" creationid="Elena" creationdate="20210524T161448Z">
+        <seg>&lt;f0&gt;Multiplataforma.&lt;/f0&gt; LibreOffice ejecuta diversas arquitecturas de hardware y bajo varios sistemas operativos, como Mircrosoft Windows, macOS y Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; at &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;http://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T220954Z" creationid="Almudena" creationdate="20210525T220954Z">
         <seg>&lt;f0&gt;Documentación para LibreOffice está disponible &lt;/f0&gt;&lt;f1&gt; en &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;http://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – commands for editing the document such as Undo, Find &amp; Replace, Cut, Copy, Paste, and Track Changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081535Z" creationid="Elena" creationdate="20210526T081535Z">
+        <seg>&lt;f0&gt;Editar&lt;/f0&gt; – comandos para editar documentos, como por ejemplo Deshacer, Buscar y reemplazar, Cortar, Copiar, Pegar y Control de cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Extensive language support.&lt;/f0&gt; The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T161622Z" creationid="Elena" creationdate="20210524T161622Z">
+        <seg>&lt;f0&gt;Amplio soporte multilingüe.&lt;/f0&gt; La interfaz de usuario de LibreOffice, incluyendo diccionarios de ortografía, separación silábica y sinónimos está disponible en más está disponible en más de 100 idiomas y dialectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T082636Z" creationid="Elena" creationdate="20210526T082636Z">
+        <seg>&lt;f0&gt;Compatibilidad de archivos.&lt;/f0&gt; Además de sus formatos nativos de OpenDocument, LibreOffice incluye soporte para abrir y guardar archivos en muchos formatos comunes, incluyendo Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, y PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – commands that apply to the entire document such as Open, Save, and Export as PDF.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081459Z" creationid="Elena" creationdate="20210526T081459Z">
+        <seg>&lt;f0&gt;Archivo&lt;/f0&gt; – comandos que se aplican a todo el documento, como por ejemplo Abrir, Guardar y Exportar como PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt; – commands for formatting the layout of your document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081645Z" creationid="Elena" creationdate="20210526T081645Z">
+        <seg>&lt;f0&gt;Formato&lt;/f0&gt; – comandos para dar formato al diseño del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Granularity.&lt;/f0&gt; Usually, if you change an option, it affects all components.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T162123Z" creationid="Elena" creationdate="20210524T162123Z">
+        <seg>&lt;f0&gt;Granularidad.&lt;/f0&gt; Normalmente, si cambia una opción, afecta a todos los componentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; – links to the LibreOffice Help file, What’s This?, and information about the program.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T201625Z" creationid="JoseCarlos" creationdate="20210516T200717Z">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; (Ayuda) – enlaces al fichero de Ayuda de LibreOffice, What’s This? (¿Qué es esto?), e información sobre el programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Insert&lt;/f0&gt; – commands for inserting elements into your document such as Header, Footer, and Image.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081626Z" creationid="Elena" creationdate="20210526T081626Z">
+        <seg>&lt;f0&gt;Insertar&lt;/f0&gt; – comandos para insertar elementos en el documento, como por ejemplo Encabezado, Pie de página e Imagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Integration.&lt;/f0&gt; The components of LibreOffice are well integrated with one another.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T161912Z" creationid="Elena" creationdate="20210524T161912Z">
+        <seg>&lt;f0&gt;Integración.&lt;/f0&gt; Los componentes de LibreOffice están bien integrados entre sí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +118,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;No vendor lock-in.&lt;/f0&gt; LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T082853Z" creationid="Elena" creationdate="20210526T082841Z">
+        <seg>&lt;f0&gt;Sin ataduras a proveedor alguno.&lt;/f0&gt; LibreOffice utiliza OpenDocument, un formato de archivo XML (eXtensible Markup Language, Lenguaje de Marcado Extensible) desarrollado como estándar industrial por OASIS (Organization for the Advancement of Structured Information Standards, Organización para el Avance de Estándares de Información Estructurada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Open source.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T180624Z" creationid="Almudena" creationdate="20210525T180624Z">
         <seg>&lt;f0&gt;Es de cógido abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Styles&lt;/f0&gt; – commands for quickly applying common styles; for editing, loading, and creating new styles; and for accessing the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081735Z" creationid="Elena" creationdate="20210526T081735Z">
+        <seg>&lt;f0&gt;Estilos&lt;/f0&gt; – comandos para aplicar rápidamente estilos comunes; para editar, cargar y crear nuevos estilos; y para acceder a la sección Estilos de la Barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Table&lt;/f0&gt; – commands to insert and edit a table in a text document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081753Z" creationid="Elena" creationdate="20210526T081753Z">
+        <seg>&lt;f0&gt;Tabla&lt;/f0&gt; – comandos para insertar y editar una tabla en un documento de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt; – functions such as Spelling, AutoCorrect, and Customize, and Options.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T211111Z" creationid="JoseCarlos" creationdate="20210516T201507Z">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt; (Herramientas) – funciones como Ortografía, Corrección Automática y Personalizar, y Opciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;View&lt;/f0&gt; – commands for controlling the display of the document such as Toolbars, Text Boundaries, and Zoom.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081602Z" creationid="Elena" creationdate="20210526T081602Z">
+        <seg>&lt;f0&gt;Ver&lt;/f0&gt; – comandos para controlar la visualizaicón del documento, como por ejemplo Barras de herramientas, Límites de texto y Zoom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; – commands for the display window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T201602Z" creationid="JoseCarlos" creationdate="20210516T201311Z">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; (Ventana) – órdenes para la ventana de visualización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083005Z" creationid="Elena" creationdate="20210526T082946Z">
+        <seg>&lt;f0&gt;Usted tiene voz.&lt;/f0&gt; Las mejoras, las correcciones de software y las fechas de publicación son impulsadas por la comunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 1 Introducing LibreOffice&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081850Z" creationid="Elena" creationdate="20210526T081850Z">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Capítulo 1 Introducción a LibreOffice&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 1 Introducing LibreOffice&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081845Z" creationid="Elena" creationdate="20210526T081845Z">
+        <seg>&lt;t0&gt;Capítulo 1 Introducción a LibreOffice&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T161952Z" creationid="Elena" creationdate="20210524T161952Z">
+        <seg>Todos los componentes comparten un corrector ortográfico común y otras herramientas, que se usan constantemente en todas las aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160642Z" creationid="JoseCarlos" creationdate="20210513T160642Z">
+        <seg>Aunque LibreOffice funcionará sin soporte de Java, algunas funciones no estarán disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An active toolbar shows a checkmark beside its name.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T113229Z" creationid="Almudena" creationdate="20210515T113229Z">
@@ -66,6 +242,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102915Z" creationid="Elena" creationdate="20210526T102915Z">
         <seg>El guardado automático, al igual que el manual, sobrescribe el último estado guardado del archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base (database)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T084159Z" creationid="JoseCarlos" creationdate="20210511T084159Z">
+        <seg>Base (base de datos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +274,30 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T082525Z" creationid="Almudena" creationdate="20210510T082525Z">
         <seg>La base proporciona muchas características nuevas, como la posibilidad de analizar y editar las relaciones desde una vista de diagrama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T084445Z" creationid="JoseCarlos" creationdate="20210511T084445Z">
+        <seg>Base proporciona herramientas para el trabajo diario en bases de datos con una interfaz sencilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below is the case for Writer:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081423Z" creationid="Elena" creationdate="20210526T081423Z">
+        <seg>Aquí abajo se muestra el caso de Writer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc can also export spreadsheets in several formats, including for example Comma Separated Value (CSV), Adobe PDF and HTML formats.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T142520Z" creationid="JoseCarlos" creationdate="20210525T142520Z">
+        <seg>Calc también puede exportar hojas de cálculo en varios formatos, entre los que se incluyen por ejemplo los de valores separados por comas (CSV), Adobe PDF y HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Common features include the Menu bar, standard toolbar, and formatting toolbar (Writer and Calc only) at the top of the window and the status bar at the bottom.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T112341Z" creationid="Elena" creationdate="20210526T081256Z">
+        <seg>Las características comunes incluyen la barra de menú, la barra de herramientas estándar y la barra de herramientas de formato (solo en Writer y Calc) en la parte superior de la ventana y la barra de estado en la parte inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the type of file service you choose in the Type listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091034Z" creationid="Elena" creationdate="20210526T091034Z">
@@ -194,6 +410,38 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T111952Z" creationid="Almudena" creationdate="20210515T111952Z">
         <seg>Mostrar u ocultar la barra de herramientas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T205758Z" creationid="JoseCarlos" creationdate="20210514T143133Z">
+        <seg>Las barras de herramientas ancladas pueden moverse a otros lugares o "flotar", y las barras flotantes se pueden anclar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw (vector graphics)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T082437Z" creationid="JoseCarlos" creationdate="20210511T082437Z">
+        <seg>Draw (gráficos vectoriales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw can import graphics from many common formats and save them in many formats, including PNG, GIF, JPEG, BMP, TIFF, SVG, HTML and PDF.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T084114Z" creationid="JoseCarlos" creationdate="20210511T084114Z">
+        <seg>Draw puede importar gráficos desde muchos formatos comunes y guardarlos también en muchos de ellos, incluidos PNG, GIF, JPEG, BMP, TIFF, SVG, HTML y PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T082934Z" creationid="JoseCarlos" creationdate="20210511T082934Z">
+        <seg>Draw es una herramienta de dibujo vectorial que puede producir desde simples gráficas o diagramas de flujo hasta ilustraciones en 3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +464,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T105025Z" creationid="Elena" creationdate="20210526T105025Z">
-        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Remote server configuration</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T120113Z" creationid="Elena" creationdate="20210526T105025Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Configuración del servidor remoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more detailed listing of hardware and software requirements, see the LibreOffice website,&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T111830Z" creationid="JoseCarlos" creationdate="20210525T144208Z">
+        <seg>Para obtener una lista más detallada de los requisitos de hardware y software, consulte el sitio web de LibreOffice:&lt;br0/&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T110826Z" creationid="Elena" creationdate="20210526T110826Z">
@@ -238,10 +494,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the drawing tools available in Writer are also found in Calc, with similar but enhanced versions in Impress and Draw.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T162019Z" creationid="Elena" creationdate="20210524T162019Z">
+        <seg>Por ejemplo, las herramientas de dibujo disponibles en Writer, también se encuentrane en Calc, con versiones similares pero mejoradas en Impress y Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, when the cursor is on a graphic, the Formatting bar provides tools for formatting graphics; when the cursor is in text, the tools are for formatting text.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T205431Z" creationid="JoseCarlos" creationdate="20210516T205431Z">
+        <seg>Por ejemplo, cuando el cursor está en una gráfica, la barra de Formato proporciona herramientas para el formato de gráficas; cuando el cursor está en texto, las herramientas son para el formato de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can open a Draw file from Writer; it will open automatically in Draw.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T162101Z" creationid="Elena" creationdate="20210524T162101Z">
+        <seg>Por ejemplo, puede abrir un archivo Draw desde Writer; se abrirá automáticamente en Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can work on a document in the office during the day and edit it at home for last-minute changes.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092224Z" creationid="Elena" creationdate="20210526T092224Z">
         <seg>Por ejemplo, puede trabajar en un documento en la oficina durante el día y editarlo en casa para realizar cambios de última hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU/Linux: Kernel version 3.10 or higher and glibc2 v2.17 or higher.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083410Z" creationid="Elena" creationdate="20210526T083410Z">
+        <seg>GNU/Linux: versión Kernel 3.10 o superior y glibc2 v2.17 o superior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +558,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to get the software</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160713Z" creationid="JoseCarlos" creationdate="20210513T160713Z">
+        <seg>Cómo obtener el software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to install the software</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T140944Z" creationid="Almudena" creationdate="20210514T140944Z">
         <seg>Cómo instalar el software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, LibreOffice options can be set at a component level or even at document level.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T162156Z" creationid="Elena" creationdate="20210524T162156Z">
+        <seg>Sin embargo, las opciones de LibreOffice pueden ajustarse a nivel de componente o incluso a nivel de documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +614,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use LibreOffice features that require Java, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T144148Z" creationid="JoseCarlos" creationdate="20210525T144148Z">
+        <seg>Si desea utilizar las funciones de LibreOffice que requieren Java, es importante que la edición correcta de 32 o 64 bits coincida con la versión instalada de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress (presentations)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T080340Z" creationid="JoseCarlos" creationdate="20210511T080340Z">
+        <seg>Impress (presentaciones)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress can open, edit and save Microsoft PowerPoint presentations and can also save your work in numerous graphics formats.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T082240Z" creationid="JoseCarlos" creationdate="20210511T082104Z">
+        <seg>Impress puede abrir y editar presentaciones de Microsoft PowerPoint, además de guardarlas en numerosos formatos gráficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T080902Z" creationid="JoseCarlos" creationdate="20210511T080902Z">
+        <seg>Impress proporciona todas las herramientas de presentación multimedia comunes tales como efectos especiales, animaciones y herramientas de dibujo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Windows and Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112559Z" creationid="Almudena" creationdate="20210526T112559Z">
@@ -330,6 +666,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T115445Z" creationid="Almudena" creationdate="20210526T115445Z">
         <seg>- Solo en Windows, elija &lt;f0&gt;LibreOffice (Modo seguro)&lt;/f0&gt; en el Menú Inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a default LibreOffice installation, the top docked toolbar, just under the Menu bar, is called the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210514T143428Z" creationid="JoseCarlos" creationdate="20210514T143306Z">
+        <seg>En una instalación de LibreOffice predeterminada, la barra anclada superior, que se encuentra justo debajo de la barra de menú, se denomina barra de herramientas Estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T205654Z" creationid="JoseCarlos" creationdate="20210516T205454Z">
+        <seg>En algunos casos conviene reducir el número de barras de herramientas desplegadas y obtener así más espacio para el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T102523Z" creationid="Almudena" creationdate="20210526T102523Z">
@@ -390,10 +742,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can create and edit forms, reports, queries, tables, views, and relations, so that managing a relational database is much the same as in other popular database applications.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T085505Z" creationid="JoseCarlos" creationdate="20210511T085505Z">
+        <seg>Se pueden crear y editar formularios, informes, consultas, tablas, vistas y relaciones, lo que hace que manejar una base de datos relacional sea prácticamente lo mismo que en otras aplicaciones populares de bases de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains the most-used commands.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T210155Z" creationid="JoseCarlos" creationdate="20210516T210155Z">
+        <seg>Contiene las órdenes más utilizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is consistent across the LibreOffice applications.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T204540Z" creationid="JoseCarlos" creationdate="20210516T204540Z">
+        <seg>Es coherente con las aplicaciones de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is context-sensitive; that is, it shows the tools relevant to the current position of the cursor or the object selected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T205234Z" creationid="JoseCarlos" creationdate="20210516T205234Z">
+        <seg>Es contextual, es decir, muestra las herramientas que son relevantes para la posición del cursor en cada momento o el objeto seleccionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T081322Z" creationid="JoseCarlos" creationdate="20210511T081322Z">
+        <seg>Se integra con las capacidades gráficas avanzadas de los componentes de LibreOffice Draw y Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T083327Z" creationid="JoseCarlos" creationdate="20210511T083327Z">
+        <seg>Su función "Conectores" permite al usuario definir sus propios puntos de conexión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java is available at no cost.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160648Z" creationid="JoseCarlos" creationdate="20210513T160648Z">
+        <seg>Java está disponible sin coste alguno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keeping files on remote servers allows you to work with the documents using different computers.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092209Z" creationid="Elena" creationdate="20210526T092209Z">
         <seg>Guardar archivos en servidores remotos le permite trabajar con los documentos utilizando diferentes ordenadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 7.0 requires one of the following operating systems:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083122Z" creationid="Elena" creationdate="20210526T083122Z">
+        <seg>LibreOffice 7.0 requiere uno de los siguientes sistemas operativos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice also provides support for both Complex Text Layout (CTL) and Right to Left (RTL) layout languages (such as Urdu, Hebrew, and Arabic).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T161708Z" creationid="Elena" creationdate="20210524T161708Z">
+        <seg>LibreOffice también es compatible con los idiomas de diseño de scripts complejos (Complex Text Layout) y de izquierda a derecha (Right to Left) (como por ejemplo urdu, hebreo y árabe).</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,10 +838,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has two types of toolbars: docked (fixed in place) and floating.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210514T142444Z" creationid="JoseCarlos" creationdate="20210514T142444Z">
+        <seg>LibreOffice cuenta con dos tipos de barras de herramientas: la anclada (fija en su lugar) y la flotante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice provides a single-toolbar alternative to the default double-toolbar setup.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T210041Z" creationid="JoseCarlos" creationdate="20210516T210041Z">
+        <seg>LibreOffice proporciona como alternativa una única barra de herramientas frente a la doble barra que viene configurada por defecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice supports many document servers that use well known network protocols such as FTP, WebDav, Windows share, and SSH.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092327Z" creationid="Elena" creationdate="20210526T092327Z">
         <seg>LibreOffice es compatible con muchos servidores de documentos que utilizan protocolos de red bien conocidos como FTP, WebDav, Windows share y SSH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux users will also find LibreOffice included in many of the latest Linux distributions; Ubuntu is just one example.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T162401Z" creationid="JoseCarlos" creationdate="20210513T160729Z">
+        <seg>Los usuarios de Linux también encontrarán LibreOffice incluido en muchas de las últimas distribuciones de Linux; Ubuntu es solo un ejemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,10 +894,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menu bar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081304Z" creationid="Elena" creationdate="20210526T081304Z">
+        <seg>Barra de menú</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Windows: Windows 7 SP1, Windows 8, Windows Server 2012, or Windows 10; Administrator rights are needed for the installation process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083244Z" creationid="Elena" creationdate="20210526T083244Z">
+        <seg>Microsoft Windows: Windows 7 SP1, Windows 8, Windows Server 2012, o Windows 10; se necesitan derechos de administrador para el proceso de instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimum requirements</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083053Z" creationid="Elena" creationdate="20210526T083053Z">
+        <seg>Requisitos mínimos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More information and download links to the appropriate edition for your operating system can be found at: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T111156Z" creationid="JoseCarlos" creationdate="20210525T144135Z">
+        <seg>Puede encontrar más información y enlaces de descarga de la edición adecuada para su sistema operativo en: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not saving your document could result in the loss of recently made changes, or worse still, the entire file.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112254Z" creationid="Almudena" creationdate="20210526T112254Z">
         <seg>Si no se guarda el documento, se pueden perder los cambios realizados recientemente o, peor aún, todo el archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T112541Z" creationid="JoseCarlos" creationdate="20210513T160652Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parts of the main window</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081047Z" creationid="Elena" creationdate="20210526T081047Z">
+        <seg>Partes de la ventana principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed entering your credentials.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090909Z" creationid="Elena" creationdate="20210526T090909Z">
@@ -546,6 +1042,22 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141653Z" creationid="Almudena" creationdate="20210514T141653Z">
         <seg>Consulte el capítulo 14, Personalización de LibreOffice, para obtener más información sobre la instalación de extensiones y complementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the Advanced Options in Chapter 2 of this guide.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160706Z" creationid="JoseCarlos" creationdate="20210513T160706Z">
+        <seg>Consulte las opciones avanzadas en el capítulo 2 de esta guía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the relevant chapters in this guide about Writer, Calc, Draw, Impress, Base, and Math for descriptions of those details.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081207Z" creationid="Elena" creationdate="20210526T081207Z">
+        <seg>Consulte los capítulos relevantes de esta guía acerca de Writer, Calc, Draw, Impress, Base y Math para ver las descripciones de esos detalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +1090,22 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T102545Z" creationid="Almudena" creationdate="20210526T102545Z">
         <seg>Varias extensiones se instalan con el programa y puede obtener otras del repositorio oficial de extensiones, &lt;t0/&gt;https://extensions.libreoffice.org/&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T142535Z" creationid="JoseCarlos" creationdate="20210525T142535Z">
+        <seg>Se puede mejorar aún más el uso de las presentaciones de diapositivas utilizando el texto con efectos especiales de Fontwork, así como los clips de audio y de vídeo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) (or, for macOS, the Java Development Kit (JDK)) is installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160645Z" creationid="JoseCarlos" creationdate="20210513T160645Z">
+        <seg>Algunas funciones de LibreOffice (los asistentes y el motor de base de datos HSQLDB) requieren que el entorno de ejecución de Java (JRE) (o, para macOS, el kit de desarrollo de Java (JDK)) esté instalado en su ordenador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Menu bar is located across the top of the LibreOffice window, just below the title bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T112322Z" creationid="Elena" creationdate="20210526T081336Z">
+        <seg>La barra de menú se encuentra en la parte superior de la ventana de LibreOffice, justo debajo de la barra de título.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;) which then appears has many parts.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091750Z" creationid="Elena" creationdate="20210526T090902Z">
@@ -670,6 +1206,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main window is similar for each component of LibreOffice, although some details vary.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T082020Z" creationid="Elena" creationdate="20210526T081145Z">
+        <seg>La ventana principal es similar para cada componente de LibreOffice, aunque algunos detalles varían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second toolbar at the top for Writer and Calc, in a default LibreOffice installation, is the Formatting bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T204825Z" creationid="JoseCarlos" creationdate="20210516T204825Z">
+        <seg>La segunda barra de herramientas en la parte superior de Writer y Calc, en una instalación de LibreOffice predeterminada, es la barra de Formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The thumbnails in the Start Center include an icon showing the type of file (text, spreadsheet, drawing, presentation).</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T142433Z" creationid="Almudena" creationdate="20210514T142433Z">
@@ -694,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These files can easily be unzipped and read by any text editor, and their framework is open and published.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T082859Z" creationid="Elena" creationdate="20210526T082859Z">
+        <seg>Estos archivos pueden descomprimirse fácilmente y leerse con cualquier editor de texto, y su marco de trabajo es abierto y está publicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These provide a collection of tools at the top of the workspace, grouped in various ways that may be familiar to users of Microsoft Office (the “ribbon”).</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T111812Z" creationid="Almudena" creationdate="20210515T111812Z">
@@ -714,6 +1274,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T114546Z" creationid="Almudena" creationdate="20210526T114546Z">
         <seg>Para acceder al modo seguro, realice una de las siguientes acciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To activate it, enable &lt;f0&gt;View &gt; &lt;/f0&gt;User Interface&lt;f1&gt; &gt; S&lt;/f1&gt;ingle Toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T210450Z" creationid="JoseCarlos" creationdate="20210516T210450Z">
+        <seg>Para activarla, active &lt;f0&gt;View (Ver) &gt; &lt;/f0&gt;User Interface&lt;f1&gt; (Interfaz de usuario) &gt; S&lt;/f1&gt;ingle Toolbar (Barra de herramientas única).</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toolbars</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210514T142048Z" creationid="JoseCarlos" creationdate="20210514T142048Z">
+        <seg>Barras de herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toolbars created from tool palettes are not listed in the View menu.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T113514Z" creationid="Almudena" creationdate="20210515T113514Z">
@@ -806,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Versions of LibreOffice for Windows, Linux, and macOS can be downloaded free from &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T112024Z" creationid="JoseCarlos" creationdate="20210525T144303Z">
+        <seg>Las versiones de LibreOffice para Windows, Linux y macOS pueden descargarse gratuitamente de &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;8&lt;/t2&gt;) is shown.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090350Z" creationid="Elena" creationdate="20210526T090350Z">
@@ -822,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you select one of the menus listed below, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T081414Z" creationid="Elena" creationdate="20210526T081414Z">
+        <seg>Cuando selecciona uno de los menús listados aquí, se despliega abajo un submenú para mostrar comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While it is most commonly used to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T084108Z" creationid="Almudena" creationdate="20210510T084108Z">
@@ -830,10 +1422,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users can also get LibreOffice Vanilla from the Microsoft Store for a small fee.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160859Z" creationid="JoseCarlos" creationdate="20210513T160859Z">
+        <seg>Los usuarios de Windows también pueden obtener LibreOffice Vanilla en la Microsoft Store por un pequeño precio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also choose to open an existing file or use a template.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T142223Z" creationid="Almudena" creationdate="20210514T142223Z">
         <seg>También puede elegir abrir un archivo existente o utilizar una plantilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also download the software by using a Peer-to-Peer client, such as BitTorrent, at the same address.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160727Z" creationid="JoseCarlos" creationdate="20210513T160727Z">
+        <seg>También se puede descargar el software utilizando un cliente Peer-to-Peer, como BitTorrent, en la misma dirección.</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,10 +1470,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can join the community and affect the course of the product you use.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083010Z" creationid="Elena" creationdate="20210526T083010Z">
+        <seg>Puede unirse a la comunidad e influir en el desarrollo del producto que usa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can make a desktop icon for LibreOffice or a component in the same way you can make a desktop icon for any other program; see your operating system’s help for how to do this.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T142101Z" creationid="Almudena" creationdate="20210514T142101Z">
         <seg>Puede crear un icono de escritorio para LibreOffice o un componente del mismo modo que puede crear un icono de escritorio para cualquier otro programa; consulte la ayuda de su sistema operativo para saber cómo hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can read more about LibreOffice and The Document Foundation on their websites at &lt;a0&gt;https://www.libreoffice.org/&lt;/a0&gt; and &lt;a1&gt;https://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083039Z" creationid="Elena" creationdate="20210526T083039Z">
+        <seg>Puede leer más sobre LibreOffice y The Document Foundation en sus sitios web en &lt;a0&gt;https://www.libreoffice.org/&lt;/a0&gt; y &lt;a1&gt;https://www.documentfoundation.org/&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use Draw to create drawings for use in any of the LibreOffice components, and you can create your own clip art and then add it to the Gallery.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T085841Z" creationid="JoseCarlos" creationdate="20210511T083849Z">
+        <seg>Se puede usar Draw para crear dibujos que se puedan utilizar en cualquiera de los componentes de LibreOffice y, además, el usuario puede crear su propio clip art y después añadirlo a la "Galería".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use Safe Mode to help restore an instance of LibreOffice that has become corrupted and stopped working or fails to launch.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T114321Z" creationid="Almudena" creationdate="20210526T114321Z">
@@ -898,6 +1530,30 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T085839Z" creationid="Almudena" creationdate="20210510T083428Z">
         <seg>Puede utilizarlo para crear ecuaciones complejas que incluyan símbolos o caracteres que no están disponibles en conjuntos de fuente estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not need to know which application was used to create a particular file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210524T162037Z" creationid="Elena" creationdate="20210524T162037Z">
+        <seg>No necesita saber qué aplicación se ha usado para crear un archivo concreto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS 10.10 (Yosemite) or higher; however, support for macOS 10.10 and 10.11 is deprecated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T083529Z" creationid="Elena" creationdate="20210526T083529Z">
+        <seg>macOS 10.10 (Yosemite) o superior; no obstante, la compatibilidad con macOS 10.10 y 10.11 está obsoleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS users can also get two versions of LibreOffice from the App Store for a small fee: LibreOffice Vanilla and Collabora Office (an enterprise-ready version).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T144311Z" creationid="JoseCarlos" creationdate="20210525T144311Z">
+        <seg>Los usuarios de macOS también pueden obtener dos versiones de LibreOffice en la App Store por un módico precio: LibreOffice Vanilla y Collabora Office (una versión para empresas).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
