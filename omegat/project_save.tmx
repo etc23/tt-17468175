@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This opens the Set Password dialog where you can enter a new password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T102221Z" creationid="Elena" creationdate="20210526T102221Z">
+        <seg>Se abrirá el cuadro de diálogo Establecer contraseña, en el que podrá introducir una nueva contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To enable a remote server connection, use one of these methods:</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091141Z" creationid="Elena" creationdate="20210526T091141Z">
