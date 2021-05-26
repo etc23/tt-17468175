@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is it written in Java?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165540Z" creationid="Almudena" creationdate="20210526T165540Z">
+        <seg>¿Está escrito en Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also connects to your email client.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T115901Z" creationid="paula" creationdate="20210513T212514Z">
@@ -1410,6 +1418,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160648Z" creationid="JoseCarlos" creationdate="20210513T160648Z">
         <seg>Java está disponible sin coste alguno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java is one of several languages that can be used to extend the software.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165605Z" creationid="Almudena" creationdate="20210526T165605Z">
+        <seg>Java es uno de los varios lenguajes que pueden utilizarse para ampliar el software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice is not written in Java; it is written in the C++ language.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165551Z" creationid="Almudena" creationdate="20210526T165551Z">
+        <seg>LibreOffice no está escrito en Java; está escrito en el lenguaje C++.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice provides a single-toolbar alternative to the default double-toolbar setup.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T210041Z" creationid="JoseCarlos" creationdate="20210516T210041Z">
@@ -1622,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>May I use programming code from LibreOffice in my program?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165445Z" creationid="Almudena" creationdate="20210526T165445Z">
+        <seg>¿Puedo utilizar el código de programación de LibreOffice en mi programa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu bar</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081304Z" creationid="Elena" creationdate="20210526T081304Z">
@@ -1642,6 +1674,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T083053Z" creationid="Elena" creationdate="20210526T083053Z">
         <seg>Requisitos mínimos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More information and download links to the appropriate edition for your operating system can be found at: &lt;a0&gt;&lt;f1&gt;https://java.com/en/download/manual.jsp&lt;/f1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T170417Z" creationid="Almudena" creationdate="20210526T170417Z">
+        <seg>Puede encontrar más información y enlaces de descarga de la edición adecuada para su sistema operativo en: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,6 +1890,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T151005Z" creationid="paula" creationdate="20210526T151005Z">
         <seg>Publicado en noviembre de 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read the licenses: &lt;a0&gt;https://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165531Z" creationid="Almudena" creationdate="20210526T165531Z">
+        <seg>Lea las licencias: &lt;a0&gt;https://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java JDK/JRE is only required for some features.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165616Z" creationid="Almudena" creationdate="20210526T165616Z">
+        <seg>El JDK/JRE de Java solo es necesario para algunas funciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Menu bar is located across the top of the LibreOffice window, just below the title bar.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T112322Z" creationid="Elena" creationdate="20210526T081336Z">
@@ -2178,6 +2234,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T082020Z" creationid="Elena" creationdate="20210526T081145Z">
         <seg>La ventana principal es similar para cada componente de LibreOffice, aunque algunos detalles varían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most notable one is the HSQLDB relational database engine.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165641Z" creationid="Almudena" creationdate="20210526T165641Z">
+        <seg>La más notable es el motor de base de datos relacional HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Why do I need Java to run LibreOffice?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165538Z" creationid="Almudena" creationdate="20210526T165538Z">
+        <seg>¿Por qué necesito Java para ejecutar LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on macOS.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T160304Z" creationid="Almudena" creationdate="20210526T160304Z">
@@ -2834,6 +2906,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150338Z" creationid="paula" creationdate="20210526T150338Z">
         <seg>Puede distribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU (https://www.gnu.org/licenses/gpl.html), versión 3 o posterior, o la Licencia de Atribución de Creative Commons (https://creativecommons.org/licenses/by/4.0/), versión 4.0 o posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may, within the parameters set in the MPL and/or LGPL.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T165516Z" creationid="Almudena" creationdate="20210526T165516Z">
+        <seg>Puede, dentro de los parámetros establecidos en la MPL y/o LGPL.</seg>
       </tuv>
     </tu>
     <tu>
