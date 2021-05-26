@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Help &gt; Restart in Safe Mode&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T114733Z" creationid="Almudena" creationdate="20210526T114733Z">
+        <seg>- Seleccione &lt;f0&gt;Ayuda &gt; Reiniciar en modo seguro &lt;/f0&gt;en la barra de menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose whether to save or discard your changes.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112202Z" creationid="Almudena" creationdate="20210526T112202Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102221Z" creationid="Elena" creationdate="20210526T102221Z">
         <seg>Se abrirá el cuadro de diálogo Establecer contraseña, en el que podrá introducir una nueva contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access Safe Mode, do one of the following:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T114546Z" creationid="Almudena" creationdate="20210526T114546Z">
+        <seg>Para acceder al modo seguro, realice una de las siguientes acciones:</seg>
       </tuv>
     </tu>
     <tu>
