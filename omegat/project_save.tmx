@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T110826Z" creationid="Elena" creationdate="20210526T110826Z">
+        <seg>Por ejemplo, si Calc está abierto y activo, se crea una nueva hoja de cálculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can work on a document in the office during the day and edit it at home for last-minute changes.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092224Z" creationid="Elena" creationdate="20210526T092224Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T100831Z" creationid="Elena" creationdate="20210526T100831Z">
         <seg>Cuando un documento está protegido por contraseña, puede cambiarla mientras el documento está abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also open an existing document in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T110901Z" creationid="Elena" creationdate="20210526T110901Z">
+        <seg>También puede iniciar un nuevo documento de una de las siguientes maneras:</seg>
       </tuv>
     </tu>
     <tu>
