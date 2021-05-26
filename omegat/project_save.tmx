@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog will dim until the connection is established with the server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T105046Z" creationid="Elena" creationdate="20210526T105046Z">
+        <seg>El diálogo se atenuará hasta que se establezca la conexión con el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The line below the list box shows the path to access the folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090808Z" creationid="Elena" creationdate="20210526T090808Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091854Z" creationid="Elena" creationdate="20210526T091854Z">
         <seg>Para configurar el guardado automático de archivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T105126Z" creationid="Elena" creationdate="20210526T105126Z">
+        <seg>Utilice el atajo de teclado &lt;f0&gt;Ctrl+Mayús+S&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
