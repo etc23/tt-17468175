@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on this percentage figure opens the Zoom &amp; View Layout dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212048Z" creationid="paula" creationdate="20210526T212048Z">
+        <seg>Al hacer clic en esta cifra de porcentaje se abre el cuadro de diálogo Zoom y diseño de la vista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closing LibreOffice</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112258Z" creationid="Almudena" creationdate="20210526T112258Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T174207Z" creationid="Almudena" creationdate="20210526T174207Z">
         <seg>Done a LibreOffice: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag the Zoom slider, or click on the + and – signs to change the view magnification of your document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212025Z" creationid="paula" creationdate="20210526T212025Z">
+        <seg>Arrastre el control deslizante del zoom o haga clic en los signos + y - para cambiar la ampliación de la vista de su documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,6 +1458,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T152307Z" creationid="Almudena" creationdate="20210526T152307Z">
         <seg>En el caso de las extensiones compartidas o agrupadas, la opción solo funcionará si tiene los derechos de acceso al sistema adecuados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indicates the magnification level of the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212030Z" creationid="paula" creationdate="20210526T212030Z">
+        <seg>Indica el nivel de ampliación del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the percentage figure to open a list of magnification values from which to choose.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212033Z" creationid="paula" creationdate="20210526T212033Z">
+        <seg>Haga clic con el botón derecho del ratón en la cifra del porcentaje para abrir una lista de valores de ampliación entre los que elegir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save As command</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T155036Z" creationid="paula" creationdate="20210526T155036Z">
@@ -2288,8 +2320,8 @@
       <tuv lang="EN">
         <seg>Select between Single-page view, Multiple-page view, and Book view to change how your document is displayed.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211751Z" creationid="paula" creationdate="20210526T211751Z">
-        <seg>Seleccione entre la vista de una página, la vista de varias páginas y la vista de libro para cambiar la forma en que se muestra el documento.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211905Z" creationid="paula" creationdate="20210526T211751Z">
+        <seg>Seleccione entre la Vista de página individual, Vista de páginas múltiples y la Vista de libro para cambiar la forma en que se muestra el documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3426,22 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T165516Z" creationid="Almudena" creationdate="20210526T165516Z">
         <seg>Puede, dentro de los parámetros establecidos en la MPL y/o LGPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom percentage</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212026Z" creationid="paula" creationdate="20210526T212026Z">
+        <seg>Porcentaje de zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom slider</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212009Z" creationid="paula" creationdate="20210526T212009Z">
+        <seg>Deslizador de zoom</seg>
       </tuv>
     </tu>
     <tu>
