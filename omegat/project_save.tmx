@@ -1752,8 +1752,8 @@
       <tuv lang="EN">
         <seg>Move the mouse cursor over the toolbar handle, which is the small vertical bar to the left of a docked toolbar and highlighted in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T164811Z" creationid="paula" creationdate="20210526T164740Z">
-        <seg>Mueva el cursor del ratón sobre la barra de herramientas (la barra vertical pequeña situada a la izquierda de una barra de herramientas anclada y subrayada en Figure) &lt;t0/&gt;3&lt;t/0&gt;.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194327Z" creationid="paula" creationdate="20210526T164740Z">
+        <seg>Mueva el cursor del ratón sobre la barra de herramientas (la barra vertical pequeña situada a la izquierda de una barra de herramientas anclada y subrayada en Figure) &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2056,8 @@
       <tuv lang="EN">
         <seg>See “&lt;bf2&gt;Moving toolbars&lt;/bf2&gt;” and “&lt;bf3&gt;Floating toolbars&lt;/bf3&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T161057Z" creationid="paula" creationdate="20210526T161057Z">
-        <seg>Consulte “&lt;f2&gt;barras de herramientas móviles&lt;/f2&gt;” y “&lt;f3&gt;barras de herramientas desplegables&lt;/f3&gt;” de debajo para más información sobre cómo mover y desplegar estas barras de herramientas creadas a partir de paletas de herramientas.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T194310Z" creationid="paula" creationdate="20210526T161057Z">
+        <seg>Consulte “&lt;bf2&gt;barras de herramientas móviles&lt;/bf2&gt;” y “&lt;bf3&gt;barras de herramientas desplegables&lt;/bf3&gt;” de debajo para más información sobre cómo mover y desplegar estas barras de herramientas creadas a partir de paletas de herramientas.</seg>
       </tuv>
     </tu>
     <tu>
