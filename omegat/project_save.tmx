@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090654Z" creationid="Elena" creationdate="20210526T090654Z">
+        <seg>Haga clic en el botón Abrir o Guardar para continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the connection is defined, click &lt;f0&gt;OK&lt;/f0&gt; to connect.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090635Z" creationid="Elena" creationdate="20210526T090635Z">
+        <seg>Una vez definida la conexión, haga clic en Aceptar para conectarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting new documents</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090223Z" creationid="Elena" creationdate="20210526T090223Z">
         <seg>Inicio de nuevos documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main pane displays the files in the remote folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090723Z" creationid="Elena" creationdate="20210526T090723Z">
+        <seg>El panel principal muestra los archivos de la carpeta remota.</seg>
       </tuv>
     </tu>
     <tu>
