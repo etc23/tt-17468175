@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Context menus provide quick access to many menu functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210329Z" creationid="paula" creationdate="20210526T210329Z">
+        <seg>Los menús contextuales proporcionan un acceso rápido a muchas funciones del menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150419Z" creationid="paula" creationdate="20210526T150419Z">
@@ -2414,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are opened by right-clicking on a paragraph, graphic, or other object.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210425Z" creationid="paula" creationdate="20210526T210425Z">
+        <seg>Se abren haciendo clic con el botón derecho del ratón en un párrafo, gráfico u otro objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This book introduces the main components of LibreOffice:</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T155441Z" creationid="Almudena" creationdate="20210526T155441Z">
@@ -2730,6 +2746,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T123042Z" creationid="Elena" creationdate="20210526T090350Z">
         <seg>Cuando LibreOffice se está ejecutando pero no hay ningún documento abierto, se muestra el Centro de Inicio (Figura &lt;t0&gt;1&lt;/t0&gt; en la página &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a context menu opens, the functions or options available will depend on the object that has been selected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210534Z" creationid="paula" creationdate="20210526T210534Z">
+        <seg>Cuando se abre un menú contextual, las funciones u opciones disponibles dependerán del objeto que se haya seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
