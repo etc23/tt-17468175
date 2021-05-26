@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>May I distribute the PDF of this book, or print and sell copies?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T172138Z" creationid="Almudena" creationdate="20210526T172138Z">
+        <seg>¿Puedo distribuir el PDF de este libro, o imprimir y vender copias?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>May I sell it?</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T164849Z" creationid="Almudena" creationdate="20210526T164849Z">
@@ -2630,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T174153Z" creationid="Almudena" creationdate="20210526T174153Z">
+        <seg>Le pedimos que comparta con el proyecto parte de los beneficios que obtenga de las ventas de los libros, en consideración a todo el trabajo que hemos realizado para producirlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is LibreOffice?</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210513T212131Z" creationid="paula" creationdate="20210513T212131Z">
@@ -2762,6 +2778,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210513T212434Z" creationid="paula" creationdate="20210513T212434Z">
         <seg>La sofisticada herramienta Writer sirve para crear cartas, libros, informes, artículos, folletos y otros documentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T172209Z" creationid="Almudena" creationdate="20210526T172209Z">
+        <seg>Sí, siempre que cumpla con los requisitos de una de las licencias que aparecen en la declaración de derechos de autor al principio de este libro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,6 +2962,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T085839Z" creationid="Almudena" creationdate="20210510T083428Z">
         <seg>Puede utilizarlo para crear ecuaciones complejas que incluyan símbolos o caracteres que no están disponibles en conjuntos de fuente estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to request special permission.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T172239Z" creationid="Almudena" creationdate="20210526T172239Z">
+        <seg>No tiene que solicitar un permiso especial.</seg>
       </tuv>
     </tu>
     <tu>
