@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more detail, see the user guides for the individual components.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155733Z" creationid="Almudena" creationdate="20210526T155733Z">
+        <seg>Para obtener más detalles, consulte las guías de usuario de cada uno de los componentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNU/Linux: Kernel version 3.10 or higher and glibc2 v2.17 or higher.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T083410Z" creationid="Elena" creationdate="20210526T083410Z">
@@ -1942,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This book, the other LibreOffice user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160105Z" creationid="Almudena" creationdate="20210526T160105Z">
+        <seg>Este libro, las otras guías de usuario de LibreOffice, el sistema de ayuda incorporado y los sistemas de asistencia al usuario suponen que usted está familiarizado con su ordenador y con funciones básicas como iniciar un programa, abrir y guardar archivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright © &lt;t0&gt;2020&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150115Z" creationid="paula" creationdate="20210526T150115Z">
@@ -2210,6 +2226,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081414Z" creationid="Elena" creationdate="20210526T081414Z">
         <seg>Cuando selecciona uno de los menús listados aquí, se despliega abajo un submenú para mostrar comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where to get more help</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155738Z" creationid="Almudena" creationdate="20210526T155738Z">
+        <seg>Dónde obtener más ayuda</seg>
       </tuv>
     </tu>
     <tu>
