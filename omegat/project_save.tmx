@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210525T180823Z" creationid="Almudena" creationdate="20210525T180823Z">
+        <seg>&lt;/f0&gt;Puedes distribuir, copiar y modificar el software tanto como desee, de acuerdo con las licencias de código abierto de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; at &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;http://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210525T220954Z" creationid="Almudena" creationdate="20210525T220954Z">
+        <seg>&lt;f0&gt;Documentación para LibreOffice está disponible &lt;/f0&gt;&lt;f1&gt; en &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;http://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;No licensing fees.&lt;/f0&gt; LibreOffice is free for anyone to use and distribute at no cost.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210525T212341Z" creationid="Almudena" creationdate="20210525T212341Z">
+        <seg>&lt;f0&gt;Sin costes de licencia.&lt;/f0&gt; LibreOffice se puede utilizar y distribuir gratis sin coste alguno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open source.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210525T180624Z" creationid="Almudena" creationdate="20210525T180624Z">
+        <seg>&lt;f0&gt;Es de cógido abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog asking for the user name and the password may pop up to let you log in the server.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090947Z" creationid="Elena" creationdate="20210526T090947Z">
         <seg>Es posible que aparezca un cuadro de diálogo solicitando el nombre de usuario y la contraseña para permitirle iniciar la sesión en el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advantages of LibreOffice</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T085905Z" creationid="Almudena" creationdate="20210510T084601Z">
+        <seg>Ventajas de LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An active toolbar shows a checkmark beside its name.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210515T113229Z" creationid="Almudena" creationdate="20210515T113229Z">
+        <seg>Una barra de herramientas activa muestra una marca de verificación junto a su nombre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +70,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base also provides support for a subset of ANSI-92 SQL.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T083037Z" creationid="Almudena" creationdate="20210510T083037Z">
+        <seg>La base también proporciona asistencia para un subconjunto de ANSI-92 SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base incorporates two relational database engines, HSQLDB and Firebird.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T082648Z" creationid="Almudena" creationdate="20210510T082648Z">
+        <seg>La base incorpora dos motores de bases de datos relacionales, HSQLDB y Firebird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base provides many new features, such as the ability to analyze and edit relationships from a diagram view.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T082525Z" creationid="Almudena" creationdate="20210510T082525Z">
+        <seg>La base proporciona muchas características nuevas, como la posibilidad de analizar y editar las relaciones desde una vista de diagrama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the password</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T100722Z" creationid="Elena" creationdate="20210526T100722Z">
         <seg>Cambiar la contraseña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 1 Introducing LibreOffice</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T102250Z" creationid="Almudena" creationdate="20210526T102250Z">
+        <seg>Capítulo 1 Introducción a LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +134,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T102758Z" creationid="Almudena" creationdate="20210526T102758Z">
+        <seg>Al hacer clic en la entrada del menú de LibreOffice, en el icono del escritorio o en el mosaico, se abre el Centro de inicio de LibreOffice (Figura &lt;t0/&gt;1&lt;t1/&gt;) desde donde puede seleccionar los componentes individuales de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Closing a document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T111133Z" creationid="Almudena" creationdate="20210526T111133Z">
+        <seg>Cerrar un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the type of file service you choose in the Type listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091034Z" creationid="Elena" creationdate="20210526T091034Z">
         <seg>Dependiendo del tipo de servicio de archivos que elija en el cuadro de lista Tipo, serán necesarios diferentes parámetros para calificar completamente la conexión con el servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displaying or hiding toolbars</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210515T111952Z" creationid="Almudena" creationdate="20210515T111952Z">
+        <seg>Mostrar u ocultar la barra de herramientas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions and add-ons</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T141107Z" creationid="Almudena" creationdate="20210514T141107Z">
+        <seg>Extensiones y complementos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions and add-ons are available to enhance LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T141122Z" creationid="Almudena" creationdate="20210514T141122Z">
+        <seg>Existen extensiones y complementos para mejorar LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +222,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T085919Z" creationid="Almudena" creationdate="20210510T084730Z">
+        <seg>Estas son algunas de las ventajas que ofrece LibreOffice sobre otros paquetes de ofimática :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to install the software</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T140944Z" creationid="Almudena" creationdate="20210514T140944Z">
+        <seg>Cómo instalar el software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only one document is open and you want to close that document, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T111316Z" creationid="Almudena" creationdate="20210526T111316Z">
+        <seg>Si solo hay un documento abierto y quiere cerrarlo, vaya a Archivo &gt; Cerrar en la barra de menús o haga clic en la X del extremo derecho o izquierdo de la barra de menús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In general, you start LibreOffice the same way you start any other program on your computer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T141858Z" creationid="Almudena" creationdate="20210514T141858Z">
+        <seg>En general, se inicia LibreOffice de la misma manera que cualquier otro programa en el ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T102523Z" creationid="Almudena" creationdate="20210526T102523Z">
+        <seg>Aquí se ofrece la información sobre la instalación y configuración de LibreOffice en los distintos sistemas operativos compatibles: &lt;t0/&gt;https://www.libreoffice.org/get-help/install-howto/&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also supports popular services like Google Drive and Microsoft OneNote, as well as commercial and open source servers that implement the OASIS CMIS standard.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092351Z" creationid="Elena" creationdate="20210526T092351Z">
         <seg>También soporta servicios populares como Google Drive y Microsoft OneNote, así como servidores comerciales y de código abierto que implementan el estándar OASIS CMIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can also use PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle, or any ODBC compliant or JDBC compliant database.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T082858Z" creationid="Almudena" creationdate="20210510T082858Z">
+        <seg>También puede utilizar PostgreSQL, dBASE, Microsoft Access, MySQL, Oracle o cualquier base de datos compatible con ODBC o JDBC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +310,54 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T085432Z" creationid="Almudena" creationdate="20210510T085432Z">
+        <seg>Muchas aplicaciones que están disponibles en otros paquetes de ofimática como complementos con un coste adicional (como la exportación de PDF) son gratuitas con LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Math (formula editor)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T083124Z" creationid="Almudena" creationdate="20210510T083104Z">
+        <seg>Math (editor de fórmulas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Math is the LibreOffice formula or equation editor.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T083207Z" creationid="Almudena" creationdate="20210510T083207Z">
+        <seg>Math es el editor de fórmulas o ecuaciones de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Windows and Linux, entries for LibreOffice and each of its components appear in the system menu of your computer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T141954Z" creationid="Almudena" creationdate="20210514T141954Z">
+        <seg>En Windows y Linux, las entradas para LibreOffice y cada uno de sus componentes aparecen en el menú del sistema de su ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Windows and Linux, the document closes and the LibreOffice Start Center opens.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T111431Z" creationid="Almudena" creationdate="20210526T111431Z">
+        <seg>En Windows y Linux, el documento se cierra y se abre el Centro de inicio de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On macOS, only an entry for LibreOffice is added to the Applications menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T142022Z" creationid="Almudena" creationdate="20210514T142022Z">
+        <seg>En macOS, solo se añade una entrada para LibreOffice en el menú Aplicaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), click &lt;f1&gt;Manage Services / Add Service&lt;/f1&gt; button in the upper right to open the File Services dialog (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091707Z" creationid="Elena" creationdate="20210526T091707Z">
@@ -174,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other variations include Tabbed and Groupedbar Compact, both accessed from &lt;f0&gt;View &gt; User Interface&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210525T220252Z" creationid="Almudena" creationdate="20210525T220252Z">
+        <seg>Otras variaciones incluyen Tabbed y Groupedbar Compact, ambas accesibles desde&lt;f0&gt;Ver &gt; Interfaz de usuario&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed entering your credentials.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090909Z" creationid="Elena" creationdate="20210526T090909Z">
@@ -186,6 +410,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102446Z" creationid="Elena" creationdate="20210526T102446Z">
         <seg>Guardar documentos automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 14, Customizing LibreOffice, for more information on installing extensions and add-ons.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T141653Z" creationid="Almudena" creationdate="20210514T141653Z">
+        <seg>Consulte el capítulo 14, Personalización de LibreOffice, para obtener más información sobre la instalación de extensiones y complementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +446,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T102545Z" creationid="Almudena" creationdate="20210526T102545Z">
+        <seg>Varias extensiones se instalan con el programa y puede obtener otras del repositorio oficial de extensiones, &lt;t0/&gt;https://extensions.libreoffice.org/&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some servers are also able to check-in and check-out files, thus controlling their usage and access.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092257Z" creationid="Elena" creationdate="20210526T092257Z">
         <seg>Algunos servidores también pueden registrar la entrada y salida de archivos, controlando así su uso y acceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting LibreOffice</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T141700Z" creationid="Almudena" creationdate="20210514T141700Z">
+        <seg>Iniciar LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +482,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092236Z" creationid="Elena" creationdate="20210526T092236Z">
         <seg>Almacenar los archivos en un servidor remoto también sirve para hacer una copia de seguridad de los documentos en caso de pérdida del ordenador o fallo del disco duro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sub-menus and tool palettes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210515T114311Z" creationid="Almudena" creationdate="20210515T114311Z">
+        <seg>Submenús y paleta de herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The thumbnails in the Start Center include an icon showing the type of file (text, spreadsheet, drawing, presentation).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T142433Z" creationid="Almudena" creationdate="20210514T142433Z">
+        <seg>Las miniaturas del Centro de Inicio incluyen un icono que muestra el tipo de archivo (texto, hoja de cálculo, dibujo, presentación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The upper list box contains the list of remote servers you have previously defined.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090825Z" creationid="Elena" creationdate="20210526T090825Z">
@@ -278,10 +542,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are no hidden charges now or in the future.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T085549Z" creationid="Almudena" creationdate="20210510T085549Z">
+        <seg>No hay costes ocultos ni ahora ni en el futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These provide a collection of tools at the top of the workspace, grouped in various ways that may be familiar to users of Microsoft Office (the “ribbon”).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210515T111812Z" creationid="Almudena" creationdate="20210515T111812Z">
+        <seg>Estas proporcionan una colección de herramientas en la parte superior del espacio de trabajo, agrupadas de diferentes maneras que pueden resultar familiares a los usuarios de Microsoft Office (la "cinta").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the Set Password dialog where you can enter a new password.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102221Z" creationid="Elena" creationdate="20210526T102221Z">
         <seg>Se abrirá el cuadro de diálogo Establecer contraseña, en el que podrá introducir una nueva contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To close a toolbar, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close Toolbar&lt;/f1&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210525T220808Z" creationid="Almudena" creationdate="20210525T220808Z">
+        <seg>Para cerrar una barra de herramientas, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menús y desmarque la barra de herramientas o bien haga click derecho en un espacio vacío entre los iconos de una barra de herramientas y seleccione &lt;f1&gt;Cerrar barra de herramientas&lt;/f1&gt; en el menú contextual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display or hide toolbars in a standard setup, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the submenu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210525T220431Z" creationid="Almudena" creationdate="20210525T220431Z">
+        <seg>Para mostrar u ocultar las barras de herramientas en una configuración estándar, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menús y después haga click en el nombre de una barra de herramientas del submenú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +594,30 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091854Z" creationid="Elena" creationdate="20210526T091854Z">
         <seg>Para configurar el guardado automático de archivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tool palettes can be made into a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210515T143229Z" creationid="Almudena" creationdate="20210515T143229Z">
+        <seg>Las paletas de herramientas pueden convertirse en una barra de herramientas desplegable. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbar icons with a small triangle to the right will display sub-menus, tool palettes, and alternative methods of selecting items, depending on the icon.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210515T143102Z" creationid="Almudena" creationdate="20210515T143102Z">
+        <seg>Los iconos de la barra de herramientas con un pequeño triángulo a la derecha le mostrarán submenús, paleta de herramientas y métodos alternativos de selección de elementos dependiendo del icono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars created from tool palettes are not listed in the View menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210515T113514Z" creationid="Almudena" creationdate="20210515T113514Z">
+        <seg>Las barras de herramientas creadas a partir de paletas de herramientas no aparecen en el menú Ver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +654,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While it is most commonly used to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T084108Z" creationid="Almudena" creationdate="20210510T084108Z">
+        <seg>Mientras que normalmente se utiliza para crear fórmulas en otros documentos como los archivos de Writer e Impress, Math también puede funcionar como herramienta independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also choose to open an existing file or use a template.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T142223Z" creationid="Almudena" creationdate="20210514T142223Z">
+        <seg>También puede elegir abrir un archivo existente o utilizar una plantilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also open an existing document in one of the following ways:</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T110901Z" creationid="Elena" creationdate="20210526T110901Z">
@@ -350,10 +686,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can make a desktop icon for LibreOffice or a component in the same way you can make a desktop icon for any other program; see your operating system’s help for how to do this.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210514T142101Z" creationid="Almudena" creationdate="20210514T142101Z">
+        <seg>Puede crear un icono de escritorio para LibreOffice o un componente del mismo modo que puede crear un icono de escritorio para cualquier otro programa; consulte la ayuda de su sistema operativo para saber cómo hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can save formulas in the standard Mathematical Markup Language (MathML) format for inclusion in web pages and other documents not created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T085900Z" creationid="Almudena" creationdate="20210510T084551Z">
+        <seg>Puede guardar fórmulas en el formato estándar del lenguaje de marcas matemático (MathML) para incluirlas en páginas web y otros documentos que no han sido creados por LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can start a new, blank document in LibreOffice in several ways.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090234Z" creationid="Elena" creationdate="20210526T090234Z">
         <seg>Puede iniciar un nuevo documento en blanco en LibreOffice de varias maneras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use it to create complex equations that include symbols or characters not available in standard font sets.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210510T085839Z" creationid="Almudena" creationdate="20210510T083428Z">
+        <seg>Puede utilizarlo para crear ecuaciones complejas que incluyan símbolos o caracteres que no están disponibles en conjuntos de fuente estándar.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
