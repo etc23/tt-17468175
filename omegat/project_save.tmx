@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 1 Introducing LibreOffice&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T174244Z" creationid="Almudena" creationdate="20210526T174244Z">
+        <seg>&lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Capítulo 1 Introducción a LibreOffice&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 1 Introducing LibreOffice&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081850Z" creationid="Elena" creationdate="20210526T081850Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081845Z" creationid="Elena" creationdate="20210526T081845Z">
         <seg>&lt;t0&gt;Capítulo 1 Introducción a LibreOffice&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Frequently asked questions&lt;/t0&gt; | &lt;t1&gt;25&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T174229Z" creationid="Almudena" creationdate="20210526T174229Z">
+        <seg>&lt;t0&gt;Preguntas frecuentes&lt;/t0&gt; | &lt;t1&gt;25&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +754,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T203331Z" creationid="paula" creationdate="20210514T142726Z">
         <seg>Las barras de herramientas ancladas se pueden desfijar para desplazarlas a una posición diferente o dejarlas como herramientas desplegables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Donate to LibreOffice: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T174207Z" creationid="Almudena" creationdate="20210526T174207Z">
+        <seg>Done a LibreOffice: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
