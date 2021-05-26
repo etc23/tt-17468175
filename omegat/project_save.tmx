@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Extensions&lt;/f0&gt; – If you suspect that a corrupted extension is blocking or causing LibreOffice to crash, you can use this option to uninstall all user extensions and reset the state of any shared or bundled extensions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T151943Z" creationid="Almudena" creationdate="20210526T151943Z">
+        <seg>- &lt;f0&gt;Extensiones&lt;/f0&gt; - Si sospecha que una extensión corrupta está bloqueando o provocando el bloqueo de LibreOffice, puede utilizar esta opción para desinstalar todas las extensiones de usuario y restablecer el estado de cualquier extensión compartida o incluida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Extensive language support.&lt;/f0&gt; The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210524T161622Z" creationid="Elena" creationdate="20210524T161622Z">
