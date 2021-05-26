@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How is LibreOffice licensed?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T161329Z" creationid="Almudena" creationdate="20210526T161329Z">
+        <seg>¿Cuál es la licencia de LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to get the software</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160713Z" creationid="JoseCarlos" creationdate="20210513T160713Z">
