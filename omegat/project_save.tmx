@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Selection of visible toolbar icons</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T165334Z" creationid="paula" creationdate="20210526T165334Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Barras de herramientas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T161020Z" creationid="paula" creationdate="20210526T161020Z">
@@ -2030,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select or deselect icons to hide or show them on the toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T165244Z" creationid="paula" creationdate="20210526T165244Z">
+        <seg>Seleccione o deseleccione los iconos para ocultarlos o mostrarlos en la barra de herramientas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T102545Z" creationid="Almudena" creationdate="20210526T102545Z">
@@ -2578,6 +2594,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T112024Z" creationid="JoseCarlos" creationdate="20210525T144303Z">
         <seg>Las versiones de LibreOffice para Windows, Linux y macOS pueden descargarse gratuitamente de &lt;a0&gt;https://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visible icons on a toolbar are indicated by an outline around the icon (Figure &lt;t1&gt;4&lt;/t1&gt;) or by a check mark beside the icon, depending on your operating system.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T165240Z" creationid="paula" creationdate="20210526T165240Z">
+        <seg>Los iconos visibles de una barra de herramientas se indican con un contorno alrededor del icono (Figura &lt;t1&gt;4&lt;/t1&gt;) o con una marca de verificación junto al icono, dependiendo de su sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
