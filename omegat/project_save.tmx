@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), click &lt;f1&gt;Manage Services / Add Service&lt;/f1&gt; button in the upper right to open the File Services dialog (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091707Z" creationid="Elena" creationdate="20210526T091707Z">
+        <seg>En el cuadro de diálogo Archivos remotos (Figura &lt;t0&gt;12&lt;/t0&gt;), haga clic &lt;f1&gt;en el botón Administrar servicios / Añadir servicio&lt;/f1&gt; en la parte superior derecha para abrir el cuadro de diálogo Servicios de archivo (Figura &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the left is the folder structure of the user space in the server.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090748Z" creationid="Elena" creationdate="20210526T090748Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091316Z" creationid="Elena" creationdate="20210526T091316Z">
         <seg>Seleccione &lt;f0&gt;Archivo &gt; Abrir remoto&lt;/f0&gt; en cualquier documento abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; Save Remote&lt;/f0&gt; in any open document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091340Z" creationid="Elena" creationdate="20210526T091340Z">
+        <seg>Seleccione &lt;f0&gt;Archivo &gt; Guardar remoto&lt;/f0&gt; en cualquier documento abierto.</seg>
       </tuv>
     </tu>
     <tu>
