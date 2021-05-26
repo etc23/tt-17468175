@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Command)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T153042Z" creationid="paula" creationdate="20210526T153042Z">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (Comando)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 1 Introducing LibreOffice&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081850Z" creationid="Elena" creationdate="20210526T081850Z">
@@ -1342,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Styles deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T153351Z" creationid="paula" creationdate="20210526T153351Z">
+        <seg>Abre el mazo de Estilos en la barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening an existing document before starting LibreOffice</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210514T142128Z" creationid="paula" creationdate="20210514T142128Z">
@@ -1874,6 +1890,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T150927Z" creationid="Almudena" creationdate="20210526T150927Z">
         <seg>Utilice esta opción para restaurar la configuración del usuario, las extensiones instaladas, o ambas, a un estado de funcionamiento anterior conocido si sospecha que sus problemas fueron causados por cambios recientes en cualquiera de ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T153102Z" creationid="paula" creationdate="20210526T153102Z">
+        <seg>Se utiliza con otras teclas</seg>
       </tuv>
     </tu>
     <tu>
