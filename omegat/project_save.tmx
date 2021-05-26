@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the same button to show the Sidebar again.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212535Z" creationid="paula" creationdate="20210526T212535Z">
+        <seg>Haga clic en el mismo botón para volver a mostrar la barra lateral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on this field to open the Go to Page dialog.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211109Z" creationid="paula" creationdate="20210526T211109Z">
@@ -1086,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Properties panel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212454Z" creationid="paula" creationdate="20210526T212454Z">
+        <seg>Por ejemplo, los botones para poner el texto en negrita o cursiva existen tanto en la barra de herramientas de Formato como en el panel de Propiedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the drawing tools available in Writer are also found in Calc, with similar but enhanced versions in Impress and Draw.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210524T162019Z" creationid="Elena" creationdate="20210524T162019Z">
@@ -1110,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can freely mix working in the main edit window to enter text and use the Properties panel in the sidebar to change text attributes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212422Z" creationid="paula" creationdate="20210526T212422Z">
+        <seg>Por ejemplo, puede mezclar libremente el trabajo en la ventana de edición principal para introducir texto y utilizar el panel Propiedades de la barra lateral para cambiar los atributos del texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can open a Draw file from Writer; it will open automatically in Draw.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210524T162101Z" creationid="Elena" creationdate="20210524T162101Z">
@@ -1122,6 +1146,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092224Z" creationid="Elena" creationdate="20210526T092224Z">
         <seg>Por ejemplo, puede trabajar en un documento en la oficina durante el día y editarlo en casa para realizar cambios de última hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212503Z" creationid="paula" creationdate="20210526T212503Z">
+        <seg>Para más detalles, consulte la explicación de la barra lateral en la guía del usuario del componente de LibreOffice correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To hide the Sidebar, click on the gray &lt;f0&gt;Hide&lt;/f0&gt; button on the left.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212526Z" creationid="paula" creationdate="20210526T212526Z">
+        <seg>Para ocultar la barra lateral, haga clic en el botón gris &lt;f0&gt;Ocultar&lt;/f0&gt; de la izquierda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T112453Z" creationid="paula" creationdate="20210516T202025Z">
@@ -2942,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the Sidebar settings drop-down list at the top of the tab bar (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212758Z" creationid="paula" creationdate="20210526T212758Z">
+        <seg>Para desacoplar la Sidebar y hacerla flotante, y para acoplar una Sidebar flotante, utilice la lista desplegable de configuración de Sidebar en la parte superior de la barra de pestañas (véase la figura &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tool palettes can be made into a floating toolbar.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T143229Z" creationid="Almudena" creationdate="20210515T143229Z">
@@ -2962,6 +3010,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210514T142048Z" creationid="JoseCarlos" creationdate="20210514T142048Z">
         <seg>Barras de herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbars and Sidebar panels share many functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212443Z" creationid="paula" creationdate="20210526T212443Z">
+        <seg>Las barras de herramientas y los paneles de la barra lateral comparten muchas funciones.</seg>
       </tuv>
     </tu>
     <tu>
