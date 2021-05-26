@@ -358,6 +358,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A panel is like a combination of a toolbar and a dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212349Z" creationid="paula" creationdate="20210526T212349Z">
+        <seg>Un panel es como una combinación de una barra de herramientas y un diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A tab bar on the right side of the sidebar allows you to switch between different decks.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212133Z" creationid="paula" creationdate="20210526T212133Z">
+        <seg>Una barra de pestañas en el lado derecho de la barra lateral le permite cambiar entre las diferentes cubiertas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T152140Z" creationid="paula" creationdate="20210526T151938Z">
@@ -370,6 +386,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T085905Z" creationid="Almudena" creationdate="20210510T084601Z">
         <seg>Ventajas de LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All four components contain the Properties, Styles, Gallery, and Navigator decks.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212139Z" creationid="paula" creationdate="20210526T212139Z">
+        <seg>Los cuatro componentes contienen los mazos de Propiedades, Estilos, Galería y Navegador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +826,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T154446Z" creationid="paula" creationdate="20210526T154446Z">
         <seg>Personalizar las barras de herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decks are organized into panels.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212130Z" creationid="paula" creationdate="20210526T212130Z">
+        <seg>Los mazos se organizan en paneles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1578,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T085505Z" creationid="JoseCarlos" creationdate="20210511T085505Z">
         <seg>Se pueden crear y editar formularios, informes, consultas, tablas, vistas y relaciones, lo que hace que manejar una base de datos relacional sea prácticamente lo mismo que en otras aplicaciones populares de bases de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains one or more decks, based on the current document context.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212126Z" creationid="paula" creationdate="20210526T212126Z">
+        <seg>Contiene uno o más mazos, según el contexto del documento actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some components have additional decks, such as Page for Writer; Master Slides, Animation, and Slide Transition for Impress; Shapes for Draw; and Functions for Calc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212147Z" creationid="paula" creationdate="20210526T212147Z">
+        <seg>Algunos componentes tienen cubiertas adicionales, como Página para Writer; Diapositivas maestras, Animación y Transición de diapositivas para Impress; Formas para Draw; y Funciones para Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T151018Z" creationid="paula" creationdate="20210526T151018Z">
@@ -2530,6 +2578,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210513T212612Z" creationid="paula" creationdate="20210513T212612Z">
         <seg>La función Scenario Manager proporciona análisis Excel What-If.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Sidebar (Figure &lt;t1&gt;7&lt;/t1&gt;) is located on the right side of the edit views of Writer, Calc, Impress, and Draw.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212123Z" creationid="paula" creationdate="20210526T212123Z">
+        <seg>La barra lateral (Figura &lt;t1&gt;7&lt;/t1&gt;) se encuentra en la parte derecha de las vistas de edición de Writer, Calc, Impress y Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2826,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T210450Z" creationid="JoseCarlos" creationdate="20210516T210450Z">
         <seg>Para activarla, active &lt;f0&gt;View (Ver) &gt; &lt;/f0&gt;User Interface&lt;f1&gt; (Interfaz de usuario) &gt; S&lt;/f1&gt;ingle Toolbar (Barra de herramientas única).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To activate the Sidebar, select &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T212107Z" creationid="paula" creationdate="20210526T212107Z">
+        <seg>Para activar la barra lateral, seleccione  &lt;f0&gt;Ver &gt; Barra lateral&lt;/f0&gt; en la barra de menús.</seg>
       </tuv>
     </tu>
     <tu>
