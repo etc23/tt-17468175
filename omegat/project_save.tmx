@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A context menu can be the easiest way to reach a function, especially if you are not sure where the function is located in the menus or toolbars.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210558Z" creationid="paula" creationdate="20210526T210558Z">
+        <seg>Un menú contextual puede ser la forma más fácil de llegar a una función, especialmente si no está seguro de dónde se encuentra la función en los menús o barras de herramientas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog asking for the user name and the password may pop up to let you log in the server.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090947Z" creationid="Elena" creationdate="20210526T090947Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Context menus may display an applicable keyboard shortcut if one has been set; you can toggle this visibility off or on in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View &gt; Visibility&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210627Z" creationid="paula" creationdate="20210526T210627Z">
+        <seg>Los menús contextuales pueden mostrar un atajo de teclado aplicable si se ha establecido uno; puede desactivar o activar esta visibilidad en &lt;f0&gt;Herramientas &gt; Opciones &gt; LibreOffice &gt; Vista &gt; Visibilidad&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Context menus provide quick access to many menu functions.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T210329Z" creationid="paula" creationdate="20210526T210329Z">
@@ -906,6 +922,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T165334Z" creationid="paula" creationdate="20210526T165334Z">
         <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Barras de herramientas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Keyboard shortcuts in context menus</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210734Z" creationid="paula" creationdate="20210526T210734Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Atajos de teclado en menús contextuales</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1498,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T081322Z" creationid="JoseCarlos" creationdate="20210511T081322Z">
         <seg>Se integra con las capacidades gráficas avanzadas de los componentes de LibreOffice Draw y Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It provides information about the document and convenient ways to change some features quickly.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210846Z" creationid="paula" creationdate="20210526T210846Z">
+        <seg>Proporciona información sobre el documento y formas convenientes de cambiar algunas características rápidamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2394,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T204825Z" creationid="JoseCarlos" creationdate="20210516T204825Z">
         <seg>La segunda barra de herramientas en la parte superior de Writer y Calc, en una instalación de LibreOffice predeterminada, es la barra de Formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The status bar is located at the bottom of the workspace.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210749Z" creationid="paula" creationdate="20210526T210749Z">
+        <seg>La barra de estado se encuentra en la parte inferior del espacio de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
