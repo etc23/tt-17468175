@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening existing documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154706Z" creationid="paula" creationdate="20210526T154706Z">
+        <seg>Abrir documentos existentes 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other variations include Tabbed and Groupedbar Compact, both accessed from &lt;f0&gt;View &gt; User Interface&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T220252Z" creationid="Almudena" creationdate="20210525T220252Z">
@@ -1530,6 +1538,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081047Z" creationid="Elena" creationdate="20210526T081047Z">
         <seg>Partes de la ventana principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password protection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T155109Z" creationid="paula" creationdate="20210526T155109Z">
+        <seg>Protección con contraseña</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,10 +1598,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reloading a document</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T155559Z" creationid="paula" creationdate="20210526T155559Z">
+        <seg>Recargar un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T151944Z" creationid="paula" creationdate="20210526T151944Z">
         <seg>Haga clic con el botón derecho del ratón en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save As command</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T155036Z" creationid="paula" creationdate="20210526T155036Z">
+        <seg>Comando Guardar como</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save command</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T155011Z" creationid="paula" creationdate="20210526T155011Z">
+        <seg>Comando Guardar </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154712Z" creationid="paula" creationdate="20210526T154712Z">
+        <seg>Guardar documentos </seg>
       </tuv>
     </tu>
     <tu>
@@ -1654,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sidebar</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154534Z" creationid="paula" creationdate="20210526T154534Z">
+        <seg>Barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T142535Z" creationid="JoseCarlos" creationdate="20210525T142535Z">
@@ -1712,8 +1768,8 @@
       <tuv lang="EN">
         <seg>Starting new documents</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T090223Z" creationid="Elena" creationdate="20210526T090223Z">
-        <seg>Inicio de nuevos documentos</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T154656Z" creationid="Elena" creationdate="20210526T090223Z">
+        <seg>Iniciar nuevos documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Undoing and redoing changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T155551Z" creationid="paula" creationdate="20210526T155551Z">
+        <seg>Deshacer y rehacer cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document in the context menu.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T122535Z" creationid="Elena" creationdate="20210526T122535Z">
@@ -2074,6 +2138,22 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T151009Z" creationid="paula" creationdate="20210526T151009Z">
         <seg>Uso de LibreOffice en macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using document properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T155625Z" creationid="paula" creationdate="20210526T155625Z">
+        <seg>Utilización de las propiedades del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Navigator</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T155435Z" creationid="paula" creationdate="20210526T155435Z">
+        <seg>Uso del navegador </seg>
       </tuv>
     </tu>
     <tu>
