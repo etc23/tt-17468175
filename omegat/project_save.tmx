@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T165039Z" creationid="paula" creationdate="20210526T165039Z">
+        <seg>Para acceder a las opciones de personalización de una barra de herramientas, haga clic con el botón derecho del ratón en un espacio vacío entre los iconos de una barra de herramientas para abrir un menú contextual como el siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To activate it, enable &lt;f0&gt;View &gt; &lt;/f0&gt;User Interface&lt;f1&gt; &gt; S&lt;/f1&gt;ingle Toolbar.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T210450Z" creationid="JoseCarlos" creationdate="20210516T210450Z">
@@ -2338,6 +2346,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091854Z" creationid="Elena" creationdate="20210526T091854Z">
         <seg>Para configurar el guardado automático de archivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To show or hide icons defined for the selected toolbar, point to &lt;f0&gt;Visible Buttons&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T165205Z" creationid="paula" creationdate="20210526T165047Z">
+        <seg>- Para mostrar u ocultar los iconos definidos para la barra de herramientas seleccionada, señale &lt;f0&gt;Botones visibles&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add icons and create new toolbars, as described in Chapter 14, Customizing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T165036Z" creationid="paula" creationdate="20210526T165036Z">
+        <seg>También puede añadir iconos y crear nuevas barras de herramientas, como se describe en el Capítulo 14, Personalización de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also choose to open an existing file or use a template.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T142223Z" creationid="Almudena" creationdate="20210514T142223Z">
@@ -2658,6 +2682,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112538Z" creationid="Almudena" creationdate="20210526T112538Z">
         <seg>También puede utilizar un atajo de teclado como el siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T165029Z" creationid="paula" creationdate="20210526T165029Z">
+        <seg>Puede personalizar las barras de herramientas de varias maneras, incluyendo la elección de los iconos visibles y el bloqueo de la posición de una barra de herramientas anclada.</seg>
       </tuv>
     </tu>
     <tu>
