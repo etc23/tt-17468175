@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the case of shared or bundled extensions, the option will only work if you have the proper system access rights.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T152307Z" creationid="Almudena" creationdate="20210526T152307Z">
+        <seg>En el caso de las extensiones compartidas o agrupadas, la opción solo funcionará si tiene los derechos de acceso al sistema adecuados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T102523Z" creationid="Almudena" creationdate="20210526T102523Z">
