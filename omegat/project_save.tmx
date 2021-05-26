@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start LibreOffice from the command line with the &lt;f0&gt;--safe-mode&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T115153Z" creationid="Almudena" creationdate="20210526T115153Z">
+        <seg>- Inicie LibreOffice desde la línea de comandos con la opción &lt;f0&gt;--modo seguro&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting LibreOffice</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141700Z" creationid="Almudena" creationdate="20210514T141700Z">
