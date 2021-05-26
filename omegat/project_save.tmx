@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CMIS Properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T160148Z" creationid="paula" creationdate="20210526T160148Z">
+        <seg>Propiedades CMIS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CMIS, like OpenDocument Format, is an OASIS standard.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T211322Z" creationid="paula" creationdate="20210516T211322Z">
@@ -662,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T160141Z" creationid="paula" creationdate="20210526T160141Z">
+        <seg>Propiedades personalizadas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing toolbars</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T154446Z" creationid="paula" creationdate="20210526T154446Z">
@@ -674,6 +690,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091034Z" creationid="Elena" creationdate="20210526T091034Z">
         <seg>Dependiendo del tipo de servicio de archivos que elija en el cuadro de lista Tipo, serán necesarios diferentes parámetros para calificar completamente la conexión con el servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T160135Z" creationid="paula" creationdate="20210526T160135Z">
+        <seg>Descripción </seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T160249Z" creationid="paula" creationdate="20210526T160249Z">
+        <seg>Fuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a detailed list, see the application Help.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T151059Z" creationid="paula" creationdate="20210526T151059Z">
@@ -866,6 +898,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T083410Z" creationid="Elena" creationdate="20210526T083410Z">
         <seg>GNU/Linux: versión Kernel 3.10 o superior y glibc2 v2.17 o superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T160129Z" creationid="paula" creationdate="20210526T160129Z">
+        <seg>Generalidades </seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,6 +1706,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102446Z" creationid="Elena" creationdate="20210526T102446Z">
         <seg>Guardar documentos automáticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T160234Z" creationid="paula" creationdate="20210526T160234Z">
+        <seg>Seguridad</seg>
       </tuv>
     </tu>
     <tu>
