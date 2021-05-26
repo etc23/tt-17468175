@@ -4,6 +4,30 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting new documents</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090223Z" creationid="Elena" creationdate="20210526T090223Z">
+        <seg>Inicio de nuevos documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;8&lt;/t2&gt;) is shown.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090350Z" creationid="Elena" creationdate="20210526T090350Z">
+        <seg>Cuando LibreOffice se está ejecutando pero no hay ningún documento abierto, se muestra el Centro de Inicio (Figura 1 en la página 8).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start a new, blank document in LibreOffice in several ways.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090234Z" creationid="Elena" creationdate="20210526T090234Z">
+        <seg>Puede iniciar un nuevo documento en blanco en LibreOffice de varias maneras.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
