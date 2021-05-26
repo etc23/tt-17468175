@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click or right-click depending on computer setup</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T152911Z" creationid="paula" creationdate="20210526T152911Z">
-        <seg>Control+clic o clic derecho según la configuración del ordenador</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193123Z" creationid="paula" creationdate="20210526T152911Z">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+clic o clic derecho según la configuración del ordenador</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; &lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T151918Z" creationid="paula" creationdate="20210526T151918Z">
-        <seg>Herramientas &gt; Opciones</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193112Z" creationid="paula" creationdate="20210526T151918Z">
+        <seg>&lt;f0&gt;Herramientas &gt; Opciones&lt;/f0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>Based on LibreOffice &lt;ud1&gt;7.0&lt;/ud1&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T151007Z" creationid="paula" creationdate="20210526T151007Z">
-        <seg>Basado en LibreOffice</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193049Z" creationid="paula" creationdate="20210526T151007Z">
+        <seg>Basado en LibreOffice  &lt;ud1&gt;7.0&lt;/ud1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN">
         <seg>Chapter 1 &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T145931Z" creationid="paula" creationdate="20210526T145931Z">
-        <seg>Capítulo 1</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T192914Z" creationid="paula" creationdate="20210526T145931Z">
+        <seg>Capítulo 1&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1912,8 +1912,8 @@
       <tuv lang="EN">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T150958Z" creationid="paula" creationdate="20210526T150958Z">
-        <seg>Por favor, dirija cualquier comentario o sugerencia sobre este documento a la lista de correo del equipo de documentación: documentation@global.libreoffice.org</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193026Z" creationid="paula" creationdate="20210526T150958Z">
+        <seg>Por favor, dirija cualquier comentario o sugerencia sobre este documento a la lista de correo del equipo de documentación: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1944,8 +1944,8 @@
       <tuv lang="EN">
         <seg>Published November &lt;t0&gt;2020&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T151005Z" creationid="paula" creationdate="20210526T151005Z">
-        <seg>Publicado en noviembre de 2020.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193039Z" creationid="paula" creationdate="20210526T151005Z">
+        <seg>Publicado en noviembre de&lt;t0&gt;2020&lt;/t0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,8 +2392,8 @@
       <tuv lang="EN">
         <seg>This document is Copyright © &lt;t0&gt;2020&lt;/t0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T150115Z" creationid="paula" creationdate="20210526T150115Z">
-        <seg>Este documento es Copyright © del equipo de documentación de LibreOffice.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T192930Z" creationid="paula" creationdate="20210526T150115Z">
+        <seg>Este documento es Copyright ©  &lt;t0&gt;2020&lt;/t0&gt;&lt;s1/&gt;del equipo de documentación de LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,8 +3016,8 @@
       <tuv lang="EN">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T150338Z" creationid="paula" creationdate="20210526T150338Z">
-        <seg>Puede distribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU (https://www.gnu.org/licenses/gpl.html), versión 3 o posterior, o la Licencia de Atribución de Creative Commons (https://creativecommons.org/licenses/by/4.0/), versión 4.0 o posterior.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193001Z" creationid="paula" creationdate="20210526T150338Z">
+        <seg>Puede distribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU(&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versión 3 o posterior, o la Licencia de Atribución de Creative Commons  (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versión 4.0 o posterior.</seg>
       </tuv>
     </tu>
     <tu>
