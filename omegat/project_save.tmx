@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help system</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160112Z" creationid="Almudena" creationdate="20210526T160112Z">
+        <seg>Sistema de ayuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T085919Z" creationid="Almudena" creationdate="20210510T084730Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102903Z" creationid="Elena" creationdate="20210526T102903Z">
         <seg>LibreOffice puede guardar archivos automáticamente como parte de la función de recuperación automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice comes with an &lt;i0/&gt;extensive Help system.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160129Z" creationid="Almudena" creationdate="20210526T160129Z">
+        <seg>LibreOffice viene con un &lt;i0/&gt;amplio sistema de ayuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the first line of support for using LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160135Z" creationid="Almudena" creationdate="20210526T160135Z">
+        <seg>Esta es la primera línea de apoyo para el uso de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the Set Password dialog where you can enter a new password.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102221Z" creationid="Elena" creationdate="20210526T102221Z">
@@ -2250,6 +2274,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T154913Z" creationid="Almudena" creationdate="20210526T154913Z">
         <seg>¿A quién va dirigido este libro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on macOS.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T160304Z" creationid="Almudena" creationdate="20210526T160304Z">
+        <seg>Los usuarios de Windows y Linux pueden elegir descargar e instalar la Ayuda sin conexión para utilizarla cuando no estén conectados a Internet; la Ayuda sin conexión se instala con el programa en macOS.</seg>
       </tuv>
     </tu>
     <tu>
