@@ -632,8 +632,8 @@
       <tuv lang="EN">
         <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T102758Z" creationid="Almudena" creationdate="20210526T102758Z">
-        <seg>Al hacer clic en la entrada del menú de LibreOffice, en el icono del escritorio o en el mosaico, se abre el Centro de inicio de LibreOffice (Figura &lt;t0/&gt;1&lt;t1/&gt;) desde donde puede seleccionar los componentes individuales de LibreOffice.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193616Z" creationid="Almudena" creationdate="20210526T102758Z">
+        <seg>Al hacer clic en la entrada del menú de LibreOffice, en el icono del escritorio o en el mosaico, se abre el Centro de inicio de LibreOffice (Figura  &lt;t0&gt;1&lt;/t0&gt;) desde donde puede seleccionar los componentes individuales de LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,8 +1320,8 @@
       <tuv lang="EN">
         <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T102523Z" creationid="Almudena" creationdate="20210526T102523Z">
-        <seg>Aquí se ofrece la información sobre la instalación y configuración de LibreOffice en los distintos sistemas operativos compatibles: &lt;t0/&gt;https://www.libreoffice.org/get-help/install-howto/&lt;t1/&gt;.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193546Z" creationid="Almudena" creationdate="20210526T102523Z">
+        <seg>Aquí se ofrece la información sobre la instalación y configuración de LibreOffice en los distintos sistemas operativos compatibles: &lt;a0&gt;https://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2096,8 +2096,8 @@
       <tuv lang="EN">
         <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T102545Z" creationid="Almudena" creationdate="20210526T102545Z">
-        <seg>Varias extensiones se instalan con el programa y puede obtener otras del repositorio oficial de extensiones, &lt;t0/&gt;https://extensions.libreoffice.org/&lt;t1/&gt;.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210526T193559Z" creationid="Almudena" creationdate="20210526T102545Z">
+        <seg>Varias extensiones se instalan con el programa y puede obtener otras del repositorio oficial de extensiones, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
