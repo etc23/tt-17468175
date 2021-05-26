@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All trademarks within this guide belong to their legitimate owners.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150412Z" creationid="paula" creationdate="20210526T150412Z">
+        <seg>Todas las marcas registradas en esta guía pertenecen a sus legítimos propietarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160642Z" creationid="JoseCarlos" creationdate="20210513T160642Z">
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T112341Z" creationid="Elena" creationdate="20210526T081256Z">
         <seg>Las características comunes incluyen la barra de menú, la barra de herramientas estándar y la barra de herramientas de formato (solo en Writer y Calc) en la parte superior de la ventana y la barra de estado en la parte inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150419Z" creationid="paula" creationdate="20210526T150419Z">
+        <seg>Colaboradores</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,6 +1618,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091854Z" creationid="Elena" creationdate="20210526T091854Z">
         <seg>Para configurar el guardado automático de archivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To this edition</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T150656Z" creationid="paula" creationdate="20210526T150656Z">
+        <seg>Para esta edición</seg>
       </tuv>
     </tu>
     <tu>
