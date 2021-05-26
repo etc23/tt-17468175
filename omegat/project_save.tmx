@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the password</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T100722Z" creationid="Elena" creationdate="20210526T100722Z">
+        <seg>Cambiar la contraseña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092132Z" creationid="Elena" creationdate="20210526T092132Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092224Z" creationid="Elena" creationdate="20210526T092224Z">
         <seg>Por ejemplo, puede trabajar en un documento en la oficina durante el día y editarlo en casa para realizar cambios de última hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt; on the Menu bar and click the &lt;f1&gt;Change Password&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T102056Z" creationid="Elena" creationdate="20210526T102056Z">
+        <seg>Vaya a &lt;f0&gt;Archivo &gt; Propiedades &gt; General&lt;/f0&gt; en la barra de menú y haga clic en el botón &lt;f1&gt;Cambiar contraseña&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090350Z" creationid="Elena" creationdate="20210526T090350Z">
         <seg>Cuando LibreOffice se está ejecutando pero no hay ningún documento abierto, se muestra el Centro de Inicio (Figura 1 en la página 8).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a document is password-protected, you can change the password while the document is open.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T100831Z" creationid="Elena" creationdate="20210526T100831Z">
+        <seg>Cuando un documento está protegido por contraseña, puede cambiarla mientras el documento está abierto.</seg>
       </tuv>
     </tu>
     <tu>
