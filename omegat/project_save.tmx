@@ -46,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can work on a document in the office during the day and edit it at home for last-minute changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092224Z" creationid="Elena" creationdate="20210526T092224Z">
+        <seg>Por ejemplo, puede trabajar en un documento en la oficina durante el día y editarlo en casa para realizar cambios de última hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091944Z" creationid="Elena" creationdate="20210526T091944Z">
         <seg>Vaya a &lt;f0&gt;Herramientas &gt; Opciones &gt; Cargar/Guardar &gt; General&lt;/f0&gt; en la Barra de menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also supports popular services like Google Drive and Microsoft OneNote, as well as commercial and open source servers that implement the OASIS CMIS standard.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092351Z" creationid="Elena" creationdate="20210526T092351Z">
+        <seg>También soporta servicios populares como Google Drive y Microsoft OneNote, así como servidores comerciales y de código abierto que implementan el estándar OASIS CMIS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +82,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092150Z" creationid="Elena" creationdate="20210526T092150Z">
         <seg>LibreOffice puede abrir y guardar archivos almacenados en servidores remotos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice supports many document servers that use well known network protocols such as FTP, WebDav, Windows share, and SSH.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092327Z" creationid="Elena" creationdate="20210526T092327Z">
+        <seg>LibreOffice es compatible con muchos servidores de documentos que utilizan protocolos de red bien conocidos como FTP, WebDav, Windows share y SSH.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some servers are also able to check-in and check-out files, thus controlling their usage and access.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092257Z" creationid="Elena" creationdate="20210526T092257Z">
+        <seg>Algunos servidores también pueden registrar la entrada y salida de archivos, controlando así su uso y acceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting new documents</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090223Z" creationid="Elena" creationdate="20210526T090223Z">
         <seg>Inicio de nuevos documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Storing files on a remote server also backs up documents from computer loss or hard disk failure.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T092236Z" creationid="Elena" creationdate="20210526T092236Z">
+        <seg>Almacenar los archivos en un servidor remoto también sirve para hacer una copia de seguridad de los documentos en caso de pérdida del ordenador o fallo del disco duro.</seg>
       </tuv>
     </tu>
     <tu>
