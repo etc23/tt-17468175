@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>A dialog asking for the user name and the password may pop up to let you log in the server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090947Z" creationid="Elena" creationdate="20210526T090947Z">
+        <seg>Es posible que aparezca un cuadro de diálogo solicitando el nombre de usuario y la contraseña para permitirle iniciar la sesión en el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090654Z" creationid="Elena" creationdate="20210526T090654Z">
         <seg>Haga clic en el botón Abrir o Guardar para continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on the type of file service you choose in the Type listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T091034Z" creationid="Elena" creationdate="20210526T091034Z">
+        <seg>Dependiendo del tipo de servicio de archivos que elija en el cuadro de lista Tipo, serán necesarios diferentes parámetros para calificar completamente la conexión con el servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the left is the folder structure of the user space in the server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090748Z" creationid="Elena" creationdate="20210526T090748Z">
+        <seg>A la izquierda está la estructura de carpetas del espacio de usuario en el servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proceed entering your credentials.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090909Z" creationid="Elena" creationdate="20210526T090909Z">
+        <seg>Proceda a introducir sus credenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting new documents</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090223Z" creationid="Elena" creationdate="20210526T090223Z">
@@ -30,10 +62,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;) which then appears has many parts.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090902Z" creationid="Elena" creationdate="20210526T090902Z">
+        <seg>El diálogo de Archivos Remotos (Figura 12) que aparece entonces tiene varias partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line below the list box shows the path to access the folder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090808Z" creationid="Elena" creationdate="20210526T090808Z">
+        <seg>La línea debajo del cuadro de lista muestra la ruta para acceder a la carpeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main pane displays the files in the remote folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090723Z" creationid="Elena" creationdate="20210526T090723Z">
         <seg>El panel principal muestra los archivos de la carpeta remota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The upper list box contains the list of remote servers you have previously defined.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T090825Z" creationid="Elena" creationdate="20210526T090825Z">
+        <seg>El cuadro de lista superior contiene la lista de servidores remotos que ha definido previamente.</seg>
       </tuv>
     </tu>
     <tu>
