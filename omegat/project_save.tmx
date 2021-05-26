@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+click or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T152911Z" creationid="paula" creationdate="20210526T152911Z">
+        <seg>Control+clic o clic derecho según la configuración del ordenador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, macOS, and Linux.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210524T161448Z" creationid="Elena" creationdate="20210524T161448Z">
         <seg>&lt;f0&gt;Multiplataforma.&lt;/f0&gt; LibreOffice ejecuta diversas arquitecturas de hardware y bajo varios sistemas operativos, como Mircrosoft Windows, macOS y Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (Control)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T153029Z" creationid="paula" creationdate="20210526T152953Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt;(Control)</seg>
       </tuv>
     </tu>
     <tu>
