@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Windows only, choose &lt;f0&gt;LibreOffice (Safe Mode)&lt;/f0&gt; from the Start Menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T115445Z" creationid="Almudena" creationdate="20210526T115445Z">
+        <seg>- Solo en Windows, elija &lt;f0&gt;LibreOffice (Modo seguro)&lt;/f0&gt; en el Menú Inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In general, you start LibreOffice the same way you start any other program on your computer.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210514T141858Z" creationid="Almudena" creationdate="20210514T141858Z">
