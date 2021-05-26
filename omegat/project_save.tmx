@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Continue in Safe Mode&lt;/f0&gt; – Continuing in Safe Mode will allow you to work in LibreOffice, using a temporary profile that was created on startup.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T153652Z" creationid="Almudena" creationdate="20210526T153652Z">
+        <seg>- &lt;f0&gt;Continuar en modo seguro &lt;/f0&gt;- Continuar en modo seguro le permitirá trabajar en LibreOffice, utilizando un perfil temporal que se creó al inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Control&lt;/f0&gt;+click or right-click depending on computer setup</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T152911Z" creationid="paula" creationdate="20210526T152911Z">
@@ -162,6 +170,30 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T180624Z" creationid="Almudena" creationdate="20210525T180624Z">
         <seg>&lt;f0&gt;Es de cógido abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Reset entire user profile&lt;/f0&gt; – this will erase all customized options and return your user profile to the factory default state.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T153608Z" creationid="Almudena" creationdate="20210526T153608Z">
+        <seg>-&lt;f0&gt; Restablecer todo el perfil de usuario &lt;/f0&gt;- esto borrará todas las opciones personalizadas y devolverá su perfil de usuario al estado predeterminado de fábrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Reset settings and user interface modifications&lt;/f0&gt; – this will reset your User Interface and configuration changes, but keep things like your personal dictionary, templates, etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T152759Z" creationid="Almudena" creationdate="20210526T152759Z">
+        <seg>-&lt;f0&gt; Restablecer la configuración y las modificaciones de la interfaz de usuario &lt;/f0&gt;- esto restablecerá su interfaz de usuario y los cambios de configuración, pero mantendrá cosas como su diccionario personal, plantillas, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Reset to factory settings&lt;/f0&gt; – If all of the above fails, you can reset your settings and your user interface modifications, or your entire profile back to factory defaults.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T152700Z" creationid="Almudena" creationdate="20210526T152700Z">
+        <seg>-&lt;f0&gt; Restablecer la configuración de fábrica&lt;/f0&gt; - Si todo lo anterior falla, puede restablecer la configuración y las modificaciones de la interfaz de usuario, o todo su perfil a los valores predeterminados de fábrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +362,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T113229Z" creationid="Almudena" creationdate="20210515T113229Z">
         <seg>Una barra de herramientas activa muestra una marca de verificación junto a su nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any extensions or configuration options you had set up previously will have to be reconfigured in order to be used, bearing in mind that any changes made to the temporary user profile will be lost after any restart.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T153820Z" creationid="Almudena" creationdate="20210526T153820Z">
+        <seg>Cualquier extensión u opción de configuración que haya establecido previamente tendrá que ser reconfigurada para poder ser utilizada, teniendo en cuenta que cualquier cambio realizado en el perfil de usuario temporal se perderá después de cualquier reinicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1114,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T081322Z" creationid="JoseCarlos" creationdate="20210511T081322Z">
         <seg>Se integra con las capacidades gráficas avanzadas de los componentes de LibreOffice Draw y Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should be exercised with caution.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T152420Z" creationid="Almudena" creationdate="20210526T152420Z">
+        <seg>Debe utilizarse con precaución.</seg>
       </tuv>
     </tu>
     <tu>
