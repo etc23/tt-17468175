@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of the Writer status bar is shown in Figure &lt;t0&gt;6&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210930Z" creationid="paula" creationdate="20210526T210930Z">
+        <seg>En la figura &lt;t0&gt;6&lt;/t0&gt; se muestra un ejemplo de la barra de estado de Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any extensions or configuration options you had set up previously will have to be reconfigured in order to be used, bearing in mind that any changes made to the temporary user profile will be lost after any restart.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T153820Z" creationid="Almudena" creationdate="20210526T153820Z">
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091246Z" creationid="Elena" creationdate="20210526T091246Z">
         <seg>Haga clic en el botón &lt;f0&gt;Archivos remotos&lt;/f0&gt; en el Centro de inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on this field to open the Go to Page dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211109Z" creationid="paula" creationdate="20210526T211109Z">
+        <seg>Haga clic en este campo para abrir el cuadro de diálogo Ir a la página.</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T210734Z" creationid="paula" creationdate="20210526T210734Z">
         <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Atajos de teclado en menús contextuales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Example status bar from Writer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211053Z" creationid="paula" creationdate="20210526T211053Z">
+        <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Ejemplo de barra de estado en Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is similar in Writer, Calc, Impress, and Draw, but each LibreOffice component includes some component-specific items.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T210858Z" creationid="paula" creationdate="20210526T210858Z">
+        <seg>Es similar en Writer, Calc, Impress y Draw, pero cada componente de LibreOffice incluye algunos elementos específicos del componente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides information about the document and convenient ways to change some features quickly.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T210846Z" creationid="paula" creationdate="20210526T210846Z">
@@ -1966,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page, sheet, or slide number and page count</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211100Z" creationid="paula" creationdate="20210526T211100Z">
+        <seg>Número de página, hoja o diapositiva y número de páginas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parts of the main window</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081047Z" creationid="Elena" creationdate="20210526T081047Z">
@@ -2178,6 +2218,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T193559Z" creationid="Almudena" creationdate="20210526T102545Z">
         <seg>Varias extensiones se instalan con el programa y puede obtener otras del repositorio oficial de extensiones, &lt;a0&gt;https://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the current page, sheet, or slide number and the total number of pages, sheets, or slides in the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210526T211103Z" creationid="paula" creationdate="20210526T211103Z">
+        <seg>Muestra el número de página, hoja o diapositiva actual y el número total de páginas, hojas o diapositivas del documento.</seg>
       </tuv>
     </tu>
     <tu>
