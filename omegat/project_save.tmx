@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following Safe Mode options get more extreme from the top down, so it is recommended that you try them successively.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T115640Z" creationid="Almudena" creationdate="20210526T115640Z">
+        <seg>Las siguientes opciones de Modo seguro se vuelven más extremas de arriba hacia abajo, por lo que se recomienda probarlas sucesivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The line below the list box shows the path to access the folder.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090808Z" creationid="Elena" creationdate="20210526T090808Z">
