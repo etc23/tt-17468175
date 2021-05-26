@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this &lt;f0&gt;Getting Started Guide&lt;/f0&gt; valuable.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T155000Z" creationid="Almudena" creationdate="20210526T155000Z">
+        <seg>Cualquier persona que quiera ponerse al día rápidamente con LibreOffice encontrará esta &lt;f0&gt;Guía de inicio&lt;/f0&gt; valiosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102915Z" creationid="Elena" creationdate="20210526T102915Z">
@@ -906,6 +914,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210524T162156Z" creationid="Elena" creationdate="20210524T162156Z">
         <seg>Sin embargo, las opciones de LibreOffice pueden ajustarse a nivel de componente o incluso a nivel de documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, be aware that your uploaded user profile may contain sensitive information such as installed extensions, personal dictionaries, and settings.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T154900Z" creationid="Almudena" creationdate="20210526T154900Z">
+        <seg>Sin embargo, tenga en cuenta que su perfil de usuario subido puede contener información sensible como extensiones instaladas, diccionarios personales y configuraciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T154907Z" creationid="Almudena" creationdate="20210526T154907Z">
+        <seg>Prefacio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed entering your credentials.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090909Z" creationid="Elena" creationdate="20210526T090909Z">
@@ -2074,6 +2098,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T084108Z" creationid="Almudena" creationdate="20210510T084108Z">
         <seg>Mientras que normalmente se utiliza para crear fórmulas en otros documentos como los archivos de Writer e Impress, Math también puede funcionar como herramienta independiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who is this book for?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210526T154913Z" creationid="Almudena" creationdate="20210526T154913Z">
+        <seg>¿A quién va dirigido este libro?</seg>
       </tuv>
     </tu>
     <tu>
