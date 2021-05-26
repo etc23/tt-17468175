@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Remote server configuration</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210526T105025Z" creationid="Elena" creationdate="20210526T105025Z">
+        <seg>Figura &lt;seq0&gt;11&lt;/seq0&gt;: Remote server configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can work on a document in the office during the day and edit it at home for last-minute changes.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092224Z" creationid="Elena" creationdate="20210526T092224Z">
