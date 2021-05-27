@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Save All&lt;/f0&gt; – use to save all the files open in your current session.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065418Z" creationid="Elena" creationdate="20210527T065418Z">
+        <seg>&lt;f0&gt;Guardar todo&lt;/f0&gt; - utilícelo para guardar todos los archivos abiertos en la sesión actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save As&lt;/f0&gt; – use to create a new document, or change the filename and/or file format, or save the file in a different location on your computer.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T065200Z" creationid="Elena" creationdate="20210527T065105Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T122414Z" creationid="Elena" creationdate="20210526T122414Z">
         <seg>Haga clic en uno de los iconos para abrir un nuevo documento de ese tipo, o haga clic en el icono &lt;f3&gt;Plantillas&lt;/f3&gt; para iniciar un nuevo documento utilizando una plantilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065605Z" creationid="Elena" creationdate="20210527T065605Z">
+        <seg>Haga clic en el icono &lt;f0&gt;Guardar&lt;/f0&gt; de la barra de herramientas Estándar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,8 +2424,8 @@
       <tuv lang="EN">
         <seg>Save command</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T155011Z" creationid="paula" creationdate="20210526T155011Z">
-        <seg>Comando Guardar </seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065421Z" creationid="paula" creationdate="20210526T155011Z">
+        <seg>Comando Guardar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save a document if you are keeping the document’s current filename and location, do one of the following:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065523Z" creationid="Elena" creationdate="20210527T065523Z">
+        <seg>Para guardar un documento si mantiene el nombre de archivo y la ubicación actuales del documento, realice una de las siguientes acciones:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To set up automatic file saving:</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091854Z" creationid="Elena" creationdate="20210526T091854Z">
@@ -3222,10 +3246,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+S&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065552Z" creationid="Elena" creationdate="20210527T065552Z">
+        <seg>Utilice el atajo de teclado &lt;f0&gt;Ctrl+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T105126Z" creationid="Elena" creationdate="20210526T105126Z">
         <seg>Utilice el atajo de teclado &lt;f0&gt;Ctrl+Mayús+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save All&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065619Z" creationid="Elena" creationdate="20210527T065619Z">
+        <seg>Utilice la opción de menú &lt;f0&gt;Archivo &gt; Guardar todo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save Remote&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065634Z" creationid="Elena" creationdate="20210527T065634Z">
+        <seg>Utilice la opción de menú &lt;f0&gt;Archivo &gt; Guardar remoto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065543Z" creationid="Elena" creationdate="20210527T065543Z">
+        <seg>Utilice la opción de menú &lt;f0&gt;&lt;Archivo &gt; Guardar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
