@@ -1664,8 +1664,8 @@
       <tuv lang="EN">
         <seg>In a default LibreOffice installation, the top docked toolbar, just under the Menu bar, is called the Standard toolbar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210514T143428Z" creationid="JoseCarlos" creationdate="20210514T143306Z">
-        <seg>En una instalación de LibreOffice predeterminada, la barra anclada superior, que se encuentra justo debajo de la barra de menú, se denomina barra de herramientas Estándar.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T091203Z" creationid="JoseCarlos" creationdate="20210514T143306Z">
+        <seg>En una instalación de LibreOffice predeterminada, la barra anclada superior, que se encuentra justo debajo de la barra de menú, se denomina barra de herramientas estándar.</seg>
       </tuv>
     </tu>
     <tu>
