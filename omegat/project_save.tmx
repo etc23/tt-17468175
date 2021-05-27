@@ -1064,8 +1064,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Set Password dialog</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T071251Z" creationid="Elena" creationdate="20210527T071251Z">
-        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Diálogo de Establecer la contraseña</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T092050Z" creationid="Elena" creationdate="20210527T071251Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Cuadro de diálogo Establecer la contraseña</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,8 +1080,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T090633Z" creationid="Almudena" creationdate="20210527T090633Z">
-        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Diálogo de archivos remotos cuando se conecta a un servidor</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T092144Z" creationid="Almudena" creationdate="20210527T090633Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Cuadro de diálogo archivos remotos cuando se conecta a un servidor</seg>
       </tuv>
     </tu>
     <tu>
@@ -1744,8 +1744,8 @@
       <tuv lang="EN">
         <seg>In the Open dialog, you can reduce the list of files by selecting the type of file you are looking for.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T064742Z" creationid="Elena" creationdate="20210527T064742Z">
-        <seg>En el diálogo Abrir, puede reducir la lista de archivos seleccionando el tipo de archivo que está buscando.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T091956Z" creationid="Elena" creationdate="20210527T064742Z">
+        <seg>En el cuadro de diálogo Abrir, puede reducir la lista de archivos seleccionando el tipo de archivo que está buscando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2864,8 +2864,8 @@
       <tuv lang="EN">
         <seg>The Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;) which then appears has many parts.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T091750Z" creationid="Elena" creationdate="20210526T090902Z">
-        <seg>El diálogo de Archivos Remotos (Figura &lt;t0&gt;12&lt;/t0&gt;) que aparece entonces tiene varias partes.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T092129Z" creationid="Elena" creationdate="20210526T090902Z">
+        <seg>El cuadro de diálogo Archivos Remotos (Figura &lt;t0&gt;12&lt;/t0&gt;) que aparece entonces tiene varias partes.</seg>
       </tuv>
     </tu>
     <tu>
