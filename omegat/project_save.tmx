@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to create a new document file, change the filename and/or file format, or save the file in a different location on your computer:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065805Z" creationid="Elena" creationdate="20210527T065805Z">
+        <seg>Si quiere crear un nuevo archivo de documento, cambie el nombre y/o el formato del archivo, o guarde el archivo en una ubicación diferente de su ordenador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use LibreOffice features that require Java, it is important that the correct 32-bit or 64-bit edition matches the installed version of LibreOffice.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210525T144148Z" creationid="JoseCarlos" creationdate="20210525T144148Z">
@@ -3270,10 +3278,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065828Z" creationid="Elena" creationdate="20210527T065828Z">
+        <seg>Utilice la opción de menú &lt;f0&gt;Archivo &gt; Guardar como&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the menu option &lt;f0&gt;File &gt; Save Remote&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T065634Z" creationid="Elena" creationdate="20210527T065634Z">
         <seg>Utilice la opción de menú &lt;f0&gt;Archivo &gt; Guardar remoto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save a Copy&lt;/f0&gt; (similar to the Save As command).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065653Z" creationid="Elena" creationdate="20210527T065653Z">
+        <seg>Utilice la opción de menú &lt;f0&gt;Archivo &gt; Guardar una copia&lt;/f0&gt; (similar al comando Guardar como).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3322,6 +3346,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T155435Z" creationid="paula" creationdate="20210526T155435Z">
         <seg>Uso del navegador </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Save command will immediately overwrite the last saved version of the file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065703Z" creationid="Elena" creationdate="20210527T065703Z">
+        <seg>El uso del comando Guardar sobrescribirá inmediatamente la última versión guardada del archivo.</seg>
       </tuv>
     </tu>
     <tu>
