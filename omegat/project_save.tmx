@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a document is already open in LibreOffice, click the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and a new document of the same type is created in a new window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T063233Z" creationid="Elena" creationdate="20210527T063233Z">
+        <seg>Si ya hay un documento abierto en LibreOffice, haga clic en el icono &lt;f0&gt;Nuevo&lt;/f0&gt; de la barra de herramientas Estándar y se creará un nuevo documento del mismo tipo en una nueva ventana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If any documents have not been saved since the last change, a message box is displayed.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112630Z" creationid="Almudena" creationdate="20210526T112630Z">
@@ -2750,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The type of document created depends on which LibreOffice component is open and active.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T063105Z" creationid="Elena" creationdate="20210527T063105Z">
+        <seg>El tipo de documento creado depende del componente de LibreOffice que esté abierto y activo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The upper list box contains the list of remote servers you have previously defined.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090825Z" creationid="Elena" creationdate="20210526T090825Z">
@@ -3066,6 +3082,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T122535Z" creationid="Elena" creationdate="20210526T122535Z">
         <seg>Utilice &lt;f0&gt;Archivo &gt; Nuevo&lt;/f0&gt; en la barra de menú y seleccione el tipo de documento en el menú contextual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document in the context menu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T063142Z" creationid="Elena" creationdate="20210527T063142Z">
+        <seg>Utilice &lt;f0&gt;Archivo &gt; Asistentes&lt;/f0&gt; en la barra de menú y seleccione el tipo de documento en el menú contextual.</seg>
       </tuv>
     </tu>
     <tu>
