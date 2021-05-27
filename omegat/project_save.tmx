@@ -3552,8 +3552,8 @@
       <tuv lang="EN">
         <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; or &lt;f1&gt;Remote Files&lt;/f1&gt; in the Start Center to reach the corresponding open dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T064237Z" creationid="Elena" creationdate="20210527T064237Z">
-        <seg>Cuando no haya ningún documento abierto, haga clic en &lt;f0&gt;Abrir archivo &lt;/f0&gt;o &lt;f1&gt;Archivos remotos&lt;/f1&gt; en el Centro de inicio para acceder al diálogo de apertura correspondiente.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T090211Z" creationid="Elena" creationdate="20210527T064237Z">
+        <seg>Cuando no haya ningún documento abierto, haga clic en &lt;f0&gt;Abrir archivo&lt;/f0&gt;o &lt;f1&gt;Archivos remotos&lt;/f1&gt; en el Centro de inicio para acceder al diálogo de apertura correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
