@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T085040Z" creationid="Almudena" creationdate="20210527T085040Z">
+        <seg>Abrir menú contextual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Styles deck in the Sidebar</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T153351Z" creationid="paula" creationdate="20210526T153351Z">
