@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reset settings and user interface modifications&lt;/f0&gt; – this will reset your User Interface and configuration changes, but keep things like your personal dictionary, templates, etc.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T083800Z" creationid="Almudena" creationdate="20210526T152759Z">
-        <seg>&lt;f0&gt;Restablecer la configuración y las modificaciones de la interfaz de usuario &lt;/f0&gt; - esto restablecerá su interfaz de usuario y los cambios de configuración, pero mantendrá cosas como su diccionario personal, plantillas, etc.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T084010Z" creationid="Almudena" creationdate="20210526T152759Z">
+        <seg>&lt;f0&gt;Restablecer la configuración y las modificaciones de la interfaz de usuario&lt;/f0&gt; - esto restablecerá su interfaz de usuario y los cambios de configuración, pero mantendrá cosas como su diccionario personal, plantillas, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,8 +3496,8 @@
       <tuv lang="EN">
         <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;8&lt;/t2&gt;) is shown.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T083737Z" creationid="Elena" creationdate="20210526T090350Z">
-        <seg>Cuando LibreOffice se está ejecutando pero no hay ningún documento abierto, se muestra el Centro de Inicio (Figura &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; en la página &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T084133Z" creationid="Elena" creationdate="20210526T090350Z">
+        <seg>Cuando LibreOffice se está ejecutando pero no hay ningún documento abierto, se muestra el Centro de Inicio (Figura &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;en la página &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
