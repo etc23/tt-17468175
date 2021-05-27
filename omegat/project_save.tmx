@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a document is already open in LibreOffice, click on the small triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and select the type of document from the context menu that opens.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064118Z" creationid="Elena" creationdate="20210527T064118Z">
+        <seg>Si ya hay un documento abierto en LibreOffice, haga clic en el pequeño triángulo a la derecha del icono &lt;f0&gt;Nuevo&lt;/f0&gt; en la barra de herramientas Estándar y seleccione el tipo de documento en el menú contextual que se abre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open in LibreOffice, click the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and a new document of the same type is created in a new window.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T063233Z" creationid="Elena" creationdate="20210527T063233Z">
@@ -2586,6 +2594,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210515T114311Z" creationid="Almudena" creationdate="20210515T114311Z">
         <seg>Submenús y paleta de herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;New&lt;/f1&gt; icon changes depending on which component of LibreOffice is open.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064046Z" creationid="Elena" creationdate="20210527T064046Z">
+        <seg>El icono &lt;f1&gt;Nuevo&lt;/f1&gt; cambia dependiendo del componente de LibreOffice que esté abierto.</seg>
       </tuv>
     </tu>
     <tu>
