@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Start Center</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T085215Z" creationid="Almudena" creationdate="20210527T085215Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: centro de inicio LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Example of tearing off a tool palette</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210527T083434Z" creationid="paula" creationdate="20210526T164142Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211053Z" creationid="paula" creationdate="20210526T211053Z">
         <seg>Figura &lt;seq0&gt;6&lt;/seq0&gt;: Ejemplo de barra de estado en Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T085612Z" creationid="Almudena" creationdate="20210527T085612Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Panel de propiedades de la barra lateral en Writer</seg>
       </tuv>
     </tu>
     <tu>
