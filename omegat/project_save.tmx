@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a document is already open in LibreOffice, the second document opens in a new window.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064712Z" creationid="Elena" creationdate="20210527T064712Z">
+        <seg>Si ya hay un documento abierto en LibreOffice, el segundo documento se abre en una nueva ventana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open, click the &lt;f0&gt;Open&lt;/f0&gt; icon on the Standard toolbar and select from a list of available documents from the Open dialog.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T064406Z" creationid="Elena" creationdate="20210527T064406Z">
@@ -1570,6 +1578,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T154835Z" creationid="Almudena" creationdate="20210526T154835Z">
         <seg>En la pestaña Avanzado también puede crear un archivo .zip de su perfil de usuario dañado que puede subirse al sistema de seguimiento de errores donde puede ser investigado por los programadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Open dialog, you can reduce the list of files by selecting the type of file you are looking for.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064742Z" creationid="Elena" creationdate="20210527T064742Z">
+        <seg>En el diálogo Abrir, puede reducir la lista de archivos seleccionando el tipo de archivo que está buscando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3286,10 +3302,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When no document is open, click on a thumbnail of recently opened documents displayed in the Start Center.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064606Z" creationid="Elena" creationdate="20210527T064606Z">
+        <seg>Si no hay ningún documento abierto, haga clic en la miniatura de los documentos abiertos recientemente que se muestra en el Centro de Inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using CMIS servers, the service will ask you for the necessary credentials for file access.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T211343Z" creationid="paula" creationdate="20210516T211343Z">
         <seg>Al utilizar servidores CMIS, el servicio le pedirá las credenciales necesarias para acceder a los archivos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using the Open dialog, navigate to the folder you want, select the file you want, and then click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064703Z" creationid="Elena" creationdate="20210527T064703Z">
+        <seg>Cuando utilice el cuadro de diálogo Abrir, navegue hasta la carpeta que desee, seleccione el archivo que quiera y haga clic en &lt;f0&gt;Abrir&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +3594,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210510T085900Z" creationid="Almudena" creationdate="20210510T084551Z">
         <seg>Puede guardar fórmulas en el formato estándar del lenguaje de marcas matemático (MathML) para incluirlas en páginas web y otros documentos que no han sido creados por LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can scroll up or down in the Start Center to locate a recently opened document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064641Z" creationid="Elena" creationdate="20210527T064641Z">
+        <seg>Puede desplazarse hacia arriba o hacia abajo en el Centro de Inicio para localizar un documento abierto recientemente.</seg>
       </tuv>
     </tu>
     <tu>
