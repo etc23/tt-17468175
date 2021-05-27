@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the dialog closes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070430Z" creationid="Elena" creationdate="20210527T070430Z">
+        <seg>Haga clic en &lt;f0&gt;Aceptar&lt;/f0&gt; y el cuadro de diálogo se cerrará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092132Z" creationid="Elena" creationdate="20210526T092132Z">
@@ -1486,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the passwords match, the document is saved password-protected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T071133Z" creationid="Elena" creationdate="20210527T071133Z">
+        <seg>Si las contraseñas coinciden, el documento se guarda protegido por contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unable to solve your problem using Safe Mode, the Advanced tab provides instructions on receiving further aid.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T154411Z" creationid="Almudena" creationdate="20210526T154411Z">
@@ -1650,6 +1666,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T070252Z" creationid="Elena" creationdate="20210527T070252Z">
         <seg>En la sección &lt;f0&gt;File Encryption Password&lt;/f0&gt;, introduzca una contraseña para abrir el documento y, a continuación, introduzca la misma contraseña como confirmación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;File Sharing Password &lt;/f0&gt;section, select &lt;f1&gt;Open file read-only&lt;/f1&gt;, enter a password to allow editing, and then enter the same password as confirmation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070418Z" creationid="Elena" creationdate="20210527T070418Z">
+        <seg>En la sección &lt;f0&gt;Contraseña para compartir archivos&lt;/f0&gt;, seleccione &lt;f1&gt;Abrir archivo de solo lectura&lt;/f1&gt;, introduzca una contraseña para permitir la edición y, a continuación, introduzca la misma contraseña como confirmación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3146,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150807Z" creationid="paula" creationdate="20210526T150807Z">
         <seg>A las ediciones anteriores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restrict who can edit the document, click &lt;f0&gt;Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070302Z" creationid="Elena" creationdate="20210527T070302Z">
+        <seg>Para restringir quién puede editar el documento, haga clic en &lt;f0&gt;Opciones&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
