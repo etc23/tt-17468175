@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; and the Set Password dialog opens (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070218Z" creationid="Elena" creationdate="20210527T070218Z">
+        <seg>Haga clic en &lt;f0&gt;Guardar&lt;/f0&gt; y se abrirá el cuadro de diálogo Establecer contraseña (Figura &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091246Z" creationid="Elena" creationdate="20210526T091246Z">
@@ -1634,6 +1642,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T205654Z" creationid="JoseCarlos" creationdate="20210516T205454Z">
         <seg>En algunos casos conviene reducir el número de barras de herramientas desplegadas y obtener así más espacio para el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;File Encryption Password &lt;/f0&gt;section, enter a password to open the document and then enter the same password as confirmation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070252Z" creationid="Elena" creationdate="20210527T070252Z">
+        <seg>En la sección &lt;f0&gt;File Encryption Password&lt;/f0&gt;, introduzca una contraseña para abrir el documento y, a continuación, introduzca la misma contraseña como confirmación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To restrict who can open and read a document, or open and edit the document, use password protection.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070052Z" creationid="Elena" creationdate="20210527T070052Z">
+        <seg>Para restringir quién puede abrir y leer un documento, o abrir y editar el documento, utilice la protección por contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To save a document if you are keeping the document’s current filename and location, do one of the following:</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T065523Z" creationid="Elena" creationdate="20210527T065523Z">
@@ -3350,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the Save As command above, select the &lt;f0&gt;Save with password&lt;/f0&gt; option in the Save As dialog or Save dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070152Z" creationid="Elena" creationdate="20210527T070152Z">
+        <seg>Utilizando el comando Guardar como anterior, seleccione la opción &lt;f0&gt;Guardar con contraseña&lt;/f0&gt; en el cuadro de diálogo Guardar como o Guardar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Save command will immediately overwrite the last saved version of the file.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T065703Z" creationid="Elena" creationdate="20210527T065703Z">
@@ -3450,6 +3482,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T065014Z" creationid="Elena" creationdate="20210527T065014Z">
         <seg>Al abrir archivos almacenados en un servidor remoto, es posible que se le pida que introduzca su nombre de usuario y contraseña para iniciar sesión en el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Save As dialog (Figure &lt;t0&gt;9&lt;/t0&gt;) or Save dialog opens, enter the file name, change the file type (if applicable), navigate to a new location (if applicable), and click &lt;f1&gt;Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T070035Z" creationid="Elena" creationdate="20210527T070035Z">
+        <seg>Cuando se abra el cuadro de diálogo Guardar como (Figura &lt;t0&gt;9&lt;/t0&gt;) o el cuadro de diálogo Guardar, introduzca el nombre del archivo, cambie el tipo de archivo (si procede), navegue a una nueva ubicación (si procede) y haga clic en &lt;f1&gt;Guardar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
