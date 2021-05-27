@@ -200,8 +200,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reset to factory settings&lt;/f0&gt; – If all of the above fails, you can reset your settings and your user interface modifications, or your entire profile back to factory defaults.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T083011Z" creationid="Almudena" creationdate="20210526T152700Z">
-        <seg>&lt;f0&gt; Restablecer la configuración de fábrica&lt;/f0&gt; - Si todo lo anterior falla, puede restablecer la configuración y las modificaciones de la interfaz de usuario, o todo su perfil a los valores predeterminados de fábrica.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T085125Z" creationid="Almudena" creationdate="20210526T152700Z">
+        <seg>&lt;f0&gt;Restablecer la configuración de fábrica&lt;/f0&gt; - Si todo lo anterior falla, puede restablecer la configuración y las modificaciones de la interfaz de usuario, o todo su perfil a los valores predeterminados de fábrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,8 +1160,8 @@
       <tuv lang="EN">
         <seg>For a more detailed listing of hardware and software requirements, see the LibreOffice website,&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T084003Z" creationid="JoseCarlos" creationdate="20210525T144208Z">
-        <seg>Para obtener una lista más detallada de los requisitos de hardware y software, consulte el sitio web de LibreOffice, &lt;br0/&gt; </seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T085150Z" creationid="JoseCarlos" creationdate="20210525T144208Z">
+        <seg>Para obtener una lista más detallada de los requisitos de hardware y software, consulte el sitio web de LibreOffice,&lt;br0/&gt; </seg>
       </tuv>
     </tu>
     <tu>
