@@ -230,6 +230,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Save As&lt;/f0&gt; – use to create a new document, or change the filename and/or file format, or save the file in a different location on your computer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065200Z" creationid="Elena" creationdate="20210527T065105Z">
+        <seg>&lt;f0&gt;Guardar como&lt;/f0&gt; - utilícelo para crear un nuevo documento, cambiar el nombre y/o el formato del archivo, o guardar el archivo en una ubicación diferente en su ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save Remote&lt;/f0&gt; – use if your document is already stored in a remote server or will be stored in a remote server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065309Z" creationid="Elena" creationdate="20210527T065309Z">
+        <seg>&lt;f0&gt;Guardar a distancia&lt;/f0&gt; - utilícelo si su documento ya está almacenado en un servidor remoto o se almacenará en un servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save a Copy&lt;/f0&gt; – use to save a copy of your current document and keep it open for more editing.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065335Z" creationid="Elena" creationdate="20210527T065335Z">
+        <seg>&lt;f0&gt;Guardar una copia&lt;/f0&gt; - utilícelo para guardar una copia de su documento actual y mantenerlo abierto para más ediciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save&lt;/f0&gt; – use if you are keeping the document, its current filename and location.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065135Z" creationid="Elena" creationdate="20210527T065056Z">
+        <seg>&lt;f0&gt;Guardar&lt;/f0&gt; - utilícelo si desea conservar el documento, su nombre de archivo actual y su ubicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles&lt;/f0&gt; – commands for quickly applying common styles; for editing, loading, and creating new styles; and for accessing the Styles deck in the Sidebar.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081735Z" creationid="Elena" creationdate="20210526T081735Z">
