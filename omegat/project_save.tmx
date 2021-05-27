@@ -576,8 +576,8 @@
       <tuv lang="EN">
         <seg>CMIS Properties</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T160148Z" creationid="paula" creationdate="20210526T160148Z">
-        <seg>Propiedades CMIS </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082050Z" creationid="paula" creationdate="20210526T160148Z">
+        <seg>Propiedades CMIS</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="EN">
         <seg>Calc (spreadsheets)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T155452Z" creationid="Almudena" creationdate="20210526T155452Z">
-        <seg>- Calc (hojas de cálculo)</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081725Z" creationid="Almudena" creationdate="20210526T155452Z">
+        <seg>Calc (hojas de cálculo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Help &gt; Restart in Safe Mode&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T114733Z" creationid="Almudena" creationdate="20210526T114733Z">
-        <seg>- Seleccione &lt;f0&gt;Ayuda &gt; Reiniciar en modo seguro &lt;/f0&gt;en la barra de menú.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081645Z" creationid="Almudena" creationdate="20210526T114733Z">
+        <seg>Seleccione &lt;f0&gt;Ayuda &gt; Reiniciar en modo seguro &lt;/f0&gt;en la barra de menú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,8 +1344,8 @@
       <tuv lang="EN">
         <seg>Hold down the left mouse button and drag the toolbar to the new location.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210516T201603Z" creationid="paula" creationdate="20210516T201603Z">
-        <seg>Arrastre entonces los objetos a su nueva posición manteniendo pulsado el botón izquierdo del ratón. </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081527Z" creationid="paula" creationdate="20210516T201603Z">
+        <seg>Arrastre entonces los objetos a su nueva posición manteniendo pulsado el botón izquierdo del ratón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1600,8 @@
       <tuv lang="EN">
         <seg>In Windows and Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T112559Z" creationid="Almudena" creationdate="20210526T112559Z">
-        <seg>- En Windows y Linux - &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081634Z" creationid="Almudena" creationdate="20210526T112559Z">
+        <seg>En Windows y Linux - &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,8 +1616,8 @@
       <tuv lang="EN">
         <seg>In Windows only, choose &lt;f0&gt;LibreOffice (Safe Mode)&lt;/f0&gt; from the Start Menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T115445Z" creationid="Almudena" creationdate="20210526T115445Z">
-        <seg>- Solo en Windows, elija &lt;f0&gt;LibreOffice (Modo seguro)&lt;/f0&gt; en el Menú Inicio.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081704Z" creationid="Almudena" creationdate="20210526T115445Z">
+        <seg>Solo en Windows, elija &lt;f0&gt;LibreOffice (Modo seguro)&lt;/f0&gt; en el Menú Inicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,8 +1648,8 @@
       <tuv lang="EN">
         <seg>In macOS – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T112611Z" creationid="Almudena" creationdate="20210526T112611Z">
-        <seg>- En macOS - &lt;f0&gt;Comando ⌘+Q&lt;/f0&gt;</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081640Z" creationid="Almudena" creationdate="20210526T112611Z">
+        <seg>En macOS - &lt;f0&gt;Comando ⌘+Q&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2320,8 +2320,8 @@
       <tuv lang="EN">
         <seg>Open Source Initiative (OSI)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T162437Z" creationid="Almudena" creationdate="20210526T162341Z">
-        <seg>Iniciativa de Código Abierto (OSI).</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081537Z" creationid="Almudena" creationdate="20210526T162341Z">
+        <seg>Iniciativa de Código Abierto (OSI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,8 +2728,8 @@
       <tuv lang="EN">
         <seg>Start LibreOffice from the command line with the &lt;f0&gt;--safe-mode&lt;/f0&gt; option.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T115153Z" creationid="Almudena" creationdate="20210526T115153Z">
-        <seg>- Inicie LibreOffice desde la línea de comandos con la opción &lt;f0&gt;--modo seguro&lt;/f0&gt;.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081651Z" creationid="Almudena" creationdate="20210526T115153Z">
+        <seg>Inicie LibreOffice desde la línea de comandos con la opción &lt;f0&gt;--modo seguro&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,8 +2856,8 @@
       <tuv lang="EN">
         <seg>The dictionaries are available from the LibreOffice website at: &lt;a0&gt;&lt;f1&gt;www.libreoffice.org&lt;/f1&gt;&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T165254Z" creationid="Almudena" creationdate="20210526T165254Z">
-        <seg>Los diccionarios están disponibles en el sitio web de LibreOffice en: &lt;a0&gt;&lt;f1&gt;www.libreoffice.org.&lt;/f1&gt;&lt;/a0&gt;</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081547Z" creationid="Almudena" creationdate="20210526T165254Z">
+        <seg>Los diccionarios están disponibles en el sitio web de LibreOffice en: &lt;a0&gt;&lt;f1&gt;www.libreoffice.org.&lt;/f1&gt;&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3208,8 +3208,8 @@
       <tuv lang="EN">
         <seg>To show or hide icons defined for the selected toolbar, point to &lt;f0&gt;Visible Buttons&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T165205Z" creationid="paula" creationdate="20210526T165047Z">
-        <seg>- Para mostrar u ocultar los iconos definidos para la barra de herramientas seleccionada, señale &lt;f0&gt;Botones visibles&lt;/f0&gt;.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081627Z" creationid="paula" creationdate="20210526T165047Z">
+        <seg>Para mostrar u ocultar los iconos definidos para la barra de herramientas seleccionada, señale &lt;f0&gt;Botones visibles&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,8 +3640,8 @@
       <tuv lang="EN">
         <seg>Writer (word processing)</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T155448Z" creationid="Almudena" creationdate="20210526T155448Z">
-        <seg>- Writer (procesamiento de textos)</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081718Z" creationid="Almudena" creationdate="20210526T155448Z">
+        <seg>Writer (procesamiento de textos)</seg>
       </tuv>
     </tu>
     <tu>
