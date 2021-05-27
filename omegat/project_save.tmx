@@ -896,8 +896,8 @@
       <tuv lang="EN">
         <seg>Custom Properties</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T160141Z" creationid="paula" creationdate="20210526T160141Z">
-        <seg>Propiedades personalizadas </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082653Z" creationid="paula" creationdate="20210526T160141Z">
+        <seg>Propiedades personalizadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +928,8 @@
       <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T160135Z" creationid="paula" creationdate="20210526T160135Z">
-        <seg>Descripción </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082703Z" creationid="paula" creationdate="20210526T160135Z">
+        <seg>Descripción</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,16 +1096,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Toolbar handles</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T164841Z" creationid="paula" creationdate="20210526T164841Z">
-        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Barras de herramientas </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082828Z" creationid="paula" creationdate="20210526T164841Z">
+        <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Barras de herramientas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Selection of visible toolbar icons</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T165334Z" creationid="paula" creationdate="20210526T165334Z">
-        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Barras de herramientas </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082813Z" creationid="paula" creationdate="20210526T165334Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Barras de herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@
       <tuv lang="EN">
         <seg>Floating toolbars</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210516T203244Z" creationid="paula" creationdate="20210516T202057Z">
-        <seg>Barras de herramientas flotantes </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082822Z" creationid="paula" creationdate="20210516T202057Z">
+        <seg>Barras de herramientas flotantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,8 +1160,8 @@
       <tuv lang="EN">
         <seg>For a more detailed listing of hardware and software requirements, see the LibreOffice website,&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210526T111830Z" creationid="JoseCarlos" creationdate="20210525T144208Z">
-        <seg>Para obtener una lista más detallada de los requisitos de hardware y software, consulte el sitio web de LibreOffice:&lt;br0/&gt; </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082844Z" creationid="JoseCarlos" creationdate="20210525T144208Z">
+        <seg>Para obtener una lista más detallada de los requisitos de hardware y software, consulte el sitio web de LibreOffice,&lt;br0/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,8 +1288,8 @@
       <tuv lang="EN">
         <seg>General</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T160129Z" creationid="paula" creationdate="20210526T160129Z">
-        <seg>Generalidades </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082708Z" creationid="paula" creationdate="20210526T160129Z">
+        <seg>Generalidades</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,8 +3424,8 @@
       <tuv lang="EN">
         <seg>Using the Navigator</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T155435Z" creationid="paula" creationdate="20210526T155435Z">
-        <seg>Uso del navegador </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T082720Z" creationid="paula" creationdate="20210526T155435Z">
+        <seg>Uso del navegador</seg>
       </tuv>
     </tu>
     <tu>
