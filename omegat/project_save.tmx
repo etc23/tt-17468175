@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you choose Text documents as the file type, you will only see documents Writer can open (including .odt, .doc, .txt); if you choose Spreadsheets, you will see .ods, .xls, and other files that Calc opens.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064824Z" creationid="Elena" creationdate="20210527T064824Z">
+        <seg>Por ejemplo, si elige Documentos de texto como tipo de archivo, solo verá los documentos que Writer puede abrir (incluyendo .odt, .doc, .txt); si elige Hojas de cálculo, verá .ods, .xls y otros archivos que Calc abre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Properties panel.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T212454Z" creationid="paula" creationdate="20210526T212454Z">
@@ -1878,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has to be associated with file types that are not ODF files for the appropriate LibreOffice component to open.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064959Z" creationid="Elena" creationdate="20210527T064959Z">
+        <seg>LibreOffice tiene que asociarse con tipos de archivo que no sean archivos ODF para que se abra el componente de LibreOffice apropiado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has two types of toolbars: docked (fixed in place) and floating.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210514T142444Z" creationid="JoseCarlos" creationdate="20210514T142444Z">
@@ -2368,8 +2384,8 @@
       <tuv lang="EN">
         <seg>Saving documents</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T154712Z" creationid="paula" creationdate="20210526T154712Z">
-        <seg>Guardar documentos </seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065017Z" creationid="paula" creationdate="20210526T154712Z">
+        <seg>Guardar documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When opening files stored in a remote server, you may be asked to enter your user name and password to log in the server.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065014Z" creationid="Elena" creationdate="20210527T065014Z">
+        <seg>Al abrir archivos almacenados en un servidor remoto, es posible que se le pida que introduzca su nombre de usuario y contraseña para iniciar sesión en el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using CMIS servers, the service will ask you for the necessary credentials for file access.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T211343Z" creationid="paula" creationdate="20210516T211343Z">
@@ -3478,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also open an existing document that is in a format that LibreOffice recognizes by double-clicking on the file icon on the desktop or in a file manager such as Windows Explorer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064927Z" creationid="Elena" creationdate="20210527T064927Z">
+        <seg>También puede abrir un documento existente que esté en un formato que LibreOffice reconozca haciendo doble clic en el icono del archivo en el escritorio o en un administrador de archivos como Windows Explorer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also open and work with Microsoft Excel workbooks and save them in Excel format.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T115916Z" creationid="paula" creationdate="20210513T212636Z">
@@ -3586,6 +3618,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T194558Z" creationid="paula" creationdate="20210526T194558Z">
         <seg>Puede reposicionar las barras de herramientas a diferentes posiciones acopladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can save documents as follows:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T065022Z" creationid="Elena" creationdate="20210527T065022Z">
+        <seg>Puede guardar los documentos de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
