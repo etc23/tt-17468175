@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T090633Z" creationid="Almudena" creationdate="20210527T090633Z">
+        <seg>Figura &lt;seq0&gt;12&lt;/seq0&gt;: Diálogo de archivos remotos cuando se conecta a un servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: LibreOffice Safe Mode</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T115555Z" creationid="Almudena" creationdate="20210526T115555Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210527T085953Z" creationid="Almudena" creationdate="20210527T085953Z">
         <seg>Figura &lt;seq0&gt;8&lt;/seq0&gt;: Flotar (desanclar) o anclar la barra lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Example of LibreOffice Save As dialog</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T090409Z" creationid="Almudena" creationdate="20210527T090409Z">
+        <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: Ejemplo de cuadro de diálogo de LibreOffice Guardar como</seg>
       </tuv>
     </tu>
     <tu>
