@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the small triangle to the right of the &lt;f0&gt;Open&lt;/f0&gt; icon and select from a list of recently opened documents, click &lt;f1&gt;Open Template&lt;/f1&gt; to select a template, or click &lt;f2&gt;Open Remote File&lt;/f2&gt; to open a remote file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064524Z" creationid="Elena" creationdate="20210527T064524Z">
+        <seg>Haga clic en el pequeño triángulo a la derecha del icono &lt;f0&gt;Abrir&lt;/f0&gt; y seleccione de una lista de documentos abiertos recientemente, haga clic en &lt;f1&gt;Abrir plantilla&lt;/f1&gt; para seleccionar una plantilla, o haga clic en &lt;f2&gt;Abrir archivo remoto&lt;/f2&gt; para abrir un archivo remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click to choose different selection modes.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211549Z" creationid="paula" creationdate="20210526T211549Z">
@@ -1214,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote&lt;/f1&gt; on the Menu bar to reach the corresponding open dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064305Z" creationid="Elena" creationdate="20210527T064305Z">
+        <seg>Vaya a &lt;f0&gt;Archivo &gt; Abrir&lt;/f0&gt; o &lt;f1&gt;Archivo &gt; Abrir remoto&lt;/f1&gt; en la barra de menú para acceder al diálogo de apertura correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt; on the Menu bar and click the &lt;f1&gt;Change Password&lt;/f1&gt; button.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102056Z" creationid="Elena" creationdate="20210526T102056Z">
@@ -1338,6 +1354,22 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T063233Z" creationid="Elena" creationdate="20210527T063233Z">
         <seg>Si ya hay un documento abierto en LibreOffice, haga clic en el icono &lt;f0&gt;Nuevo&lt;/f0&gt; de la barra de herramientas Estándar y se creará un nuevo documento del mismo tipo en una nueva ventana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a document is already open, click the &lt;f0&gt;Open&lt;/f0&gt; icon on the Standard toolbar and select from a list of available documents from the Open dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064406Z" creationid="Elena" creationdate="20210527T064406Z">
+        <seg>Si ya hay un documento abierto, haga clic en el icono &lt;f0&gt;Abrir&lt;/f0&gt; de la barra de herramientas Estándar y seleccione de una lista de documentos disponibles en el cuadro de diálogo Abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If all documents are closed without exiting from LibreOffice, then the Start Center will be displayed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064148Z" creationid="Elena" creationdate="20210527T064148Z">
+        <seg>Si se cierran todos los documentos sin salir de LibreOffice, se mostrará el Centro de inicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2168,8 +2200,8 @@
       <tuv lang="EN">
         <seg>Opening existing documents</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T154706Z" creationid="paula" creationdate="20210526T154706Z">
-        <seg>Abrir documentos existentes 15</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064152Z" creationid="paula" creationdate="20210526T154706Z">
+        <seg>Abrir documentos existentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+O&lt;/f0&gt; to reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064330Z" creationid="Elena" creationdate="20210527T064330Z">
+        <seg>Utilice el atajo de teclado &lt;f0&gt;Ctrl+O&lt;/f0&gt; para acceder al cuadro de diálogo Abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T105126Z" creationid="Elena" creationdate="20210526T105126Z">
@@ -3234,6 +3274,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T100831Z" creationid="Elena" creationdate="20210526T100831Z">
         <seg>Cuando un documento está protegido por contraseña, puede cambiarla mientras el documento está abierto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; or &lt;f1&gt;Remote Files&lt;/f1&gt; in the Start Center to reach the corresponding open dialog.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064237Z" creationid="Elena" creationdate="20210527T064237Z">
+        <seg>Cuando no haya ningún documento abierto, haga clic en &lt;f0&gt;Abrir archivo &lt;/f0&gt;o &lt;f1&gt;Archivos remotos&lt;/f1&gt; en el Centro de inicio para acceder al diálogo de apertura correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3392,8 +3440,8 @@
       <tuv lang="EN">
         <seg>You can also open an existing document in one of the following ways:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T110901Z" creationid="Elena" creationdate="20210526T110901Z">
-        <seg>También puede iniciar un nuevo documento de una de las siguientes maneras:</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T064202Z" creationid="Elena" creationdate="20210526T110901Z">
+        <seg>También puede abrir un documento existente de una de las siguientes maneras:</seg>
       </tuv>
     </tu>
     <tu>
