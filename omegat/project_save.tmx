@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Set Password dialog</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T071251Z" creationid="Elena" creationdate="20210527T071251Z">
+        <seg>Figura &lt;seq0&gt;10&lt;/seq0&gt;: Diálogo de Establecer la contraseña</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T120113Z" creationid="Elena" creationdate="20210526T105025Z">
@@ -1490,6 +1498,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112152Z" creationid="Almudena" creationdate="20210526T112152Z">
         <seg>Si el documento no se ha guardado desde la última modificación, aparecerá un cuadro de mensaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the passwords do not match, you receive an error message.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T071140Z" creationid="Elena" creationdate="20210527T071140Z">
+        <seg>Si las contraseñas no coinciden, recibirá un mensaje de error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2058,6 +2074,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092327Z" creationid="Elena" creationdate="20210526T092327Z">
         <seg>LibreOffice es compatible con muchos servidores de documentos que utilizan protocolos de red bien conocidos como FTP, WebDav, Windows share y SSH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice uses a very strong encryption mechanism that makes it almost impossible to recover the contents of a document if you lose or forget the password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T071304Z" creationid="Elena" creationdate="20210527T071304Z">
+        <seg>LibreOffice utiliza un mecanismo de cifrado muy fuerte que hace casi imposible recuperar el contenido de un documento si se pierde u olvida la contraseña.</seg>
       </tuv>
     </tu>
     <tu>
