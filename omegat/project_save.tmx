@@ -560,8 +560,8 @@
       <tuv lang="EN">
         <seg>Based on LibreOffice &lt;ud1&gt;7.0&lt;/ud1&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T080559Z" creationid="paula" creationdate="20210526T151007Z">
-        <seg>Basado en LibreOffice &lt;ud1&gt;7.0&lt;/ud1&gt;</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T080608Z" creationid="paula" creationdate="20210526T151007Z">
+        <seg>Basado en LibreOffice &lt;ud1&gt;7.0&lt;/ud1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,8 +944,8 @@
       <tuv lang="EN">
         <seg>Displaying or hiding toolbars</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210515T111952Z" creationid="Almudena" creationdate="20210515T111952Z">
-        <seg>Mostrar u ocultar la barra de herramientas.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T080620Z" creationid="Almudena" creationdate="20210515T111952Z">
+        <seg>Mostrar u ocultar la barra de herramientas</seg>
       </tuv>
     </tu>
     <tu>
