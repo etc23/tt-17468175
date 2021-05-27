@@ -680,8 +680,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See Chapter 14, Customizing LibreOffice, for more information.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T194427Z" creationid="paula" creationdate="20210526T194427Z">
-        <seg>Haga clic en  &lt;f0&gt;Personalizar barra de herramientas&lt;/f0&gt; para abrir el cuadro de diálogo Personalizar; consulte el capítulo 14, Personalización de LibreOffice, para más información.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083440Z" creationid="paula" creationdate="20210526T194427Z">
+        <seg>Haga clic en &lt;f0&gt;Personalizar barra de herramientas&lt;/f0&gt; para abrir el cuadro de diálogo Personalizar; consulte el capítulo 14, Personalización de LibreOffice, para más información.</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; to lock a docked toolbar into its docked position.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T210308Z" creationid="paula" creationdate="20210526T210308Z">
-        <seg>Haga clic en  &lt;f0&gt;Bloquear posición de la barra de herramientas&lt;/f0&gt; para bloquear una barra de herramientas acoplada en su posición de acoplamiento.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083529Z" creationid="paula" creationdate="20210526T210308Z">
+        <seg>Haga clic en &lt;f0&gt;Bloquear posición de la barra de herramientas&lt;/f0&gt; para bloquear una barra de herramientas acoplada en su posición de acoplamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="EN">
         <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T193616Z" creationid="Almudena" creationdate="20210526T102758Z">
-        <seg>Al hacer clic en la entrada del menú de LibreOffice, en el icono del escritorio o en el mosaico, se abre el Centro de inicio de LibreOffice (Figura  &lt;t0&gt;1&lt;/t0&gt;) desde donde puede seleccionar los componentes individuales de LibreOffice.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083426Z" creationid="Almudena" creationdate="20210526T102758Z">
+        <seg>Al hacer clic en la entrada del menú de LibreOffice, en el icono del escritorio o en el mosaico, se abre el Centro de inicio de LibreOffice (Figura &lt;t0&gt;1&lt;/t0&gt;) desde donde puede seleccionar los componentes individuales de LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1088,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Example of tearing off a tool palette</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T164307Z" creationid="paula" creationdate="20210526T164142Z">
-        <seg>Figura  &lt;seq0&gt;2&lt;/seq0&gt;: Ejemplo de arrancar una paleta de herramientas</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083434Z" creationid="paula" creationdate="20210526T164142Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Ejemplo de arrancar una paleta de herramientas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,8 +1128,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T161020Z" creationid="paula" creationdate="20210526T161020Z">
-        <seg>La figura &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;muestra un ejemplo de una paleta de herramientas de la barra de herramientas de Dibujo, convertida en una barra de herramientas desplegable.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083557Z" creationid="paula" creationdate="20210526T161020Z">
+        <seg>La figura &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;muestra un ejemplo de una paleta de herramientas de la barra de herramientas de Dibujo, convertida en una barra de herramientas desplegable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2296,8 @@
       <tuv lang="EN">
         <seg>On the Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), click &lt;f1&gt;Manage Services / Add Service&lt;/f1&gt; button in the upper right to open the File Services dialog (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T091707Z" creationid="Elena" creationdate="20210526T091707Z">
-        <seg>En el cuadro de diálogo Archivos remotos (Figura &lt;t0&gt;12&lt;/t0&gt;), haga clic &lt;f1&gt;en el botón Administrar servicios / Añadir servicio&lt;/f1&gt; en la parte superior derecha para abrir el cuadro de diálogo Servicios de archivo (Figura &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083613Z" creationid="Elena" creationdate="20210526T091707Z">
+        <seg>En el cuadro de diálogo Archivos remotos (Figura &lt;t0&gt;12&lt;/t0&gt;), haga clic &lt;f1&gt;en el botón Administrar servicios / Añadir servicio&lt;/f1&gt; en la parte superior derecha para abrir el cuadro de diálogo Servicios de archivo (Figura &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,8 +2560,8 @@
       <tuv lang="EN">
         <seg>See “&lt;bf1&gt;Moving toolbars&lt;/bf1&gt;” on page &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T194529Z" creationid="paula" creationdate="20210526T194529Z">
-        <seg>Consulte "&lt;bf1&gt;Mover barras de herramientas&lt;/bf1&gt;" en la página  &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083447Z" creationid="paula" creationdate="20210526T194529Z">
+        <seg>Consulte "&lt;bf1&gt;Mover barras de herramientas&lt;/bf1&gt;" en la página &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,8 +3088,8 @@
       <tuv lang="EN">
         <seg>To activate the Sidebar, select &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212107Z" creationid="paula" creationdate="20210526T212107Z">
-        <seg>Para activar la barra lateral, seleccione  &lt;f0&gt;Ver &gt; Barra lateral&lt;/f0&gt; en la barra de menús.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T083536Z" creationid="paula" creationdate="20210526T212107Z">
+        <seg>Para activar la barra lateral, seleccione &lt;f0&gt;Ver &gt; Barra lateral&lt;/f0&gt; en la barra de menús.</seg>
       </tuv>
     </tu>
     <tu>
