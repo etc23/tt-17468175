@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="paula" changedate="20210527T083812Z" creationid="paula" creationdate="20210527T083812Z">
+        <seg>Haga clic en &lt;f0&gt;Cerrar barra de herramientas&lt;/f0&gt; para cerrar la barra de herramientas seleccionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See Chapter 14, Customizing LibreOffice, for more information.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210527T083440Z" creationid="paula" creationdate="20210526T194427Z">
