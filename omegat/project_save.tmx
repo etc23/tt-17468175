@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>A panel is like a combination of a toolbar and a dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212349Z" creationid="paula" creationdate="20210526T212349Z">
-        <seg>Un panel es como una combinación de una barra de herramientas y un diálogo.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T091738Z" creationid="paula" creationdate="20210526T212349Z">
+        <seg>Un panel es como una combinación de una barra de herramientas y un cuadro de diálogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,8 +1344,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote&lt;/f1&gt; on the Menu bar to reach the corresponding open dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T064305Z" creationid="Elena" creationdate="20210527T064305Z">
-        <seg>Vaya a &lt;f0&gt;Archivo &gt; Abrir&lt;/f0&gt; o &lt;f1&gt;Archivo &gt; Abrir remoto&lt;/f1&gt; en la barra de menú para acceder al diálogo de apertura correspondiente.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T091822Z" creationid="Elena" creationdate="20210527T064305Z">
+        <seg>Vaya a &lt;f0&gt;Archivo &gt; Abrir&lt;/f0&gt; o &lt;f1&gt;Archivo &gt; Abrir remoto&lt;/f1&gt; en la barra de menú para acceder al cuadro de diálogo de apertura correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3568,8 +3568,8 @@
       <tuv lang="EN">
         <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; or &lt;f1&gt;Remote Files&lt;/f1&gt; in the Start Center to reach the corresponding open dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T090211Z" creationid="Elena" creationdate="20210527T064237Z">
-        <seg>Cuando no haya ningún documento abierto, haga clic en &lt;f0&gt;Abrir archivo&lt;/f0&gt;o &lt;f1&gt;Archivos remotos&lt;/f1&gt; en el Centro de inicio para acceder al diálogo de apertura correspondiente.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210527T091830Z" creationid="Elena" creationdate="20210527T064237Z">
+        <seg>Cuando no haya ningún documento abierto, haga clic en &lt;f0&gt;Abrir archivo&lt;/f0&gt;o &lt;f1&gt;Archivos remotos&lt;/f1&gt; en el Centro de inicio para acceder al cuadro de diálogo de apertura correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
