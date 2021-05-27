@@ -1344,8 +1344,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T091944Z" creationid="Elena" creationdate="20210526T091944Z">
-        <seg>Vaya a &lt;f0&gt;Herramientas &gt; Opciones &gt; Cargar/Guardar &gt; General&lt;/f0&gt; en la Barra de menú.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T085725Z" creationid="Elena" creationdate="20210526T091944Z">
+        <seg>Vaya a &lt;f0&gt;Herramientas &gt; Opciones &gt; Cargar/Guardar &gt; General&lt;/f0&gt; en la barra de menú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@
       <tuv lang="EN">
         <seg>If only one document is open and you want to close that document, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the Menu bar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T112051Z" creationid="Almudena" creationdate="20210526T111316Z">
-        <seg>Si solo hay un documento abierto y quiere cerrarlo, vaya a &lt;f0&gt;Archivo &gt; Cerrar &lt;/f0&gt;en la barra de menú o haga clic en la X del extremo derecho o izquierdo de la barra de menús.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T085733Z" creationid="Almudena" creationdate="20210526T111316Z">
+        <seg>Si solo hay un documento abierto y quiere cerrarlo, vaya a &lt;f0&gt;Archivo &gt; Cerrar &lt;/f0&gt;en la barra de menú o haga clic en la X del extremo derecho o izquierdo de la barra de menú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,8 +2312,8 @@
       <tuv lang="EN">
         <seg>On macOS, the document closes and only the Menu bar remains at the top of the screen.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T111512Z" creationid="Almudena" creationdate="20210526T111512Z">
-        <seg>En macOS, el documento se cierra y solo queda la barra de menús en la parte superior de la pantalla.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T085859Z" creationid="Almudena" creationdate="20210526T111512Z">
+        <seg>En macOS, el documento se cierra y solo queda la barra de menú en la parte superior de la pantalla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3120,8 +3120,8 @@
       <tuv lang="EN">
         <seg>To activate the Sidebar, select &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T083536Z" creationid="paula" creationdate="20210526T212107Z">
-        <seg>Para activar la barra lateral, seleccione &lt;f0&gt;Ver &gt; Barra lateral&lt;/f0&gt; en la barra de menús.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T085716Z" creationid="paula" creationdate="20210526T212107Z">
+        <seg>Para activar la barra lateral, seleccione &lt;f0&gt;Ver &gt; Barra lateral&lt;/f0&gt; en la barra de menú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3144,16 +3144,16 @@
       <tuv lang="EN">
         <seg>To close a toolbar, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close Toolbar&lt;/f1&gt; in the context menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210525T220808Z" creationid="Almudena" creationdate="20210525T220808Z">
-        <seg>Para cerrar una barra de herramientas, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menús y desmarque la barra de herramientas o bien haga click derecho en un espacio vacío entre los iconos de una barra de herramientas y seleccione &lt;f1&gt;Cerrar barra de herramientas&lt;/f1&gt; en el menú contextual.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T085655Z" creationid="Almudena" creationdate="20210525T220808Z">
+        <seg>Para cerrar una barra de herramientas, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menú y desmarque la barra de herramientas o bien haga click derecho en un espacio vacío entre los iconos de una barra de herramientas y seleccione &lt;f1&gt;Cerrar barra de herramientas&lt;/f1&gt; en el menú contextual.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To display or hide toolbars in a standard setup, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the submenu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210525T220431Z" creationid="Almudena" creationdate="20210525T220431Z">
-        <seg>Para mostrar u ocultar las barras de herramientas en una configuración estándar, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menús y después haga click en el nombre de una barra de herramientas del submenú.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T085642Z" creationid="Almudena" creationdate="20210525T220431Z">
+        <seg>Para mostrar u ocultar las barras de herramientas en una configuración estándar, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menú y después haga click en el nombre de una barra de herramientas del submenú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,8 +3960,8 @@
       <tuv lang="EN">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), version 4.0 or later.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T081819Z" creationid="paula" creationdate="20210526T150338Z">
-        <seg>Puede distribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU(&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versión 3 o posterior, o la Licencia de Atribución de Creative Commons (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versión 4.0 o posterior.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T090246Z" creationid="paula" creationdate="20210526T150338Z">
+        <seg>Puede distribuirlo y/o modificarlo bajo los términos de la Licencia Pública General de GNU (&lt;a2&gt;https://www.gnu.org/licenses/gpl.html&lt;/a2&gt;), versión 3 o posterior, o la Licencia de Atribución de Creative Commons (&lt;a3&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a3&gt;), versión 4.0 o posterior.</seg>
       </tuv>
     </tu>
     <tu>
