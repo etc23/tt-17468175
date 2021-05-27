@@ -1896,8 +1896,8 @@
       <tuv lang="EN">
         <seg>Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments worldwide as a required file format for publishing and accepting documents.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210513T212318Z" creationid="paula" creationdate="20210513T212318Z">
-        <seg>Su formato nativo de archivo es el Formato de Documento Abierto para Aplicaciones Ofimáticas (OASIS), un formato de archivo abierto y estándar. Gobiernos en todo el mundo lo han establecido como el formato de fichero requerido para aceptar y publicar cualquier documento. </seg>
+      <tuv lang="ES" changeid="paula" changedate="20210527T081253Z" creationid="paula" creationdate="20210513T212318Z">
+        <seg>Su formato nativo de archivo es el Formato de Documento Abierto (ODF), un formato de archivo abierto y estándar. Gobiernos en todo el mundo lo han establecido como el formato de fichero requerido para aceptar y publicar cualquier documento.</seg>
       </tuv>
     </tu>
     <tu>
