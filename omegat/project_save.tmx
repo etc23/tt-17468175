@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Continue in Safe Mode&lt;/f0&gt; – Continuing in Safe Mode will allow you to work in LibreOffice, using a temporary profile that was created on startup.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T083029Z" creationid="Almudena" creationdate="20210526T153652Z">
-        <seg>&lt;f0&gt;Continuar en modo seguro &lt;/f0&gt;- Continuar en modo seguro le permitirá trabajar en LibreOffice, utilizando un perfil temporal que se creó al inicio.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T083518Z" creationid="Almudena" creationdate="20210526T153652Z">
+        <seg>&lt;f0&gt;Continuar en modo seguro&lt;/f0&gt; - Continuar en modo seguro le permitirá trabajar en LibreOffice, utilizando un perfil temporal que se creó al inicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,16 +192,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reset entire user profile&lt;/f0&gt; – this will erase all customized options and return your user profile to the factory default state.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T083023Z" creationid="Almudena" creationdate="20210526T153608Z">
-        <seg>&lt;f0&gt; Restablecer todo el perfil de usuario &lt;/f0&gt;- esto borrará todas las opciones personalizadas y devolverá su perfil de usuario al estado predeterminado de fábrica.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T083636Z" creationid="Almudena" creationdate="20210526T153608Z">
+        <seg>&lt;f0&gt;Restablecer todo el perfil de usuario&lt;/f0&gt; - esto borrará todas las opciones personalizadas y devolverá su perfil de usuario al estado predeterminado de fábrica.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reset settings and user interface modifications&lt;/f0&gt; – this will reset your User Interface and configuration changes, but keep things like your personal dictionary, templates, etc.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T083018Z" creationid="Almudena" creationdate="20210526T152759Z">
-        <seg>&lt;f0&gt; Restablecer la configuración y las modificaciones de la interfaz de usuario &lt;/f0&gt;- esto restablecerá su interfaz de usuario y los cambios de configuración, pero mantendrá cosas como su diccionario personal, plantillas, etc.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T083800Z" creationid="Almudena" creationdate="20210526T152759Z">
+        <seg>&lt;f0&gt;Restablecer la configuración y las modificaciones de la interfaz de usuario &lt;/f0&gt; - esto restablecerá su interfaz de usuario y los cambios de configuración, pero mantendrá cosas como su diccionario personal, plantillas, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Restart in Normal Mode&lt;/f0&gt; – If you arrived in Safe Mode accidentally, this option will discard any changes, terminate Safe Mode, and restart LibreOffice normally.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T083034Z" creationid="Almudena" creationdate="20210526T154139Z">
-        <seg>&lt;f0&gt;Reiniciar en modo normal&lt;/f0&gt;: si llegó al modo seguro accidentalmente, esta opción descartará cualquier cambio, terminará el modo seguro y reiniciará LibreOffice normalmente.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T083401Z" creationid="Almudena" creationdate="20210526T154139Z">
+        <seg>&lt;f0&gt;Reiniciar en modo normal&lt;/f0&gt; - Si llegó al modo seguro accidentalmente, esta opción descartará cualquier cambio, terminará el modo seguro y reiniciará LibreOffice normalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,8 +3088,8 @@
       <tuv lang="EN">
         <seg>To activate it, enable &lt;f0&gt;View &gt; &lt;/f0&gt;User Interface&lt;f1&gt; &gt; S&lt;/f1&gt;ingle Toolbar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T210450Z" creationid="JoseCarlos" creationdate="20210516T210450Z">
-        <seg>Para activarla, active &lt;f0&gt;View (Ver) &gt; &lt;/f0&gt;User Interface&lt;f1&gt; (Interfaz de usuario) &gt; S&lt;/f1&gt;ingle Toolbar (Barra de herramientas única).</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210527T083925Z" creationid="JoseCarlos" creationdate="20210516T210450Z">
+        <seg>Para activarla, active &lt;f0&gt;Ver &gt; &lt;/f0&gt;Interfaz de usuario&lt;f1&gt; &gt; B&lt;/f1&gt;arra de herramientas única.</seg>
       </tuv>
     </tu>
     <tu>
