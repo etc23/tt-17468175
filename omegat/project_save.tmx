@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with Undo, click on the triangle to the right of the &lt;f3&gt;Redo&lt;/f3&gt; icon to get a list of the changes that can be reapplied.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T162623Z" creationid="JoseCarlos" creationdate="20210528T162623Z">
+        <seg>Al igual que con Deshacer, haga clic en el triángulo que se encuentra a la derecha del icono de &lt;f3&gt;Rehacer&lt;/f3&gt; para obtener una lista de los cambios que se pueden volver a aplicar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102915Z" creationid="Elena" creationdate="20210526T102915Z">
