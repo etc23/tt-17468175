@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After changes have been undone, you can redo changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T161908Z" creationid="JoseCarlos" creationdate="20210528T161908Z">
+        <seg>Después de deshacer los cambios, puede rehacerlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All four components contain the Properties, Styles, Gallery, and Navigator decks.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T212139Z" creationid="paula" creationdate="20210526T212139Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T064524Z" creationid="Elena" creationdate="20210527T064524Z">
         <seg>Haga clic en el pequeño triángulo a la derecha del icono &lt;f0&gt;Abrir&lt;/f0&gt; y seleccione de una lista de documentos abiertos recientemente, haga clic en &lt;f1&gt;Abrir plantilla&lt;/f1&gt; para seleccionar una plantilla, o haga clic en &lt;f2&gt;Abrir archivo remoto&lt;/f2&gt; para abrir un archivo remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the small triangle to the right of the &lt;f3&gt;Undo&lt;/f3&gt; icon to get a list of all the changes that can be undone.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T161833Z" creationid="JoseCarlos" creationdate="20210528T161833Z">
+        <seg>Haga clic en el pequeño triángulo que hay a la derecha del icono de &lt;f3&gt;Deshacer&lt;/f3&gt; para obtener una lista de todos los cambios que se pueden deshacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To redo a change use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, or click the &lt;f1&gt;Redo&lt;/f1&gt; icon, or go to &lt;f2&gt;Edit &gt; Redo&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T162418Z" creationid="JoseCarlos" creationdate="20210528T162418Z">
+        <seg>Para rehacer un cambio utilice el atajo de teclado &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, haga clic en el icono de &lt;f1&gt;Rehacer&lt;/f1&gt; o vaya a Editar &gt; Rehacer en la barra de menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To restrict who can edit the document, click &lt;f0&gt;Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T070302Z" creationid="Elena" creationdate="20210527T070302Z">
@@ -4026,6 +4050,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T064641Z" creationid="Elena" creationdate="20210527T064641Z">
         <seg>Puede desplazarse hacia arriba o hacia abajo en el Centro de Inicio para localizar un documento abierto recientemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select multiple changes and undo them at the same time.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T161856Z" creationid="JoseCarlos" creationdate="20210528T161856Z">
+        <seg>Puede seleccionar varios cambios y deshacerlos al mismo tiempo.</seg>
       </tuv>
     </tu>
     <tu>
