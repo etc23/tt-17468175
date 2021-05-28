@@ -1224,8 +1224,8 @@
       <tuv lang="EN">
         <seg>For example, in Writer it shows Headings, Tables, Frames, Comments, Images, Bookmarks, and other items, as shown in Figure &lt;t0&gt;13&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T152706Z" creationid="JoseCarlos" creationdate="20210528T152706Z">
-        <seg>Por ejemplo &lt;t0&gt;13&lt;/t0&gt;.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153442Z" creationid="JoseCarlos" creationdate="20210528T152706Z">
+        <seg>Por ejemplo, en Writer muestra Títulos, Tablas, Marcos, Comentarios, Imágenes, Marcadores y otros elementos, como se muestra en la Figura &lt;t0&gt;13&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,6 +1642,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T080902Z" creationid="JoseCarlos" creationdate="20210511T080902Z">
         <seg>Impress proporciona todas las herramientas de presentación multimedia comunes tales como efectos especiales, animaciones y herramientas de dibujo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc it shows Sheets, Range names, Database ranges, Images, Drawing objects, and other items.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153616Z" creationid="JoseCarlos" creationdate="20210528T153616Z">
+        <seg>En Calc muestra Hojas, Nombres de intervalos, Intervalos de base de datos, Imágenes, Objetos de dibujo y otros elementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2864,8 +2872,8 @@
       <tuv lang="EN">
         <seg>The LibreOffice Navigator lists objects contained within a document, collected into categories.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T152058Z" creationid="JoseCarlos" creationdate="20210528T152058Z">
-        <seg>El Navegador de LibreOffice.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153325Z" creationid="JoseCarlos" creationdate="20210528T152058Z">
+        <seg>El Navegador de LibreOffice enumera los objetos contenidos en un documento, agrupados en categorías.</seg>
       </tuv>
     </tu>
     <tu>
