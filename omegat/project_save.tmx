@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in Writer it shows Headings, Tables, Frames, Comments, Images, Bookmarks, and other items, as shown in Figure &lt;t0&gt;13&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T152706Z" creationid="JoseCarlos" creationdate="20210528T152706Z">
+        <seg>Por ejemplo &lt;t0&gt;13&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Properties panel.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T212454Z" creationid="paula" creationdate="20210526T212454Z">
