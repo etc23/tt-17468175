@@ -2854,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LibreOffice Navigator lists objects contained within a document, collected into categories.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T152058Z" creationid="JoseCarlos" creationdate="20210528T152058Z">
+        <seg>El Navegador de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Menu bar is located across the top of the LibreOffice window, just below the title bar.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T112322Z" creationid="Elena" creationdate="20210526T081336Z">
