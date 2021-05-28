@@ -3382,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To undo the most recent unsaved change in a document, use the keyboard shortcut &lt;f0&gt;Ctrl+Z&lt;/f0&gt;, or click the &lt;f1&gt;Undo&lt;/f1&gt; icon on the Standard toolbar, or go to &lt;f2&gt;Edit &gt; Undo&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T161725Z" creationid="JoseCarlos" creationdate="20210528T161643Z">
+        <seg>Para deshacer el último cambio no guardado en un documento, utilice el atajo de teclado &lt;f0&gt;Ctrl+Z&lt;/f0&gt;, haga clic en el icono de &lt;f1&gt;Deshacer&lt;/f1&gt; de la barra de herramientas estándar o vaya a &lt;f2&gt;Editar &gt; Deshacer&lt;/f2&gt; en la barra de menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the Sidebar settings drop-down list at the top of the tab bar (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T212758Z" creationid="paula" creationdate="20210526T212758Z">
