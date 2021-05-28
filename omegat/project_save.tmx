@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the marker (+ or triangle) by any of the categories to display the list of objects in that category.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153906Z" creationid="JoseCarlos" creationdate="20210528T153906Z">
+        <seg>Haga clic en el marcador (+ o triángulo) que se encuentra junto a cualquiera de las categorías para mostrar la lista de objetos de esa categoría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the small triangle to the right of the &lt;f0&gt;Open&lt;/f0&gt; icon and select from a list of recently opened documents, click &lt;f1&gt;Open Template&lt;/f1&gt; to select a template, or click &lt;f2&gt;Open Remote File&lt;/f2&gt; to open a remote file.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T064524Z" creationid="Elena" creationdate="20210527T064524Z">
@@ -1650,6 +1658,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153616Z" creationid="JoseCarlos" creationdate="20210528T153616Z">
         <seg>En Calc muestra Hojas, Nombres de intervalos, Intervalos de base de datos, Imágenes, Objetos de dibujo y otros elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Impress and Draw it shows Slides, Pages, and other items.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153626Z" creationid="JoseCarlos" creationdate="20210528T153626Z">
+        <seg>En Impress y Draw muestra Diapositivas, Páginas y otros elementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3234,6 +3250,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T112453Z" creationid="paula" creationdate="20210516T202025Z">
         <seg>Para desplazar una barra de herramientas anclada, haga click en la barra de su título y arrástrela hasta una nueva posición flotante o ancle la barra de herramientas en la parte superior o inferior de la ventana principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open the Navigator, press the &lt;f0&gt;F5&lt;/f0&gt; key, or go to &lt;f1&gt;View &gt; Navigator&lt;/f1&gt; on the Menu bar, or click the &lt;f2&gt;Navigator&lt;/f2&gt; icon on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153839Z" creationid="JoseCarlos" creationdate="20210528T153839Z">
+        <seg>Para abrir el Navegador, pulse la tecla &lt;f0&gt;F5&lt;/f0&gt;, vaya a &lt;f1&gt;Ver &gt; Navegador&lt;/f1&gt; en la barra de menú o haga clic en el icono del &lt;f2&gt;Navegador&lt;/f2&gt; en la barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
