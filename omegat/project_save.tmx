@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each Navigator in the individual LibreOffice components has a different range of functions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T154504Z" creationid="JoseCarlos" creationdate="20210528T154504Z">
+        <seg>Cada Navegador en los componentes individuales de LibreOffice tiene una gama diferente de funciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each time the &lt;f0&gt;Ins&lt;/f0&gt; key is pressed, or this field is clicked, the mode toggles between Insert and Overwrite.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211541Z" creationid="paula" creationdate="20210526T211541Z">
@@ -2302,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigator also provides the facility to move, promote, demote items within a document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T154406Z" creationid="JoseCarlos" creationdate="20210528T154406Z">
+        <seg>El Navegador también ofrece la posibilidad de mover, promover y degradar elementos dentro de un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T163146Z" creationid="Almudena" creationdate="20210526T163146Z">
@@ -2946,6 +2962,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T105716Z" creationid="paula" creationdate="20210526T105716Z">
         <seg>Se iniciará el componente apropiado de LibreOffice y se cargará el documento..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default names may not correspond to the actual position of the object in the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T154330Z" creationid="JoseCarlos" creationdate="20210528T154330Z">
+        <seg>Los nombres por defecto pueden no corresponderse con la posición real del objeto en el documento.</seg>
       </tuv>
     </tu>
     <tu>
