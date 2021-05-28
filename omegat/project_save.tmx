@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Navigator in Writer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T154657Z" creationid="JoseCarlos" creationdate="20210528T154657Z">
+        <seg>Figura &lt;seq0&gt;13&lt;/seq0&gt;: Navegador en Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: LibreOffice Safe Mode</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T115555Z" creationid="Almudena" creationdate="20210526T115555Z">
@@ -3114,6 +3122,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T082859Z" creationid="Elena" creationdate="20210526T082859Z">
         <seg>Estos archivos pueden descomprimirse fácilmente y leerse con cualquier editor de texto, y su marco de trabajo es abierto y está publicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These functions are further explained in the user guide for each LibreOffice component.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T154559Z" creationid="JoseCarlos" creationdate="20210528T154559Z">
+        <seg>Estas funciones se explican con más detalle en la Guía de usuario de cada componente de LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
