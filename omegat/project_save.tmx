@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose whether to save or discard the changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T093000Z" creationid="JoseCarlos" creationdate="20210529T093000Z">
+        <seg>Elija si desea guardar o descartar los cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose whether to save or discard your changes.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112202Z" creationid="Almudena" creationdate="20210526T112202Z">
@@ -1654,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have made changes to a file since the last save, a confirmation dialog will warn you that reloading will discard your last changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T092938Z" creationid="JoseCarlos" creationdate="20210529T092938Z">
+        <seg>Si ha realizado cambios en un archivo desde la última vez que lo guardó, un cuadro de diálogo de confirmación le advertirá de que la recarga descartará sus últimos cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to create a new document file, change the filename and/or file format, or save the file in a different location on your computer:</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T065805Z" creationid="Elena" creationdate="20210527T065805Z">
@@ -2418,6 +2434,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210527T085859Z" creationid="Almudena" creationdate="20210526T111512Z">
         <seg>En macOS, el documento se cierra y solo queda la barra de menú en la parte superior de la pantalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On reloading the document, the File dialog does not open, because the file is already selected.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T093122Z" creationid="JoseCarlos" creationdate="20210529T093004Z">
+        <seg>Al recargar el documento no se abre el cuadro de diálogo Archivo porque el archivo ya está seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3374,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To reload a document, go to &lt;f0&gt;File &gt; Reload&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T092848Z" creationid="JoseCarlos" creationdate="20210529T092751Z">
+        <seg>Para recargar un documento, vaya a &lt;f0&gt;Archivo &gt; Recargar&lt;/f0&gt; en la barra de menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To repeat the last command applied to your document, use the shortcut &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T091813Z" creationid="JoseCarlos" creationdate="20210529T091813Z">
@@ -3632,8 +3664,8 @@
       <tuv lang="EN">
         <seg>Using document properties</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T155625Z" creationid="paula" creationdate="20210526T155625Z">
-        <seg>Utilización de las propiedades del documento</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T093026Z" creationid="paula" creationdate="20210526T155625Z">
+        <seg>Utilizar las propiedades del documento</seg>
       </tuv>
     </tu>
     <tu>
