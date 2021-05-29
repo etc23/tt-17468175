@@ -4166,6 +4166,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may have made some formatting changes that do not show until the document has been closed and reopened; reloading has the same result.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T092746Z" creationid="JoseCarlos" creationdate="20210529T092746Z">
+        <seg>Es posible que haya realizado algunos cambios de formato que no se muestren hasta que el documento se haya cerrado y vuelto a abrir; recargar tiene el mismo resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may want to discard all the changes made in an editing session after the last document save.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T092355Z" creationid="JoseCarlos" creationdate="20210529T092355Z">
+        <seg>Puede que quiera descartar todos los cambios realizados en una sesión de edición después de guardar el documento por última vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may, within the parameters set in the MPL and/or LGPL.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T165516Z" creationid="Almudena" creationdate="20210526T165516Z">
