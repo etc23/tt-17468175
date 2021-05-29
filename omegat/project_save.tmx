@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Properties dialog provides information about the document and allows you to set some of its properties.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T101639Z" creationid="JoseCarlos" creationdate="20210529T101639Z">
+        <seg>El cuadro de diálogo Propiedades proporciona información sobre el documento y permite establecer algunas de sus propiedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;) which then appears has many parts.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210527T092129Z" creationid="Elena" creationdate="20210526T090902Z">
@@ -3370,6 +3378,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T112453Z" creationid="paula" creationdate="20210516T202025Z">
         <seg>Para desplazar una barra de herramientas anclada, haga click en la barra de su título y arrástrela hasta una nueva posición flotante o ancle la barra de herramientas en la parte superior o inferior de la ventana principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open the &lt;is0/&gt;Properties&lt;ie1/&gt; dialog for a document, go to &lt;f2&gt;File &gt; Properties&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T093316Z" creationid="JoseCarlos" creationdate="20210529T093316Z">
+        <seg>Para abrir el cuadro de diálogo &lt;is0/&gt;Propiedades&lt;ie1/&gt; de un documento, vaya a &lt;f2&gt;Archivo &gt; Propiedades&lt;/f2&gt; en la barra de menú.</seg>
       </tuv>
     </tu>
     <tu>
