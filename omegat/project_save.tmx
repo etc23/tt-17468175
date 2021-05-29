@@ -2606,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reloading is useful in two situations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T092217Z" creationid="JoseCarlos" creationdate="20210529T092217Z">
+        <seg>Recargar es útil en dos situaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T151944Z" creationid="paula" creationdate="20210526T151944Z">
