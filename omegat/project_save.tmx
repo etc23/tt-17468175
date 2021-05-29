@@ -1390,14 +1390,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>General</seg>
-      </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T082708Z" creationid="paula" creationdate="20210526T160129Z">
-        <seg>Generalidades</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Getting Started Cuide</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T145925Z" creationid="paula" creationdate="20210526T145925Z">
@@ -3042,6 +3034,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T154330Z" creationid="JoseCarlos" creationdate="20210528T154330Z">
         <seg>Los nombres por defecto pueden no corresponderse con la posición real del objeto en el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog and its tabs are described below.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T101643Z" creationid="JoseCarlos" creationdate="20210529T101643Z">
+        <seg>El cuadro de diálogo y sus pestañas se describen a continuación.</seg>
       </tuv>
     </tu>
     <tu>
