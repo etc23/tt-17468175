@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Save preview image with this document&lt;/f0&gt; – saves a thumbnail.png inside the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132400Z" creationid="JoseCarlos" creationdate="20210530T132400Z">
+        <seg>&lt;f0&gt;Guardar imagen de vista previa con este documento&lt;/f0&gt;: guarda una miniatura.png dentro del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save&lt;/f0&gt; – use if you are keeping the document, its current filename and location.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T065135Z" creationid="Elena" creationdate="20210527T065056Z">
@@ -4098,6 +4106,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T164953Z" creationid="paula" creationdate="20210526T164953Z">
         <seg>Puede anclar estas &lt;t0/&gt;barras en la parte superior o inferior de la ventana principal, o reposicionarlas en la muestra de tu ordenador (ver “&lt;rf1&gt;Barras móviles&lt;/rf1&gt;” arriba).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit the name by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132140Z" creationid="JoseCarlos" creationdate="20210530T132140Z">
+        <seg>Se puede editar el nombre yendo a &lt;f1&gt;Herramientas &gt; Opciones &gt; LibreOffice &gt; Datos de usuario&lt;/f1&gt; en la barra de menú.</seg>
       </tuv>
     </tu>
     <tu>
