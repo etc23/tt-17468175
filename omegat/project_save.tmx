@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Reset Properties&lt;/f0&gt; – resets the editing time to zero, the creation date to the current date and time, and the version number to 1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132957Z" creationid="JoseCarlos" creationdate="20210530T132957Z">
+        <seg>&lt;f0&gt;Restablecer propiedades&lt;/f0&gt;: restablece el tiempo de edición a cero, la fecha de creación a la fecha y hora actuales y el número de versión a 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reset entire user profile&lt;/f0&gt; – this will erase all customized options and return your user profile to the factory default state.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T083636Z" creationid="Almudena" creationdate="20210526T153608Z">
@@ -3250,6 +3258,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T154559Z" creationid="JoseCarlos" creationdate="20210528T154559Z">
         <seg>Estas funciones se explican con más detalle en la Guía de usuario de cada componente de LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These images may be used by a file manager under certain conditions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132434Z" creationid="JoseCarlos" creationdate="20210530T132434Z">
+        <seg>Estas imágenes pueden ser utilizadas por un gestor de archivos bajo ciertas condiciones.</seg>
       </tuv>
     </tu>
     <tu>
