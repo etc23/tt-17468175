@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Change Password&lt;/f0&gt; – opens a dialog to change the password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084326Z" creationid="JoseCarlos" creationdate="20210530T084326Z">
+        <seg>&lt;f0&gt;Cambiar contraseña&lt;/f0&gt;: abre un cuadro de diálogo para cambiar la contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Configure&lt;/f0&gt; – Use this option to disable all user extensions, hardware acceleration, or both.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T082940Z" creationid="Almudena" creationdate="20210526T151103Z">
@@ -880,8 +888,8 @@
       <tuv lang="EN">
         <seg>Contains basic information about the current file: file name and type; storage location; file size; date, time, and author of file creation and last modification; template used to create the file; date, time, and author of digital signature; date, time, and user name when the file was last printed; total editing time; and revision number.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084109Z" creationid="JoseCarlos" creationdate="20210530T084109Z">
-        <seg>Contiene información básica sobre el archivo actual: nombre y tipo de archivo, ubicación, tamaño del archivo, fecha, hora, autor y última modificación del archivo, plantilla utilizada para crear el archivo, fecha, hora y autor de las firmas digitales, fecha, hora y nombre de usuario de la última impresión del archivo, tiempo total de edición y número de revisión.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084225Z" creationid="JoseCarlos" creationdate="20210530T084109Z">
+        <seg>Contiene información básica sobre el archivo actual: nombre y tipo de archivo, ubicación, tamaño del archivo, fecha, hora, autor y última modificación del archivo, plantilla utilizada para crear el archivo, fecha, hora y autor de las firmas digitales, fecha, hora y nombre de usuario de la persona que llevó a cabo la última impresión del archivo, tiempo total de edición y número de modificación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +938,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T150130Z" creationid="paula" creationdate="20210526T150130Z">
         <seg>Los colaboradores se enumeran a continuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Controls available:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084240Z" creationid="JoseCarlos" creationdate="20210530T084240Z">
+        <seg>Controles disponibles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +2002,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210511T081322Z" creationid="JoseCarlos" creationdate="20210511T081322Z">
         <seg>Se integra con las capacidades gráficas avanzadas de los componentes de LibreOffice Draw y Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is only active if a password has been set for the file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084352Z" creationid="JoseCarlos" creationdate="20210530T084352Z">
+        <seg>Solo se activa si se ha establecido una contraseña para el archivo.</seg>
       </tuv>
     </tu>
     <tu>
