@@ -3174,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The modification and printing dates are also deleted.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T133018Z" creationid="JoseCarlos" creationdate="20210530T133018Z">
+        <seg>También se eliminan las fechas de modificación e impresión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most notable one is the HSQLDB relational database engine.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T165641Z" creationid="Almudena" creationdate="20210526T165641Z">
