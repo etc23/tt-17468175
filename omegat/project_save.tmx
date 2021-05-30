@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Title&lt;/f0&gt; – enter a title for the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T133602Z" creationid="JoseCarlos" creationdate="20210530T133602Z">
+        <seg>&lt;f0&gt;Título&lt;/f0&gt;: puede introducir un título para el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T193112Z" creationid="paula" creationdate="20210526T151918Z">
@@ -922,6 +930,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084225Z" creationid="JoseCarlos" creationdate="20210530T084109Z">
         <seg>Contiene información básica sobre el archivo actual: nombre y tipo de archivo, ubicación, tamaño del archivo, fecha, hora, autor y última modificación del archivo, plantilla utilizada para crear el archivo, fecha, hora y autor de las firmas digitales, fecha, hora y nombre de usuario de la persona que llevó a cabo la última impresión del archivo, tiempo total de edición y número de modificación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contains optional editable descriptive information about the document, which may be exported as metadata to other file formats.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T133416Z" creationid="JoseCarlos" creationdate="20210530T133416Z">
+        <seg>Contiene información descriptiva opcional editable sobre el documento, que puede exportarse como metadatos a otros formatos de archivo.</seg>
       </tuv>
     </tu>
     <tu>
