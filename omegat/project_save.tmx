@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Keywords&lt;/f0&gt; – enter the words that you want to use to index the content of the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T134159Z" creationid="JoseCarlos" creationdate="20210530T134159Z">
+        <seg>&lt;f0&gt;Palabras clave&lt;/f0&gt;: introduce las palabras que se deseen utilizar para indexar el contenido del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;No licensing fees.&lt;/f0&gt; LibreOffice is free for anyone to use and distribute at no cost.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T212341Z" creationid="Almudena" creationdate="20210525T212341Z">
