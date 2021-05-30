@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Subject&lt;/f0&gt; – enter a subject for the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T133721Z" creationid="JoseCarlos" creationdate="20210530T133630Z">
+        <seg>&lt;f0&gt;Asunto&lt;/f0&gt;: introduce un asunto para el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Table&lt;/f0&gt; – commands to insert and edit a table in a text document.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T081753Z" creationid="Elena" creationdate="20210526T081753Z">
@@ -320,8 +328,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Title&lt;/f0&gt; – enter a title for the document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T133602Z" creationid="JoseCarlos" creationdate="20210530T133602Z">
-        <seg>&lt;f0&gt;Título&lt;/f0&gt;: puede introducir un título para el documento.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T133714Z" creationid="JoseCarlos" creationdate="20210530T133602Z">
+        <seg>&lt;f0&gt;Título&lt;/f0&gt;: introduce un título para el documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4282,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T114321Z" creationid="Almudena" creationdate="20210526T114321Z">
         <seg>Puede utilizar el modo seguro para ayudar a restaurar una instancia de LibreOffice que se ha corrompido y ha dejado de funcionar o no se inicia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use a subject to group documents with similar contents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T133820Z" creationid="JoseCarlos" creationdate="20210530T133658Z">
+        <seg>Puede utilizarse un asunto para agrupar documentos con contenidos similares.</seg>
       </tuv>
     </tu>
     <tu>
