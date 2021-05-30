@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Comments&lt;/f0&gt; – enter comments to help identify the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T134446Z" creationid="JoseCarlos" creationdate="20210530T134446Z">
+        <seg>&lt;f0&gt;Comentarios&lt;/f0&gt;: introduce comentarios para ayudar a identificar el documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Configure&lt;/f0&gt; – Use this option to disable all user extensions, hardware acceleration, or both.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T082940Z" creationid="Almudena" creationdate="20210526T151103Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T090947Z" creationid="Elena" creationdate="20210526T090947Z">
         <seg>Es posible que aparezca un cuadro de diálogo solicitando el nombre de usuario y la contraseña para permitirle iniciar la sesión en el servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A keyword can contain white space characters or semicolons.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T134405Z" creationid="JoseCarlos" creationdate="20210530T134405Z">
+        <seg>Una palabra clave puede contener caracteres de espacio en blanco o punto y coma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2154,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T092209Z" creationid="Elena" creationdate="20210526T092209Z">
         <seg>Guardar archivos en servidores remotos le permite trabajar con los documentos utilizando diferentes ordenadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keywords must be separated by commas.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T134306Z" creationid="JoseCarlos" creationdate="20210530T134306Z">
+        <seg>Las palabras clave deben estar separadas por comas.</seg>
       </tuv>
     </tu>
     <tu>
