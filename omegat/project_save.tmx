@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Apply user data&lt;/f0&gt; – saves the full name of the user with the file.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132020Z" creationid="JoseCarlos" creationdate="20210530T132020Z">
+        <seg>&lt;f0&gt;Aplicar datos de usuario&lt;/f0&gt;: guarda el nombre completo del usuario con el archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Change Password&lt;/f0&gt; – opens a dialog to change the password.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084326Z" creationid="JoseCarlos" creationdate="20210530T084326Z">
