@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains basic information about the current file: file name and type; storage location; file size; date, time, and author of file creation and last modification; template used to create the file; date, time, and author of digital signature; date, time, and user name when the file was last printed; total editing time; and revision number.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084109Z" creationid="JoseCarlos" creationdate="20210530T084109Z">
+        <seg>Contiene información básica sobre el archivo actual: nombre y tipo de archivo, ubicación, tamaño del archivo, fecha, hora, autor y última modificación del archivo, plantilla utilizada para crear el archivo, fecha, hora y autor de las firmas digitales, fecha, hora y nombre de usuario de la última impresión del archivo, tiempo total de edición y número de revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T154244Z" creationid="paula" creationdate="20210526T154244Z">
