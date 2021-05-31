@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Record changes&lt;/f0&gt; – select to require that all changes be recorded.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114908Z" creationid="JoseCarlos" creationdate="20210531T114908Z">
+        <seg>&lt;f0&gt;Registrar los cambios&lt;/f0&gt;: seleccione esta opción para exigir que se registren todos los cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reset Properties&lt;/f0&gt; – resets the editing time to zero, the creation date to the current date and time, and the version number to 1.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132957Z" creationid="JoseCarlos" creationdate="20210530T132957Z">
@@ -2142,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is still possible to edit a copy of the document and save that copy with the same name as the original.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114720Z" creationid="JoseCarlos" creationdate="20210531T114720Z">
+        <seg>Sigue siendo posible editar una copia del documento y guardar esa copia con el mismo nombre que el original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides information about the document and convenient ways to change some features quickly.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T210846Z" creationid="paula" creationdate="20210526T210846Z">
@@ -3442,6 +3458,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211522Z" creationid="paula" creationdate="20210526T211522Z">
         <seg>Este campo está en blanco si el programa está en modo de inserción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This file sharing option protects the document against accidental changes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114644Z" creationid="JoseCarlos" creationdate="20210531T114644Z">
+        <seg>Esta opción para compartir archivos protege el documento contra cambios accidentales.</seg>
       </tuv>
     </tu>
     <tu>
