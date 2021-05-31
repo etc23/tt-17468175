@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this page to assign custom information fields to the document.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T110919Z" creationid="JoseCarlos" creationdate="20210531T110919Z">
+        <seg>Utilice esta página para asignar campos de información personalizada al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used with other keys</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T153102Z" creationid="paula" creationdate="20210526T153102Z">
