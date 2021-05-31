@@ -4190,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the name, type, and contents of each row.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T111836Z" creationid="JoseCarlos" creationdate="20210531T111836Z">
+        <seg>Puede cambiar el nombre, el tipo y el contenido de cada fila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can click the icon to sign the document, or to view the existing certificate.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211610Z" creationid="paula" creationdate="20210526T211610Z">
