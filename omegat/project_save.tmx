@@ -1704,8 +1704,8 @@
       <tuv lang="EN">
         <seg>If the new document is based on a template, this page may contain fields.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T111700Z" creationid="JoseCarlos" creationdate="20210531T111700Z">
-        <seg>Si el nuevo documento se basa en una plantilla, esta página puede contener campos.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T111938Z" creationid="JoseCarlos" creationdate="20210531T111700Z">
+        <seg>Si el nuevo documento se basa en una plantilla, esta página podría contener campos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,8 +1864,8 @@
       <tuv lang="EN">
         <seg>In a new document, this page may be blank.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T110955Z" creationid="JoseCarlos" creationdate="20210531T110955Z">
-        <seg>En un documento nuevo esta página puede estar en blanco.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T111844Z" creationid="JoseCarlos" creationdate="20210531T110955Z">
+        <seg>En un documento nuevo esta página podría estar en blanco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4192,8 +4192,8 @@
       <tuv lang="EN">
         <seg>You can change the name, type, and contents of each row.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T111836Z" creationid="JoseCarlos" creationdate="20210531T111836Z">
-        <seg>Puede cambiar el nombre, el tipo y el contenido de cada fila.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T112112Z" creationid="JoseCarlos" creationdate="20210531T111836Z">
+        <seg>El usuario puede cambiar el nombre, el tipo y el contenido de cada fila.</seg>
       </tuv>
     </tu>
     <tu>
