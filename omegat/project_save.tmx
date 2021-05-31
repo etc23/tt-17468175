@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the new document is based on a template, this page may contain fields.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T111700Z" creationid="JoseCarlos" creationdate="20210531T111700Z">
+        <seg>Si el nuevo documento se basa en una plantilla, esta página puede contener campos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the passwords do not match, you receive an error message.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T071140Z" creationid="Elena" creationdate="20210527T071140Z">
@@ -1850,6 +1858,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210527T091203Z" creationid="JoseCarlos" creationdate="20210514T143306Z">
         <seg>En una instalación de LibreOffice predeterminada, la barra anclada superior, que se encuentra justo debajo de la barra de menú, se denomina barra de herramientas estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a new document, this page may be blank.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T110955Z" creationid="JoseCarlos" creationdate="20210531T110955Z">
+        <seg>En un documento nuevo esta página puede estar en blanco.</seg>
       </tuv>
     </tu>
     <tu>
