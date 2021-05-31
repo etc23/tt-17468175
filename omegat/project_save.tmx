@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables two password-protected security options.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114300Z" creationid="JoseCarlos" creationdate="20210531T114300Z">
+        <seg>Activa dos opciones de seguridad protegidas con contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T151002Z" creationid="paula" creationdate="20210526T151002Z">
@@ -2850,6 +2858,14 @@
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210513T160706Z" creationid="JoseCarlos" creationdate="20210513T160706Z">
         <seg>Consulte las opciones avanzadas en el capítulo 2 de esta guía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the Help for more information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T113655Z" creationid="JoseCarlos" creationdate="20210531T113655Z">
+        <seg>Consulte la Ayuda para obtener más información.</seg>
       </tuv>
     </tu>
     <tu>
