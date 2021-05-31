@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Open file read-only&lt;/f0&gt; – select to allow this document to be opened only in read-only mode.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114502Z" creationid="JoseCarlos" creationdate="20210531T114502Z">
+        <seg>&lt;f0&gt;Abrir documento solo para lectura&lt;/f0&gt;: seleccione esta opción para permitir que este documento se abra únicamente en modo de solo lectura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Open source.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210525T180624Z" creationid="Almudena" creationdate="20210525T180624Z">
