@@ -662,14 +662,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>CMIS Properties</seg>
-      </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T082050Z" creationid="paula" creationdate="20210526T160148Z">
-        <seg>Propiedades CMIS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>CMIS, like OpenDocument Format, is an OASIS standard.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T211322Z" creationid="paula" creationdate="20210516T211322Z">
@@ -842,6 +834,14 @@
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210527T070218Z" creationid="Elena" creationdate="20210527T070218Z">
         <seg>Haga clic en &lt;f0&gt;Guardar&lt;/f0&gt; y se abrirá el cuadro de diálogo Establecer contraseña (Figura &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Reset&lt;/f1&gt; to delete all custom properties.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T112409Z" creationid="JoseCarlos" creationdate="20210531T112409Z">
+        <seg>Haga clic en &lt;f1&gt;Restablecer&lt;/f1&gt; para eliminar todas las propiedades personalizadas.</seg>
       </tuv>
     </tu>
     <tu>
