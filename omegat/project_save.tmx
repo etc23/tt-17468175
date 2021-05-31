@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This may be useful if you are creating a PDF and want to control how it will look on other computer systems.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T152722Z" creationid="JoseCarlos" creationdate="20210531T152722Z">
+        <seg>Esto puede ser útil si se está creando un PDF y se quiere controlar el aspecto que tendrá en otros sistemas informáticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the Set Password dialog where you can enter a new password.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T102221Z" creationid="Elena" creationdate="20210526T102221Z">
@@ -4042,6 +4050,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T155414Z" creationid="Almudena" creationdate="20210526T155414Z">
         <seg>¿Qué contiene este libro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;Embed fonts in the document&lt;/f0&gt; is selected, any fonts used in the document will be embedded into the document when it is saved.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T152610Z" creationid="JoseCarlos" creationdate="20210531T152610Z">
+        <seg>Al seleccionar &lt;f0&gt;Incrustar tipos de letra en el documento&lt;/f0&gt; cualquier fuente utilizada en el documento se incrustará en el documento cuando se guarde.</seg>
       </tuv>
     </tu>
     <tu>
