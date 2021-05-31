@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used for documents stored on remote servers; not shown otherwise.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T113608Z" creationid="JoseCarlos" creationdate="20210531T113608Z">
+        <seg>Se utiliza para los documentos almacenados en servidores remotos; si no, no se muestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used with other keys</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T153102Z" creationid="paula" creationdate="20210526T153102Z">
