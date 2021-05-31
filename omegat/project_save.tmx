@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, while other users of this document can apply their changes, they cannot disable change recording without knowing the password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T143518Z" creationid="JoseCarlos" creationdate="20210531T143108Z">
+        <seg>Sin embargo, aunque otros usuarios de este documento puedan aplicar sus cambios, no pueden desactivar la grabación de los cambios si no conocen la contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I am writing a software application.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T165435Z" creationid="Almudena" creationdate="20210526T165435Z">
