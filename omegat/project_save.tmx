@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CMIS Properties</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T121147Z" creationid="JoseCarlos" creationdate="20210531T121147Z">
+        <seg>Propiedades de CMIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CMIS, like OpenDocument Format, is an OASIS standard.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210516T211322Z" creationid="paula" creationdate="20210516T211322Z">
