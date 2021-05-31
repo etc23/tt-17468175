@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Only embed fonts that are used in documents&lt;/f0&gt; – If fonts have been defined for the document (for example, in the template), but have not been used, select this option to not embed them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T153006Z" creationid="JoseCarlos" creationdate="20210531T153006Z">
+        <seg>&lt;f0&gt;Incrustar solo tipos de letra utilizados en los documentos&lt;/f0&gt;: Si se han definido fuentes para el documento (por ejemplo, en la plantilla), pero no se han utilizado, seleccione esta opción para no incrustarlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Open file read-only&lt;/f0&gt; – select to allow this document to be opened only in read-only mode.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114502Z" creationid="JoseCarlos" creationdate="20210531T114502Z">
@@ -4056,8 +4064,8 @@
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Embed fonts in the document&lt;/f0&gt; is selected, any fonts used in the document will be embedded into the document when it is saved.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T152610Z" creationid="JoseCarlos" creationdate="20210531T152610Z">
-        <seg>Al seleccionar &lt;f0&gt;Incrustar tipos de letra en el documento&lt;/f0&gt; cualquier fuente utilizada en el documento se incrustará en el documento cuando se guarde.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T152824Z" creationid="JoseCarlos" creationdate="20210531T152610Z">
+        <seg>Al seleccionar &lt;f0&gt;Incrustar tipos de letra en el documento&lt;/f0&gt; cualquier fuente utilizada en el documento se incrustará en el mismo cuando se guarde.</seg>
       </tuv>
     </tu>
     <tu>
