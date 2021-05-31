@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Protect&lt;/f0&gt; or &lt;f1&gt;Unprotect&lt;/f1&gt; button protects the change recording state with a password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T151852Z" creationid="JoseCarlos" creationdate="20210531T151852Z">
+        <seg>El botón &lt;f0&gt;Proteger&lt;/f0&gt; o &lt;f1&gt;Desproteger&lt;/f1&gt; protege el estado de grabación de cambios con una contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Record changes&lt;/f0&gt; – select to require that all changes be recorded.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114908Z" creationid="JoseCarlos" creationdate="20210531T114908Z">
