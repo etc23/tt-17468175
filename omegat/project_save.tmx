@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f3&gt;Unprotect&lt;/f3&gt; and type the correct password to disable the protection.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T152329Z" creationid="JoseCarlos" creationdate="20210531T152329Z">
+        <seg>Haga clic en &lt;f3&gt;Desproteger&lt;/f3&gt; y escriba la contraseña correcta para desactivar la protección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center.</seg>
       </tuv>
       <tuv lang="ES" changeid="Elena" changedate="20210526T091246Z" creationid="Elena" creationdate="20210526T091246Z">
@@ -1722,6 +1730,14 @@
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T112630Z" creationid="Almudena" creationdate="20210526T112630Z">
         <seg>Si no se ha guardado ningún documento desde la última modificación, aparecerá un cuadro de mensaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If change recording is protected for the current document, the button is named &lt;f2&gt;Unprotect&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T151955Z" creationid="JoseCarlos" creationdate="20210531T151955Z">
+        <seg>Si la grabación de cambios está protegida para el documento actual, el botón se llama &lt;f2&gt;Desproteger&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
