@@ -3622,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To protect the recording state with a password, click &lt;f1&gt;Protect&lt;/f1&gt; and enter a password.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T121035Z" creationid="JoseCarlos" creationdate="20210531T114911Z">
+        <seg>Para proteger el estado de registro con una contraseña, haga clic en &lt;f1&gt;Proteger&lt;/f1&gt; e introduzca una contraseña.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To redo a change use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, or click the &lt;f1&gt;Redo&lt;/f1&gt; icon, or go to &lt;f2&gt;Edit &gt; Redo&lt;/f2&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T162418Z" creationid="JoseCarlos" creationdate="20210528T162418Z">
