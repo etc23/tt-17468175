@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Add Property&lt;/f0&gt; to add a new custom property.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T112344Z" creationid="JoseCarlos" creationdate="20210531T112344Z">
+        <seg>Haga clic en &lt;f0&gt;Añadir propiedad&lt;/f0&gt; para añadir una nueva propiedad personalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210527T083812Z" creationid="paula" creationdate="20210527T083812Z">
@@ -3218,6 +3226,14 @@
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T211602Z" creationid="paula" creationdate="20210526T211602Z">
         <seg>El icono que se muestra aquí es diferente cuando los cambios en el documento no se han guardado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The information in the fields will be exported as metadata to other file formats.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T112256Z" creationid="JoseCarlos" creationdate="20210531T112256Z">
+        <seg>La información de los campos se exportará como metadatos a otros formatos de archivo.</seg>
       </tuv>
     </tu>
     <tu>
