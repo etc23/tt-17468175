@@ -3486,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is similar to &lt;f2&gt;Edit &gt; Track&lt;/f2&gt; &lt;f3&gt;Changes &gt; Record&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T121646Z" creationid="JoseCarlos" creationdate="20210531T121646Z">
+        <seg>Esto es similar a &lt;f2&gt;Editar &gt; Seguimiento&lt;/f2&gt;&lt;f3&gt;de cambios &gt; Grabar&lt;/f3&gt; en la barra de menú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the first line of support for using LibreOffice.</seg>
       </tuv>
       <tuv lang="ES" changeid="Almudena" changedate="20210526T160135Z" creationid="Almudena" creationdate="20210526T160135Z">
