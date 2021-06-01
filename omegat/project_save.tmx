@@ -2680,8 +2680,8 @@
       <tuv lang="EN">
         <seg>On the Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), click &lt;f1&gt;Manage Services / Add Service&lt;/f1&gt; button in the upper right to open the File Services dialog (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T083613Z" creationid="Elena" creationdate="20210526T091707Z">
-        <seg>En el cuadro de diálogo Archivos remotos (Figura &lt;t0&gt;12&lt;/t0&gt;), haga clic &lt;f1&gt;en el botón Administrar servicios / Añadir servicio&lt;/f1&gt; en la parte superior derecha para abrir el cuadro de diálogo Servicios de archivo (Figura &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210601T233149Z" creationid="Elena" creationdate="20210526T091707Z">
+        <seg>En el cuadro de diálogo Archivos remotos (Figura &lt;t0&gt;12&lt;/t0&gt;), haga clicen el botón &lt;f1&gt;Administrar servicios / Añadir servicio&lt;/f1&gt; en la parte superior derecha para abrir el cuadro de diálogo Servicios de archivo (Figura &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
