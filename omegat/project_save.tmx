@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays statistics for the current file, such as the number of pages, words, and characters.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210601T071331Z" creationid="JoseCarlos" creationdate="20210601T071331Z">
+        <seg>Muestra las estadísticas del archivo actual, como por ejemplo el número de páginas, palabras y caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
       </tuv>
       <tuv lang="ES" changeid="JoseCarlos" changedate="20210516T205758Z" creationid="JoseCarlos" creationdate="20210514T143133Z">
