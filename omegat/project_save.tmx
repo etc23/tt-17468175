@@ -928,8 +928,8 @@
       <tuv lang="EN">
         <seg>Click one of the icons to open a new document of that type, or click the &lt;f3&gt;Templates&lt;/f3&gt; icon to start a new document using a template.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T122414Z" creationid="Elena" creationdate="20210526T122414Z">
-        <seg>Haga clic en uno de los iconos para abrir un nuevo documento de ese tipo, o haga clic en el icono &lt;f3&gt;Plantillas&lt;/f3&gt; para iniciar un nuevo documento utilizando una plantilla.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210601T224255Z" creationid="Elena" creationdate="20210526T122414Z">
+        <seg>Haga clic en uno de los iconos para abrir un nuevo documento de ese tipo o haga clic en el icono &lt;f3&gt;Plantillas&lt;/f3&gt; para iniciar un nuevo documento utilizando una plantilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +960,8 @@
       <tuv lang="EN">
         <seg>Click the small triangle to the right of the &lt;f0&gt;Open&lt;/f0&gt; icon and select from a list of recently opened documents, click &lt;f1&gt;Open Template&lt;/f1&gt; to select a template, or click &lt;f2&gt;Open Remote File&lt;/f2&gt; to open a remote file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T064524Z" creationid="Elena" creationdate="20210527T064524Z">
-        <seg>Haga clic en el pequeño triángulo a la derecha del icono &lt;f0&gt;Abrir&lt;/f0&gt; y seleccione de una lista de documentos abiertos recientemente, haga clic en &lt;f1&gt;Abrir plantilla&lt;/f1&gt; para seleccionar una plantilla, o haga clic en &lt;f2&gt;Abrir archivo remoto&lt;/f2&gt; para abrir un archivo remoto.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210601T224248Z" creationid="Elena" creationdate="20210527T064524Z">
+        <seg>Haga clic en el pequeño triángulo a la derecha del icono &lt;f0&gt;Abrir&lt;/f0&gt; y seleccione de una lista de documentos abiertos recientemente, haga clic en &lt;f1&gt;Abrir plantilla&lt;/f1&gt; para seleccionar una plantilla o haga clic en &lt;f2&gt;Abrir archivo remoto&lt;/f2&gt; para abrir un archivo remoto.</seg>
       </tuv>
     </tu>
     <tu>
