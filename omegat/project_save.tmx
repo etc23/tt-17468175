@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Font scripts to embed&lt;/f0&gt; – You can choose which types of fonts are embedded: Latin, Asian, Complex.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210601T071132Z" creationid="JoseCarlos" creationdate="20210601T071132Z">
+        <seg>&lt;f0&gt;Sistemas de escritura que incrustar&lt;/f0&gt;: Puede elegir qué tipos de letra incrustar: latinos, asiáticos o complejos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Form&lt;/f0&gt; – commands to create fill-in forms.</seg>
       </tuv>
       <tuv lang="ES" changeid="paula" changedate="20210526T160841Z" creationid="paula" creationdate="20210526T160841Z">
@@ -216,8 +224,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Only embed fonts that are used in documents&lt;/f0&gt; – If fonts have been defined for the document (for example, in the template), but have not been used, select this option to not embed them.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T153006Z" creationid="JoseCarlos" creationdate="20210531T153006Z">
-        <seg>&lt;f0&gt;Incrustar solo tipos de letra utilizados en los documentos&lt;/f0&gt;: Si se han definido fuentes para el documento (por ejemplo, en la plantilla), pero no se han utilizado, seleccione esta opción para no incrustarlas.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210601T070839Z" creationid="JoseCarlos" creationdate="20210531T153006Z">
+        <seg>&lt;f0&gt;Incrustar solo tipos de letra utilizados en los documentos&lt;/f0&gt;: Si se han definido fuentes para el documento (por ejemplo, en la plantilla) pero no se han utilizado, seleccione esta opción para no incrustarlas.</seg>
       </tuv>
     </tu>
     <tu>
