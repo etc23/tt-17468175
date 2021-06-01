@@ -320,8 +320,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save As&lt;/f0&gt; – use to create a new document, or change the filename and/or file format, or save the file in a different location on your computer.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T065200Z" creationid="Elena" creationdate="20210527T065105Z">
-        <seg>&lt;f0&gt;Guardar como&lt;/f0&gt; - utilícelo para crear un nuevo documento, cambiar el nombre y/o el formato del archivo, o guardar el archivo en una ubicación diferente en su ordenador.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210601T225301Z" creationid="Elena" creationdate="20210527T065105Z">
+        <seg>&lt;f0&gt;Guardar como&lt;/f0&gt; - utilícelo para crear un nuevo documento, cambiar el nombre y/o el formato del archivo o guardar el archivo en una ubicación diferente en su ordenador.</seg>
       </tuv>
     </tu>
     <tu>
