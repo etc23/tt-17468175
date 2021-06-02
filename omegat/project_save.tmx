@@ -3320,8 +3320,8 @@
       <tuv lang="EN">
         <seg>The icon does not change, but when you hover the mouse pointer over this field, a tooltip indicates which mode is active.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211557Z" creationid="paula" creationdate="20210526T211557Z">
-        <seg>El icono no cambia, pero cuando pasa el puntero del ratón por encima de este campo, una información sobre herramientas indica qué modo está activo.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T144028Z" creationid="paula" creationdate="20210526T211557Z">
+        <seg>El icono no cambia, pero al pasar el puntero del ratón por encima de este campo un cuadro de diálogo emergente indica qué modo está activo.</seg>
       </tuv>
     </tu>
     <tu>
