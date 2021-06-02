@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; at &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;http://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T083234Z" creationid="Almudena" creationdate="20210525T220954Z">
-        <seg>&lt;f0&gt;Documentación para LibreOffice está disponible&lt;/f0&gt;&lt;f1&gt; en &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;http://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T212011Z" creationid="Almudena" creationdate="20210525T220954Z">
+        <seg>&lt;f0&gt;La documentación para LibreOffice está disponible&lt;/f0&gt;&lt;f1&gt; en &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;http://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
