@@ -1336,8 +1336,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Start Center</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T085215Z" creationid="Almudena" creationdate="20210527T085215Z">
-        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: centro de inicio LibreOffice</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T212524Z" creationid="Almudena" creationdate="20210527T085215Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: Centro de inicio LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3408,8 +3408,8 @@
       <tuv lang="EN">
         <seg>The thumbnails in the Start Center include an icon showing the type of file (text, spreadsheet, drawing, presentation).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210514T142433Z" creationid="Almudena" creationdate="20210514T142433Z">
-        <seg>Las miniaturas del Centro de Inicio incluyen un icono que muestra el tipo de archivo (texto, hoja de cálculo, dibujo, presentación).</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T212518Z" creationid="Almudena" creationdate="20210514T142433Z">
+        <seg>Las miniaturas del Centro de inicio incluyen un icono que muestra el tipo de archivo (texto, hoja de cálculo, dibujo, presentación).</seg>
       </tuv>
     </tu>
     <tu>
