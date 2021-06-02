@@ -3808,8 +3808,8 @@
       <tuv lang="EN">
         <seg>Tool palettes can be made into a floating toolbar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T081416Z" creationid="Almudena" creationdate="20210515T143229Z">
-        <seg>Las paletas de herramientas pueden convertirse en una barra de herramientas desplegable.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T124556Z" creationid="Almudena" creationdate="20210515T143229Z">
+        <seg>Las paletas de herramientas pueden convertirse en una barra de herramientas flotante.</seg>
       </tuv>
     </tu>
     <tu>
