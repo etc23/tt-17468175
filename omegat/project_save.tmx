@@ -2752,8 +2752,8 @@
       <tuv lang="EN">
         <seg>Other uses of this field depend on the LibreOffice component.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211348Z" creationid="paula" creationdate="20210526T211348Z">
-        <seg>Otros usos de este campo dependen del componente de LibreOffice.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T141459Z" creationid="paula" creationdate="20210526T211348Z">
+        <seg>Otros usos de este campo dependen del componente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3064,8 +3064,8 @@
       <tuv lang="EN">
         <seg>Shows the total number of words and characters in the document or in the selection.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211408Z" creationid="paula" creationdate="20210526T211408Z">
-        <seg>Muestra el número total de palabras y caracteres en el documento o en la selección.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T141546Z" creationid="paula" creationdate="20210526T211408Z">
+        <seg>Muestra el número total de palabras y caracteres que hay en el documento o en la selección.</seg>
       </tuv>
     </tu>
     <tu>
