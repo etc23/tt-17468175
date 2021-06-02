@@ -1584,8 +1584,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote&lt;/f1&gt; on the Menu bar to reach the corresponding open dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T091822Z" creationid="Elena" creationdate="20210527T064305Z">
-        <seg>Vaya a &lt;f0&gt;Archivo &gt; Abrir&lt;/f0&gt; o &lt;f1&gt;Archivo &gt; Abrir remoto&lt;/f1&gt; en la barra de menú para acceder al cuadro de diálogo de apertura correspondiente.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210602T144229Z" creationid="Elena" creationdate="20210527T064305Z">
+        <seg>Vaya a &lt;f0&gt;Archivo &gt; Abrir&lt;/f0&gt; o &lt;f1&gt;Archivo &gt; Abrir archivo remoto&lt;/f1&gt; en la barra de menú para acceder al cuadro de diálogo de apertura correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
