@@ -360,8 +360,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Styles&lt;/f0&gt; – commands for quickly applying common styles; for editing, loading, and creating new styles; and for accessing the Styles deck in the Sidebar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T081735Z" creationid="Elena" creationdate="20210526T081735Z">
-        <seg>&lt;f0&gt;Estilos&lt;/f0&gt; – comandos para aplicar rápidamente estilos comunes; para editar, cargar y crear nuevos estilos; y para acceder a la sección Estilos de la Barra lateral.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T153112Z" creationid="Elena" creationdate="20210526T081735Z">
+        <seg>&lt;f0&gt;Estilos&lt;/f0&gt; – comandos para aplicar rápidamente estilos comunes; para editar, cargar y crear nuevos estilos; y para acceder a la sección Estilos de la barra lateral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@
       <tuv lang="EN">
         <seg>It contains one or more decks, based on the current document context.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212126Z" creationid="paula" creationdate="20210526T212126Z">
-        <seg>Contiene uno o más mazos, según el contexto del documento actual.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T153453Z" creationid="paula" creationdate="20210526T212126Z">
+        <seg>Puede contener uno o más mazos dependiendo del contexto del documento actual.</seg>
       </tuv>
     </tu>
     <tu>
