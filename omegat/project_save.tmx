@@ -1752,8 +1752,8 @@
       <tuv lang="EN">
         <seg>If any documents have not been saved since the last change, a message box is displayed.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T112630Z" creationid="Almudena" creationdate="20210526T112630Z">
-        <seg>Si no se ha guardado ningún documento desde la última modificación, aparecerá un cuadro de mensaje.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T093239Z" creationid="Almudena" creationdate="20210526T112630Z">
+        <seg>Si algún documento no se ha guardado desde la última modificación, aparecerá un cuadro de mensaje.</seg>
       </tuv>
     </tu>
     <tu>
