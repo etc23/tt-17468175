@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Extensive language support.&lt;/f0&gt; The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210602T210136Z" creationid="Elena" creationdate="20210524T161622Z">
-        <seg>&lt;f0&gt;Amplio soporte multilingüe.&lt;/f0&gt; La interfaz de usuario de LibreOffice, incluyendo diccionarios de ortografía, guiones y sinónimos está disponible en más está disponible en más de 100 idiomas y dialectos.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T210230Z" creationid="Elena" creationdate="20210524T161622Z">
+        <seg>&lt;f0&gt;Amplio soporte multilingüe.&lt;/f0&gt; La interfaz de usuario de LibreOffice, incluyendo diccionarios de ortografía, guiones y sinónimos está disponible en más de 100 idiomas y dialectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,8 +1968,8 @@
       <tuv lang="EN">
         <seg>In addition, over 70 spelling, hyphenation, and thesaurus dictionaries are available for languages and dialects that do not have a localized program interface.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T165057Z" creationid="Almudena" creationdate="20210526T165057Z">
-        <seg>Además, hay más de 70 diccionarios de ortografía, guiones y tesauros disponibles para los idiomas y dialectos que no tienen una interfaz de programa localizada.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T210212Z" creationid="Almudena" creationdate="20210526T165057Z">
+        <seg>Además, hay más de 70 diccionarios de ortografía, guiones y sinónimos disponibles para los idiomas y dialectos que no tienen una interfaz de programa localizada.</seg>
       </tuv>
     </tu>
     <tu>
