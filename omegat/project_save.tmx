@@ -1472,8 +1472,8 @@
       <tuv lang="EN">
         <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Properties panel.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212454Z" creationid="paula" creationdate="20210526T212454Z">
-        <seg>Por ejemplo, los botones para poner el texto en negrita o cursiva existen tanto en la barra de herramientas de Formato como en el panel de Propiedades.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T160021Z" creationid="paula" creationdate="20210526T212454Z">
+        <seg>Por ejemplo, los botones que se usan para poner el texto en negrita o cursiva están tanto en la barra de herramientas de formato como en el panel de Propiedades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@
       <tuv lang="EN">
         <seg>For example, you can freely mix working in the main edit window to enter text and use the Properties panel in the sidebar to change text attributes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212422Z" creationid="paula" creationdate="20210526T212422Z">
-        <seg>Por ejemplo, puede mezclar libremente el trabajo en la ventana de edición principal para introducir texto y utilizar el panel Propiedades de la barra lateral para cambiar los atributos del texto.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T155614Z" creationid="paula" creationdate="20210526T212422Z">
+        <seg>Por ejemplo, puede mezclar libremente el trabajo de la ventana de edición principal para introducir texto y utilizar el panel Propiedades de la barra lateral para cambiar los atributos del texto.</seg>
       </tuv>
     </tu>
     <tu>
