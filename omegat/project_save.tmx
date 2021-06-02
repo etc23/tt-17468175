@@ -3328,8 +3328,8 @@
       <tuv lang="EN">
         <seg>The icon shown here is different when changes to the document have not been saved.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211602Z" creationid="paula" creationdate="20210526T211602Z">
-        <seg>El icono que se muestra aquí es diferente cuando los cambios en el documento no se han guardado.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T144054Z" creationid="paula" creationdate="20210526T211602Z">
+        <seg>El icono que se muestra aquí es diferente cuando los cambios que se han llevado a cabo en el documento no se han guardado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,8 +4368,8 @@
       <tuv lang="EN">
         <seg>You can click the icon to sign the document, or to view the existing certificate.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211610Z" creationid="paula" creationdate="20210526T211610Z">
-        <seg>Puede hacer clic en el icono para firmar el documento, o para ver el certificado existente.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T144224Z" creationid="paula" creationdate="20210526T211610Z">
+        <seg>Puede hacer clic en el icono para firmar el documento o para ver el certificado existente.</seg>
       </tuv>
     </tu>
     <tu>
