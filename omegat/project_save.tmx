@@ -1240,8 +1240,8 @@
       <tuv lang="EN">
         <seg>Each time the &lt;f0&gt;Ins&lt;/f0&gt; key is pressed, or this field is clicked, the mode toggles between Insert and Overwrite.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211541Z" creationid="paula" creationdate="20210526T211541Z">
-        <seg>Cada vez que se pulsa la tecla &lt;f0&gt;Ins&lt;/f0&gt;, o se hace clic en este campo, el modo cambia entre Insertar y Sobrescribir.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T143012Z" creationid="paula" creationdate="20210526T211541Z">
+        <seg>Cada vez que se pulsa la tecla &lt;f0&gt;Insert&lt;/f0&gt; o se hace clic en este campo el modo alterna entre modo de inserción y modo de sobreescritura.</seg>
       </tuv>
     </tu>
     <tu>
