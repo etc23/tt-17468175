@@ -2168,8 +2168,8 @@
       <tuv lang="EN">
         <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T163135Z" creationid="Almudena" creationdate="20210526T163135Z">
-        <seg>Se basa en el código de Apache OpenOffice disponible bajo la Licencia Apache 2.0, pero también incluye software que difiere de una versión a otra bajo una variedad de otras licencias de Código Abierto.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T161421Z" creationid="Almudena" creationdate="20210526T163135Z">
+        <seg>Se basa en el código de Apache OpenOffice disponible bajo la Licencia Apache 2.0, pero también incluye un software que difiere de una versión a otra bajo una variedad de otras licencias de Código Abierto.</seg>
       </tuv>
     </tu>
     <tu>
