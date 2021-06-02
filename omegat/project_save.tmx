@@ -3072,8 +3072,8 @@
       <tuv lang="EN">
         <seg>Shows the type of insert mode the program is in.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211521Z" creationid="paula" creationdate="20210526T211521Z">
-        <seg>Muestra el tipo de modo de inserción en el que se encuentra el programa.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T142631Z" creationid="paula" creationdate="20210526T211521Z">
+        <seg>Muestra el modo de inserción en el que se encuentra el programa.</seg>
       </tuv>
     </tu>
     <tu>
