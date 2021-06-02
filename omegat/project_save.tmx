@@ -2800,8 +2800,8 @@
       <tuv lang="EN">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T193026Z" creationid="paula" creationdate="20210526T150958Z">
-        <seg>Por favor, dirija cualquier comentario o sugerencia sobre este documento a la lista de correo del equipo de documentación: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T084650Z" creationid="paula" creationdate="20210526T150958Z">
+        <seg>Por favor, dirija cualquier comentario o sugerencia sobre este documento a la lista de correo del equipo de documentación: &lt;a0&gt;documentation@es.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2832,7 +2832,7 @@
       <tuv lang="EN">
         <seg>Published November &lt;t0&gt;2020&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T083902Z" creationid="paula" creationdate="20210526T151005Z">
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T084946Z" creationid="paula" creationdate="20210526T151005Z">
         <seg>Publicado en noviembre de &lt;t0&gt;2020&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
@@ -3112,8 +3112,8 @@
       <tuv lang="EN">
         <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T151018Z" creationid="paula" creationdate="20210526T151018Z">
-        <seg>Algunas pulsaciones de teclas y elementos de menú son diferentes en macOS de las utilizadas en Windows y Linux.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T090235Z" creationid="paula" creationdate="20210526T151018Z">
+        <seg>Algunas pulsaciones de teclas y elementos del menú son diferentes en macOS de los utilizados en Windows y Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3992,8 +3992,8 @@
       <tuv lang="EN">
         <seg>Using LibreOffice on macOS</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T151009Z" creationid="paula" creationdate="20210526T151009Z">
-        <seg>Uso de LibreOffice en macOS</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T085811Z" creationid="paula" creationdate="20210526T151009Z">
+        <seg>Usar LibreOffice en macOS</seg>
       </tuv>
     </tu>
     <tu>
