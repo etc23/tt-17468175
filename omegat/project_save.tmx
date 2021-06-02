@@ -2576,8 +2576,8 @@
       <tuv lang="EN">
         <seg>Move the mouse cursor over the toolbar handle, which is the small vertical bar to the left of a docked toolbar and highlighted in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T194327Z" creationid="paula" creationdate="20210526T164740Z">
-        <seg>Mueva el cursor del ratón sobre la barra de herramientas (la barra vertical pequeña situada a la izquierda de una barra de herramientas anclada y subrayada en Figure) &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T163102Z" creationid="paula" creationdate="20210526T164740Z">
+        <seg>Mueva el cursor sobre la barra de herramientas (la barra vertical pequeña situada a la izquierda de una barra de herramientas anclada y subrayada en Figure) &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3584,8 +3584,8 @@
       <tuv lang="EN">
         <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210602T162042Z" creationid="paula" creationdate="20210526T165039Z">
-        <seg>Para acceder a las opciones de personalizar una barra de herramientas, haga clic con el botón derecho del ratón en un espacio vacío entre los iconos de una barra de herramientas para abrir un menú contextual de la siguiente manera:</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T163257Z" creationid="paula" creationdate="20210526T165039Z">
+        <seg>Para acceder a las opciones de personalizar una barra de herramientas, haga clic con el botón derecho en un espacio vacío entre los iconos de una barra de herramientas para abrir un menú contextual de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
