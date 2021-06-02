@@ -1464,8 +1464,8 @@
       <tuv lang="EN">
         <seg>For example, in Writer it shows Headings, Tables, Frames, Comments, Images, Bookmarks, and other items, as shown in Figure &lt;t0&gt;13&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210528T153442Z" creationid="JoseCarlos" creationdate="20210528T152706Z">
-        <seg>Por ejemplo, en Writer muestra Títulos, Tablas, Marcos, Comentarios, Imágenes, Marcadores y otros elementos, como se muestra en la Figura &lt;t0&gt;13&lt;/t0&gt;.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T173146Z" creationid="JoseCarlos" creationdate="20210528T152706Z">
+        <seg>Por ejemplo, en Writer muestra Títulos, Tablas, Marcos, Comentarios, Imágenes, Marcadores y otros elementos, como se muestra en la figura &lt;t0&gt;13&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3800,8 +3800,8 @@
       <tuv lang="EN">
         <seg>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the Sidebar settings drop-down list at the top of the tab bar (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T172632Z" creationid="paula" creationdate="20210526T212758Z">
-        <seg>Para desacoplar la barra lateral y hacerla flotante, así como para acoplar una barra lateral flotante, utilice la lista desplegable de configuración situada en la parte superior de la barra de pestañas (véase la Figura &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T173018Z" creationid="paula" creationdate="20210526T212758Z">
+        <seg>Para desacoplar la barra lateral y hacerla flotante, así como para acoplar una barra lateral flotante, utilice la lista desplegable de configuración situada en la parte superior de la barra de pestañas (véase la figura &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,8 +4144,8 @@
       <tuv lang="EN">
         <seg>When the Save As dialog (Figure &lt;t0&gt;9&lt;/t0&gt;) or Save dialog opens, enter the file name, change the file type (if applicable), navigate to a new location (if applicable), and click &lt;f1&gt;Save&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T070035Z" creationid="Elena" creationdate="20210527T070035Z">
-        <seg>Cuando se abra el cuadro de diálogo Guardar como (Figura &lt;t0&gt;9&lt;/t0&gt;) o el cuadro de diálogo Guardar, introduzca el nombre del archivo, cambie el tipo de archivo (si procede), navegue a una nueva ubicación (si procede) y haga clic en &lt;f1&gt;Guardar&lt;/f1&gt;.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T173051Z" creationid="Elena" creationdate="20210527T070035Z">
+        <seg>Cuando se abra el cuadro de diálogo Guardar como (figura &lt;t0&gt;9&lt;/t0&gt;) o el cuadro de diálogo Guardar, introduzca el nombre del archivo, cambie el tipo de archivo (si procede), navegue a una nueva ubicación (si procede) y haga clic en &lt;f1&gt;Guardar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
