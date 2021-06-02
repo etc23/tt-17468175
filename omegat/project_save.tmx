@@ -4592,8 +4592,8 @@
       <tuv lang="EN">
         <seg>Zoom percentage</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212026Z" creationid="paula" creationdate="20210526T212026Z">
-        <seg>Porcentaje de zoom</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T150848Z" creationid="paula" creationdate="20210526T212026Z">
+        <seg>Factor de escala</seg>
       </tuv>
     </tu>
     <tu>
