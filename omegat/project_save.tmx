@@ -3728,8 +3728,8 @@
       <tuv lang="EN">
         <seg>To repeat the last command applied to your document, use the shortcut &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T091813Z" creationid="JoseCarlos" creationdate="20210529T091813Z">
-        <seg>Para repetir el último comando aplicado a su documento, utilice el atajo de teclado &lt;f0&gt;Ctrl+Mayús+Y&lt;/f0&gt;.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210602T220713Z" creationid="JoseCarlos" creationdate="20210529T091813Z">
+        <seg>Para repetir el último comando aplicado a su documento, utilice el atajo de teclado &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4576,8 +4576,8 @@
       <tuv lang="EN">
         <seg>You may want to discard all the changes made in an editing session after the last document save.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210529T092355Z" creationid="JoseCarlos" creationdate="20210529T092355Z">
-        <seg>Puede que quiera descartar todos los cambios realizados en una sesión de edición después de guardar el documento por última vez.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210602T220955Z" creationid="JoseCarlos" creationdate="20210529T092355Z">
+        <seg>Puede que usted quiera descartar todos los cambios realizados en una sesión de edición después de guardar el documento por última vez.</seg>
       </tuv>
     </tu>
     <tu>
