@@ -1184,8 +1184,8 @@
       <tuv lang="EN">
         <seg>Docked toolbars can be undocked and moved to a new docked position or left as a floating toolbar.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T081519Z" creationid="paula" creationdate="20210514T142726Z">
-        <seg>Las barras de herramientas ancladas se pueden desfijar para desplazarlas a una posición diferente o dejarlas como herramientas desplegables.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T125017Z" creationid="paula" creationdate="20210514T142726Z">
+        <seg>Las barras de herramientas ancladas se pueden desfijar para desplazarlas a una posición diferente o dejarlas como barras flotantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,8 +2584,8 @@
       <tuv lang="EN">
         <seg>Moving toolbars</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T123740Z" creationid="paula" creationdate="20210514T142331Z">
-        <seg>Mover barras de herramientas</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T125043Z" creationid="paula" creationdate="20210514T142331Z">
+        <seg>Barras de herramientas móviles</seg>
       </tuv>
     </tu>
     <tu>
