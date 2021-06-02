@@ -3696,8 +3696,8 @@
       <tuv lang="EN">
         <seg>To previous editions</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T150807Z" creationid="paula" creationdate="20210526T150807Z">
-        <seg>A las ediciones anteriores</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T084616Z" creationid="paula" creationdate="20210526T150807Z">
+        <seg>De ediciones anteriores</seg>
       </tuv>
     </tu>
     <tu>
@@ -3784,8 +3784,8 @@
       <tuv lang="EN">
         <seg>To this edition</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T150725Z" creationid="paula" creationdate="20210526T150656Z">
-        <seg>En esta edición</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T080327Z" creationid="paula" creationdate="20210526T150656Z">
+        <seg>De esta edición</seg>
       </tuv>
     </tu>
     <tu>
