@@ -2032,8 +2032,8 @@
       <tuv lang="EN">
         <seg>In the Advanced tab you can also create a .zip file of your corrupted user profile which can then be uploaded to the bug tracking system where it can be further investigated by the developers.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T154835Z" creationid="Almudena" creationdate="20210526T154835Z">
-        <seg>En la pestaña Avanzado también puede crear un archivo .zip de su perfil de usuario dañado que puede subirse al sistema de seguimiento de errores donde puede ser investigado por los programadores.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T100107Z" creationid="Almudena" creationdate="20210526T154835Z">
+        <seg>En la pestaña Avanzado también puede crear un archivo .zip de su perfil de usuario dañado que puede subirse al sistema de seguimiento de errores, donde puede ser investigado por los programadores.</seg>
       </tuv>
     </tu>
     <tu>
