@@ -856,8 +856,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; to lock a docked toolbar into its docked position.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T083529Z" creationid="paula" creationdate="20210526T210308Z">
-        <seg>Haga clic en &lt;f0&gt;Bloquear posición de la barra de herramientas&lt;/f0&gt; para bloquear una barra de herramientas acoplada en su posición de acoplamiento.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T113750Z" creationid="paula" creationdate="20210526T210308Z">
+        <seg>Haga clic en &lt;f0&gt;Bloquear posición de barra de herramientas&lt;/f0&gt; para bloquear una barra de herramientas acoplada en su posición.</seg>
       </tuv>
     </tu>
     <tu>
