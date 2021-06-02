@@ -1944,8 +1944,8 @@
       <tuv lang="EN">
         <seg>In Windows only, choose &lt;f0&gt;LibreOffice (Safe Mode)&lt;/f0&gt; from the Start Menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T081704Z" creationid="Almudena" creationdate="20210526T115445Z">
-        <seg>Solo en Windows, elija &lt;f0&gt;LibreOffice (Modo seguro)&lt;/f0&gt; en el Menú Inicio.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T093706Z" creationid="Almudena" creationdate="20210526T115445Z">
+        <seg>Solo en Windows, elija &lt;f0&gt;LibreOffice (modo seguro)&lt;/f0&gt; en el Menú Inicio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3312,8 +3312,8 @@
       <tuv lang="EN">
         <seg>The following Safe Mode options get more extreme from the top down, so it is recommended that you try them successively.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T115640Z" creationid="Almudena" creationdate="20210526T115640Z">
-        <seg>Las siguientes opciones de Modo seguro se vuelven más extremas de arriba hacia abajo, por lo que se recomienda probarlas sucesivamente.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T093814Z" creationid="Almudena" creationdate="20210526T115640Z">
+        <seg>Las siguientes opciones de modo seguro se vuelven más extremas de arriba hacia abajo, por lo que se recomienda probarlas sucesivamente.</seg>
       </tuv>
     </tu>
     <tu>
