@@ -616,8 +616,8 @@
       <tuv lang="EN">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this &lt;f0&gt;Getting Started Guide&lt;/f0&gt; valuable.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T155000Z" creationid="Almudena" creationdate="20210526T155000Z">
-        <seg>Cualquier persona que quiera ponerse al día rápidamente con LibreOffice encontrará esta &lt;f0&gt;Guía de inicio&lt;/f0&gt; valiosa.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T155620Z" creationid="Almudena" creationdate="20210526T155000Z">
+        <seg>Cualquier persona que quiera ponerse al día rápidamente con LibreOffice encontrará esta &lt;f0&gt;Guía de inicio&lt;/f0&gt; útil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,8 +3640,8 @@
       <tuv lang="EN">
         <seg>To display the Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;LibreOffice Help&lt;/f1&gt; in the Help menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T160513Z" creationid="Almudena" creationdate="20210526T160513Z">
-        <seg>Para mostrar el sistema de ayuda, pulse &lt;f0&gt;F1&lt;/f0&gt; o seleccione &lt;f1&gt;Ayuda de LibreOffice&lt;/f1&gt; en el menú Ayuda.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T160226Z" creationid="Almudena" creationdate="20210526T160513Z">
+        <seg>Para mostrar el sistema de Ayuda, pulse &lt;f0&gt;F1&lt;/f0&gt; o seleccione &lt;f1&gt;Ayuda de LibreOffice&lt;/f1&gt; en el menú Ayuda.</seg>
       </tuv>
     </tu>
     <tu>
