@@ -912,8 +912,8 @@
       <tuv lang="EN">
         <seg>Click on the same button to show the Sidebar again.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212535Z" creationid="paula" creationdate="20210526T212535Z">
-        <seg>Haga clic en el mismo botón para volver a mostrar la barra lateral.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T171710Z" creationid="paula" creationdate="20210526T212535Z">
+        <seg>Haga clic en el mismo botón para volver a mostrarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3800,8 +3800,8 @@
       <tuv lang="EN">
         <seg>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the Sidebar settings drop-down list at the top of the tab bar (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212758Z" creationid="paula" creationdate="20210526T212758Z">
-        <seg>Para desacoplar la Sidebar y hacerla flotante, y para acoplar una Sidebar flotante, utilice la lista desplegable de configuración de Sidebar en la parte superior de la barra de pestañas (véase la figura &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T172632Z" creationid="paula" creationdate="20210526T212758Z">
+        <seg>Para desacoplar la barra lateral y hacerla flotante, así como para acoplar una barra lateral flotante, utilice la lista desplegable de configuración situada en la parte superior de la barra de pestañas (véase la Figura &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
