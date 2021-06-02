@@ -4232,8 +4232,8 @@
       <tuv lang="EN">
         <seg>Word &amp; character count</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T211356Z" creationid="paula" creationdate="20210526T211356Z">
-        <seg>Recuento de palabras y caracteres</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T141953Z" creationid="paula" creationdate="20210526T211356Z">
+        <seg>Contador de palabras y caracteres</seg>
       </tuv>
     </tu>
     <tu>
