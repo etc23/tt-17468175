@@ -4472,8 +4472,8 @@
       <tuv lang="EN">
         <seg>You can scroll up or down in the Start Center to locate a recently opened document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210527T064641Z" creationid="Elena" creationdate="20210527T064641Z">
-        <seg>Puede desplazarse hacia arriba o hacia abajo en el Centro de Inicio para localizar un documento abierto recientemente.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T212719Z" creationid="Elena" creationdate="20210527T064641Z">
+        <seg>Puede desplazarse hacia arriba o hacia abajo en el Centro de inicio para localizar un documento abierto recientemente.</seg>
       </tuv>
     </tu>
     <tu>
