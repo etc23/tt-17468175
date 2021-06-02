@@ -2936,8 +2936,8 @@
       <tuv lang="EN">
         <seg>See Chapter 14, Customizing LibreOffice, for more information on installing extensions and add-ons.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210514T141653Z" creationid="Almudena" creationdate="20210514T141653Z">
-        <seg>Consulte el capítulo 14, Personalización de LibreOffice, para obtener más información sobre la instalación de extensiones y complementos.</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210602T161954Z" creationid="Almudena" creationdate="20210514T141653Z">
+        <seg>Consulte el capítulo 14, Personalizar de LibreOffice, para obtener más información sobre la instalación de extensiones y complementos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3584,8 +3584,8 @@
       <tuv lang="EN">
         <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T102845Z" creationid="paula" creationdate="20210526T165039Z">
-        <seg>Para acceder a las opciones de personalización de una barra de herramientas, haga clic con el botón derecho del ratón en un espacio vacío entre los iconos de una barra de herramientas para abrir un menú contextual de la siguiente manera:</seg>
+      <tuv lang="ES" changeid="Almudena" changedate="20210602T162042Z" creationid="paula" creationdate="20210526T165039Z">
+        <seg>Para acceder a las opciones de personalizar una barra de herramientas, haga clic con el botón derecho del ratón en un espacio vacío entre los iconos de una barra de herramientas para abrir un menú contextual de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
