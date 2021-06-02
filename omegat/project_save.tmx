@@ -992,8 +992,8 @@
       <tuv lang="EN">
         <seg>Clicking on this percentage figure opens the Zoom &amp; View Layout dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T212048Z" creationid="paula" creationdate="20210526T212048Z">
-        <seg>Al hacer clic en esta cifra de porcentaje se abre el cuadro de diálogo Zoom y diseño de la vista.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T151050Z" creationid="paula" creationdate="20210526T212048Z">
+        <seg>Al hacer clic en este porcentaje se abre el cuadro de diálogo Diseño de vista y escala.</seg>
       </tuv>
     </tu>
     <tu>
