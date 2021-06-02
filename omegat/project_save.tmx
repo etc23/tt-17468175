@@ -1056,8 +1056,8 @@
       <tuv lang="EN">
         <seg>Context menus may display an applicable keyboard shortcut if one has been set; you can toggle this visibility off or on in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View &gt; Visibility&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T210627Z" creationid="paula" creationdate="20210526T210627Z">
-        <seg>Los menús contextuales pueden mostrar un atajo de teclado aplicable si se ha establecido uno; puede desactivar o activar esta visibilidad en &lt;f0&gt;Herramientas &gt; Opciones &gt; LibreOffice &gt; Vista &gt; Visibilidad&lt;/f0&gt;.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T134334Z" creationid="paula" creationdate="20210526T210627Z">
+        <seg>Los menús contextuales pueden mostrar un atajo de teclado aplicable si se ha establecido uno. Se puede desactivar o activar esta visibilidad en &lt;f0&gt;Herramientas &gt; Opciones &gt; LibreOffice &gt; Ver &gt; Visibilidad&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
