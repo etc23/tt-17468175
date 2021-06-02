@@ -3584,8 +3584,8 @@
       <tuv lang="EN">
         <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T165039Z" creationid="paula" creationdate="20210526T165039Z">
-        <seg>Para acceder a las opciones de personalización de una barra de herramientas, haga clic con el botón derecho del ratón en un espacio vacío entre los iconos de una barra de herramientas para abrir un menú contextual como el siguiente:</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T102845Z" creationid="paula" creationdate="20210526T165039Z">
+        <seg>Para acceder a las opciones de personalización de una barra de herramientas, haga clic con el botón derecho del ratón en un espacio vacío entre los iconos de una barra de herramientas para abrir un menú contextual de la siguiente manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4288,8 +4288,8 @@
       <tuv lang="EN">
         <seg>You can also add icons and create new toolbars, as described in Chapter 14, Customizing LibreOffice.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T165036Z" creationid="paula" creationdate="20210526T165036Z">
-        <seg>También puede añadir iconos y crear nuevas barras de herramientas, como se describe en el Capítulo 14, Personalización de LibreOffice.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T102232Z" creationid="paula" creationdate="20210526T165036Z">
+        <seg>También puede añadir iconos y crear nuevas barras de herramientas, como se describe en el Capítulo 14, Personalizar LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
