@@ -488,8 +488,8 @@
       <tuv lang="EN">
         <seg>A context menu can be the easiest way to reach a function, especially if you are not sure where the function is located in the menus or toolbars.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T210558Z" creationid="paula" creationdate="20210526T210558Z">
-        <seg>Un menú contextual puede ser la forma más fácil de llegar a una función, especialmente si no está seguro de dónde se encuentra la función en los menús o barras de herramientas.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T133219Z" creationid="paula" creationdate="20210526T210558Z">
+        <seg>Un menú contextual es quizás la forma más fácil de llegar a una función, especialmente si no se está seguro de dónde se encuentra la función en los menús o barras de herramientas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,8 +2976,8 @@
       <tuv lang="EN">
         <seg>See “&lt;bf2&gt;Moving toolbars&lt;/bf2&gt;” and “&lt;bf3&gt;Floating toolbars&lt;/bf3&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T125300Z" creationid="paula" creationdate="20210526T161057Z">
-        <seg>Consulte “&lt;bf2&gt;Barras de herramientas móviles&lt;/bf2&gt;” y “&lt;bf3&gt;barras de herramientas flotantes&lt;/bf3&gt;” de debajo para más información sobre cómo mover y desplegar estas barras de herramientas creadas a partir de paletas de herramientas.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T125446Z" creationid="paula" creationdate="20210526T161057Z">
+        <seg>Consulte “&lt;bf2&gt;Barras de herramientas móviles&lt;/bf2&gt;” y “&lt;bf3&gt;Barras de herramientas flotantes&lt;/bf3&gt;” de debajo para más información sobre cómo mover y desplegar estas barras de herramientas creadas a partir de paletas de herramientas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4104,8 +4104,8 @@
       <tuv lang="EN">
         <seg>When a context menu opens, the functions or options available will depend on the object that has been selected.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T210534Z" creationid="paula" creationdate="20210526T210534Z">
-        <seg>Cuando se abre un menú contextual, las funciones u opciones disponibles dependerán del objeto que se haya seleccionado.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T132607Z" creationid="paula" creationdate="20210526T210534Z">
+        <seg>Cuando se abre un menú contextual las funciones u opciones disponibles dependerán del objeto que se haya seleccionado.</seg>
       </tuv>
     </tu>
     <tu>
