@@ -528,8 +528,8 @@
       <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T152140Z" creationid="paula" creationdate="20210526T151938Z">
-        <seg>Acceder a las opciones de configuración</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T091023Z" creationid="paula" creationdate="20210526T151938Z">
+        <seg>Accede a las opciones de configuración</seg>
       </tuv>
     </tu>
     <tu>
@@ -2712,16 +2712,16 @@
       <tuv lang="EN">
         <seg>Open a context menu</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210527T085040Z" creationid="Almudena" creationdate="20210527T085040Z">
-        <seg>Abrir menú contextual</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T091132Z" creationid="Almudena" creationdate="20210527T085040Z">
+        <seg>Abre menú contextual</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open the Styles deck in the Sidebar</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T153351Z" creationid="paula" creationdate="20210526T153351Z">
-        <seg>Abre el mazo de Estilos en la barra lateral</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T091925Z" creationid="paula" creationdate="20210526T153351Z">
+        <seg>Abre el mazo de Estilos de la barra lateral</seg>
       </tuv>
     </tu>
     <tu>
@@ -2872,8 +2872,8 @@
       <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T151944Z" creationid="paula" creationdate="20210526T151944Z">
-        <seg>Haga clic con el botón derecho del ratón en</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T091052Z" creationid="paula" creationdate="20210526T151944Z">
+        <seg>Clic con el botón derecho del ratón</seg>
       </tuv>
     </tu>
     <tu>
