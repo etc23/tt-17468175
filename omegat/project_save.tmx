@@ -2208,8 +2208,8 @@
       <tuv lang="EN">
         <seg>It is similar in Writer, Calc, Impress, and Draw, but each LibreOffice component includes some component-specific items.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T210858Z" creationid="paula" creationdate="20210526T210858Z">
-        <seg>Es similar en Writer, Calc, Impress y Draw, pero cada componente de LibreOffice incluye algunos elementos específicos del componente.</seg>
+      <tuv lang="ES" changeid="JoseCarlos" changedate="20210602T135831Z" creationid="paula" creationdate="20210526T210858Z">
+        <seg>Es similar en Writer, Calc, Impress y Draw, pero cada componente de LibreOffice incluye algunos elementos específicos propios.</seg>
       </tuv>
     </tu>
     <tu>
