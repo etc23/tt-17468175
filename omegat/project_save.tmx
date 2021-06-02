@@ -2408,8 +2408,8 @@
       <tuv lang="EN">
         <seg>LibreOffice is distributed under &lt;i0/&gt;the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210526T162402Z" creationid="Almudena" creationdate="20210526T162402Z">
-        <seg>LibreOffice se distribuye bajo &lt;i0/&gt;la Licencia Pública de Mozilla (MPL) aprobada por la Iniciativa de Código Abierto (OSI).</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T160559Z" creationid="Almudena" creationdate="20210526T162402Z">
+        <seg>LibreOffice se distribuye bajo &lt;i0/&gt;la Licencia Pública de Mozilla (MPL) aprobada por la Iniciativa para el Código Abierto (OSI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,8 +2704,8 @@
       <tuv lang="EN">
         <seg>Open Source Initiative (OSI)</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T081537Z" creationid="Almudena" creationdate="20210526T162341Z">
-        <seg>Iniciativa de Código Abierto (OSI)</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210602T160446Z" creationid="Almudena" creationdate="20210526T162341Z">
+        <seg>Iniciativa para el Código Abierto (OSI)</seg>
       </tuv>
     </tu>
     <tu>
