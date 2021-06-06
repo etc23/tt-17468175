@@ -24,24 +24,24 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Apply user data&lt;/f0&gt; – saves the full name of the user with the file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132020Z" creationid="JoseCarlos" creationdate="20210530T132020Z">
-        <seg>&lt;f0&gt;Aplicar datos de usuario&lt;/f0&gt;: guarda el nombre completo del usuario con el archivo.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125556Z" creationid="JoseCarlos" creationdate="20210530T132020Z">
+        <seg>&lt;f0&gt;Aplicar datos de usuario&lt;/f0&gt; – guarda el nombre completo del usuario con el archivo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Change Password&lt;/f0&gt; – opens a dialog to change the password.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T084326Z" creationid="JoseCarlos" creationdate="20210530T084326Z">
-        <seg>&lt;f0&gt;Cambiar contraseña&lt;/f0&gt;: abre un cuadro de diálogo para cambiar la contraseña.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125546Z" creationid="JoseCarlos" creationdate="20210530T084326Z">
+        <seg>&lt;f0&gt;Cambiar contraseña&lt;/f0&gt; – abre un cuadro de diálogo para cambiar la contraseña.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Comments&lt;/f0&gt; – enter comments to help identify the document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210602T221930Z" creationid="JoseCarlos" creationdate="20210530T134446Z">
-        <seg>&lt;f0&gt;Comentarios&lt;/f0&gt;: introduzca comentarios para ayudar a identificar el documento.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125643Z" creationid="JoseCarlos" creationdate="20210530T134446Z">
+        <seg>&lt;f0&gt;Comentarios&lt;/f0&gt; – introduzca comentarios para ayudar a identificar el documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keywords&lt;/f0&gt; – enter the words that you want to use to index the content of the document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210602T221920Z" creationid="JoseCarlos" creationdate="20210530T134159Z">
-        <seg>&lt;f0&gt;Palabras clave&lt;/f0&gt;: introduzca las palabras que se deseen utilizar para indexar el contenido del documento.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125635Z" creationid="JoseCarlos" creationdate="20210530T134159Z">
+        <seg>&lt;f0&gt;Palabras clave&lt;/f0&gt; – introduzca las palabras que se deseen utilizar para indexar el contenido del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Open file read-only&lt;/f0&gt; – select to allow this document to be opened only in read-only mode.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114502Z" creationid="JoseCarlos" creationdate="20210531T114502Z">
-        <seg>&lt;f0&gt;Abrir documento solo para lectura&lt;/f0&gt;: seleccione esta opción para permitir que este documento se abra únicamente en modo de solo lectura.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125725Z" creationid="JoseCarlos" creationdate="20210531T114502Z">
+        <seg>&lt;f0&gt;Abrir documento solo para lectura&lt;/f0&gt; – seleccione esta opción para permitir que este documento se abra únicamente en modo de solo lectura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,16 +256,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Record changes&lt;/f0&gt; – select to require that all changes be recorded.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210531T114908Z" creationid="JoseCarlos" creationdate="20210531T114908Z">
-        <seg>&lt;f0&gt;Registrar los cambios&lt;/f0&gt;: seleccione esta opción para exigir que se registren todos los cambios.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125747Z" creationid="JoseCarlos" creationdate="20210531T114908Z">
+        <seg>&lt;f0&gt;Registrar los cambios&lt;/f0&gt; – seleccione esta opción para exigir que se registren todos los cambios.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reset Properties&lt;/f0&gt; – resets the editing time to zero, the creation date to the current date and time, and the version number to 1.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132957Z" creationid="JoseCarlos" creationdate="20210530T132957Z">
-        <seg>&lt;f0&gt;Restablecer propiedades&lt;/f0&gt;: restablece el tiempo de edición a cero, la fecha de creación a la fecha y hora actuales y el número de versión a 1.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125617Z" creationid="JoseCarlos" creationdate="20210530T132957Z">
+        <seg>&lt;f0&gt;Restablecer propiedades&lt;/f0&gt; – restablece el tiempo de edición a cero, la fecha de creación a la fecha y hora actuales y el número de versión a 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save preview image with this document&lt;/f0&gt; – saves a thumbnail.png inside the document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T132400Z" creationid="JoseCarlos" creationdate="20210530T132400Z">
-        <seg>&lt;f0&gt;Guardar imagen de vista previa con este documento&lt;/f0&gt;: guarda una miniatura.png dentro del documento.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125609Z" creationid="JoseCarlos" creationdate="20210530T132400Z">
+        <seg>&lt;f0&gt;Guardar imagen de vista previa con este documento&lt;/f0&gt; – guarda una miniatura.png dentro del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,8 +368,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Subject&lt;/f0&gt; – enter a subject for the document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210602T221913Z" creationid="JoseCarlos" creationdate="20210530T133630Z">
-        <seg>&lt;f0&gt;Asunto&lt;/f0&gt;: introduzca un asunto para el documento.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125630Z" creationid="JoseCarlos" creationdate="20210530T133630Z">
+        <seg>&lt;f0&gt;Asunto&lt;/f0&gt; – introduzca un asunto para el documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Title&lt;/f0&gt; – enter a title for the document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210602T221909Z" creationid="JoseCarlos" creationdate="20210530T133602Z">
-        <seg>&lt;f0&gt;Título&lt;/f0&gt;: introduzca un título para el documento.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125625Z" creationid="JoseCarlos" creationdate="20210530T133602Z">
+        <seg>&lt;f0&gt;Título&lt;/f0&gt; – introduzca un título para el documento.</seg>
       </tuv>
     </tu>
     <tu>
