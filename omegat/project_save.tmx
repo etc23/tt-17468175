@@ -3120,8 +3120,8 @@
       <tuv lang="EN">
         <seg>Some of these additional toolbars are context sensitive and will automatically appear depending on the position of the cursor.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210516T202744Z" creationid="paula" creationdate="20210516T202542Z">
-        <seg>Algunas de estas barras adicionales disponen de ayuda contextual y aparecerán automáticamente dependiento de la posición del cursor.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T124739Z" creationid="paula" creationdate="20210516T202542Z">
+        <seg>Algunas de estas barras adicionales disponen de ayuda contextual y aparecerán automáticamente dependiendo de la posición del cursor.</seg>
       </tuv>
     </tu>
     <tu>
