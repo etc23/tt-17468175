@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Digital Signatures&lt;/f0&gt; – opens the Digital Signatures dialog where you can manage digital signatures for the current document.</seg>
       </tuv>
-      <tuv lang="ES" changeid="JoseCarlos" changedate="20210530T131807Z" creationid="JoseCarlos" creationdate="20210530T131807Z">
-        <seg>&lt;f0&gt;Firmas digitales&lt;/f0&gt;: abre el cuadro de diálogo Firmas digitales, donde se pueden gestionar las firmas digitales para el documento actual.</seg>
+      <tuv lang="ES" changeid="Elena" changedate="20210606T125537Z" creationid="JoseCarlos" creationdate="20210530T131807Z">
+        <seg>&lt;f0&gt;Firmas digitales&lt;/f0&gt; – abre el cuadro de diálogo Firmas digitales, donde se pueden gestionar las firmas digitales para el documento actual.</seg>
       </tuv>
     </tu>
     <tu>
