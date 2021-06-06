@@ -960,8 +960,8 @@
       <tuv lang="EN">
         <seg>Click the small triangle to the right of the &lt;f0&gt;Open&lt;/f0&gt; icon and select from a list of recently opened documents, click &lt;f1&gt;Open Template&lt;/f1&gt; to select a template, or click &lt;f2&gt;Open Remote File&lt;/f2&gt; to open a remote file.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Almudena" changedate="20210601T224248Z" creationid="Elena" creationdate="20210527T064524Z">
-        <seg>Haga clic en el pequeño triángulo a la derecha del icono &lt;f0&gt;Abrir&lt;/f0&gt; y seleccione de una lista de documentos abiertos recientemente, haga clic en &lt;f1&gt;Abrir plantilla&lt;/f1&gt; para seleccionar una plantilla o haga clic en &lt;f2&gt;Abrir archivo remoto&lt;/f2&gt; para abrir un archivo remoto.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T120915Z" creationid="Elena" creationdate="20210527T064524Z">
+        <seg>Haga clic en el pequeño triángulo a la derecha del icono &lt;f0&gt;Abrir&lt;/f0&gt; y seleccione de una lista de documentos abiertos recientemente, haga clic en &lt;f1&gt;Abrir plantilla&lt;/f1&gt; para seleccionar una plantilla o haga clic en &lt;f2&gt;Abrir Archivo remoto&lt;/f2&gt; para abrir un Archivo remoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,8 +1584,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote&lt;/f1&gt; on the Menu bar to reach the corresponding open dialog.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210602T144229Z" creationid="Elena" creationdate="20210527T064305Z">
-        <seg>Vaya a &lt;f0&gt;Archivo &gt; Abrir&lt;/f0&gt; o &lt;f1&gt;Archivo &gt; Abrir archivo remoto&lt;/f1&gt; en la barra de menú para acceder al cuadro de diálogo de apertura correspondiente.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T120807Z" creationid="Elena" creationdate="20210527T064305Z">
+        <seg>Vaya a &lt;f0&gt;Archivo &gt; Abrir&lt;/f0&gt; o &lt;f1&gt;Archivo &gt; Abrir Archivo remoto&lt;/f1&gt; en la barra de menú para acceder al cuadro de diálogo de apertura correspondiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,8 +3248,8 @@
       <tuv lang="EN">
         <seg>The Remote Files dialog (Figure &lt;t0&gt;12&lt;/t0&gt;) which then appears has many parts.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210602T151912Z" creationid="Elena" creationdate="20210526T090902Z">
-        <seg>El cuadro de diálogo Archivos Remotos (figura &lt;t0&gt;12&lt;/t0&gt;) que aparece entonces tiene varias partes.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T120939Z" creationid="Elena" creationdate="20210526T090902Z">
+        <seg>El cuadro de diálogo Archivos remotos (figura &lt;t0&gt;12&lt;/t0&gt;) que aparece entonces tiene varias partes.</seg>
       </tuv>
     </tu>
     <tu>
