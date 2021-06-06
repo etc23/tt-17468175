@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – commands for controlling the display of the document such as Toolbars, Text Boundaries, and Zoom.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Elena" changedate="20210526T081602Z" creationid="Elena" creationdate="20210526T081602Z">
-        <seg>&lt;f0&gt;Ver&lt;/f0&gt; – comandos para controlar la visualizaicón del documento, como por ejemplo Barras de herramientas, Límites de texto y Zoom.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T124149Z" creationid="Elena" creationdate="20210526T081602Z">
+        <seg>&lt;f0&gt;Ver&lt;/f0&gt; – comandos para controlar la visualización del documento, como por ejemplo Barras de herramientas, Límites de texto y Zoom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,16 +3624,16 @@
       <tuv lang="EN">
         <seg>To close a toolbar, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close Toolbar&lt;/f1&gt; in the context menu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T085655Z" creationid="Almudena" creationdate="20210525T220808Z">
-        <seg>Para cerrar una barra de herramientas, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menú y desmarque la barra de herramientas o bien haga click derecho en un espacio vacío entre los iconos de una barra de herramientas y seleccione &lt;f1&gt;Cerrar barra de herramientas&lt;/f1&gt; en el menú contextual.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T124250Z" creationid="Almudena" creationdate="20210525T220808Z">
+        <seg>Para cerrar una barra de herramientas, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menú y desmarque la barra de herramientas o bien haga clic derecho en un espacio vacío entre los iconos de una barra de herramientas y seleccione &lt;f1&gt;Cerrar barra de herramientas&lt;/f1&gt; en el menú contextual.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To display or hide toolbars in a standard setup, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the submenu.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210527T085642Z" creationid="Almudena" creationdate="20210525T220431Z">
-        <seg>Para mostrar u ocultar las barras de herramientas en una configuración estándar, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menú y después haga click en el nombre de una barra de herramientas del submenú.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T124237Z" creationid="Almudena" creationdate="20210525T220431Z">
+        <seg>Para mostrar u ocultar las barras de herramientas en una configuración estándar, vaya a &lt;f0&gt;Ver &gt; Barra de herramientas&lt;/f0&gt; en la barra de menú y después haga clic en el nombre de una barra de herramientas del submenú.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,8 +3672,8 @@
       <tuv lang="EN">
         <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
       </tuv>
-      <tuv lang="ES" changeid="paula" changedate="20210526T112453Z" creationid="paula" creationdate="20210516T202025Z">
-        <seg>Para desplazar una barra de herramientas anclada, haga click en la barra de su título y arrástrela hasta una nueva posición flotante o ancle la barra de herramientas en la parte superior o inferior de la ventana principal.</seg>
+      <tuv lang="ES" changeid="paula" changedate="20210606T124538Z" creationid="paula" creationdate="20210516T202025Z">
+        <seg>Para desplazar una barra de herramientas anclada, haga clic en la barra de su título y arrástrela hasta una nueva posición flotante o ancle la barra de herramientas en la parte superior o inferior de la ventana principal.</seg>
       </tuv>
     </tu>
     <tu>
